@@ -1,169 +1,1922 @@
-2026-01-21 17:37:34,663 - INFO - Added file: C:/Users/Lance/Downloads/2024 01 Selections/iMak_2024 01 SL Selections.xlsx
-2026-01-21 17:37:38,929 - INFO - Set output path: C:/Users/Lance/Downloads/2024 01 Selections/master.xlsx
-2026-01-21 17:37:39,364 - INFO - Processing file: C:/Users/Lance/Downloads/2024 01 Selections/iMak_2024 01 SL Selections.xlsx
-2026-01-21 17:37:39,372 - INFO - Processing preferences for: iMak_2024 01 SL Selections
-2026-01-21 17:37:39,383 - INFO - iMak_2024 01 SL Selections shift ranges - Min: None, Ideal: None, Max: None
-2026-01-21 17:37:39,383 - ERROR - CRITICAL: iMak_2024 01 SL Selections in file C:/Users/Lance/Downloads/2024 01 Selections/iMak_2024 01 SL Selections.xlsx has missing shift range values!
-2026-01-21 17:37:39,385 - ERROR -   Min shifts (B42): None
-2026-01-21 17:37:39,385 - ERROR -   Ideal shifts (B43): None
-2026-01-21 17:37:39,386 - ERROR -   Max shifts (B44): None
-2026-01-21 17:37:39,386 - WARNING -   Using defaults for iMak_2024 01 SL Selections: Min=0, Max=31
-2026-01-21 17:37:39,809 - INFO - Successfully processed iMak_2024 01 SL Selections: 101 preferences loaded
-2026-01-21 17:37:39,814 - INFO - Starting schedule generation...
-2026-01-21 17:37:39,814 - INFO - Total physicians: 1
-2026-01-21 17:37:39,814 - INFO - Total dates: 31
-2026-01-21 17:37:39,814 - INFO - Date range: 2024-01-01 to 2024-01-31
-2026-01-21 17:37:39,881 - INFO - Schedule saved to C:/Users/Lance/Downloads/2024 01 Selections/master.xlsx
-2026-01-21 18:13:08,557 - INFO - Processing file: C:/Users/Lance/Downloads/2024 01 Selections/iMak_2024 01 SL Selections.xlsx
-2026-01-21 18:13:08,563 - INFO - Processing preferences for: iMak
-2026-01-21 18:13:08,576 - INFO - iMak shift ranges - Min: None, Ideal: None, Max: None
-2026-01-21 18:13:08,576 - ERROR - CRITICAL: iMak in file C:/Users/Lance/Downloads/2024 01 Selections/iMak_2024 01 SL Selections.xlsx has missing shift range values!
-2026-01-21 18:13:08,576 - ERROR -   Min shifts (B42): None
-2026-01-21 18:13:08,576 - ERROR -   Ideal shifts (B43): None
-2026-01-21 18:13:08,576 - ERROR -   Max shifts (B44): None
-2026-01-21 18:13:08,576 - WARNING -   Using defaults for iMak: Min=0, Max=31
-2026-01-21 18:13:08,976 - INFO - Successfully processed iMak: 101 preferences loaded
-2026-01-21 18:13:08,977 - INFO - Starting schedule generation...
-2026-01-21 18:13:08,977 - INFO - Total physicians: 1
-2026-01-21 18:13:08,977 - INFO - Total dates: 31
-2026-01-21 18:13:08,977 - INFO - Date range: 2024-01-01 to 2024-01-31
-2026-01-21 18:13:09,044 - INFO - Schedule saved to C:/Users/Lance/Downloads/2024 01 Selections/master.xlsx
-2026-01-21 18:18:55,742 - INFO - Added file: C:/Users/Lance/Downloads/2024 01 Selections/Da Qi_2024 01 SL Selections Template.xlsx
-2026-01-21 18:18:55,742 - INFO - Added file: C:/Users/Lance/Downloads/2024 01 Selections/Duerksen_2025 10 SL Selections Template.xlsx
-2026-01-21 18:18:55,742 - INFO - Added file: C:/Users/Lance/Downloads/2024 01 Selections/Duic_2024 01 SL Revisiion #2 Selections Template.xlsx
-2026-01-21 18:18:55,742 - INFO - Added file: C:/Users/Lance/Downloads/2024 01 Selections/tan_.xlsx
-2026-01-21 18:18:55,742 - INFO - Added file: C:/Users/Lance/Downloads/2024 01 Selections/Chan_2024 01 SL Selections.xlsx
-2026-01-21 18:18:55,742 - INFO - Added file: C:/Users/Lance/Downloads/2024 01 Selections/Charnish_2024 01 SL excel.xlsx
-2026-01-21 18:18:55,742 - INFO - Added file: C:/Users/Lance/Downloads/2024 01 Selections/Feng_2024 01 SL Selections Template.xlsx
-2026-01-21 18:18:55,742 - INFO - Added file: C:/Users/Lance/Downloads/2024 01 Selections/Gannage 2024 01 SL Selections Template_REVISED .xlsx
-2026-01-21 18:18:55,742 - INFO - Added file: C:/Users/Lance/Downloads/2024 01 Selections/GRENIER JANUARY.xlsx
-2026-01-21 18:18:55,742 - INFO - Added file: C:/Users/Lance/Downloads/2024 01 Selections/Ho_2024 01 SL Selections Template-.xlsx
-2026-01-21 18:18:55,743 - INFO - Added file: C:/Users/Lance/Downloads/2024 01 Selections/Hui_2024 01 SL Selections 1a.xlsx
-2026-01-21 18:18:55,743 - INFO - Added file: C:/Users/Lance/Downloads/2024 01 Selections/IKONNIKOV_2024 01 SL Selections Template.xlsx
-2026-01-21 18:18:55,743 - INFO - Added file: C:/Users/Lance/Downloads/2024 01 Selections/Lau_2024 01 SL Selections Template.xlsx
-2026-01-21 18:18:55,743 - INFO - Added file: C:/Users/Lance/Downloads/2024 01 Selections/Lee_2024 01 SL Selections Template copy.xlsx
-2026-01-21 18:18:55,743 - INFO - Added file: C:/Users/Lance/Downloads/2024 01 Selections/Leung_2024 01 SL Selections Template.xlsx
-2026-01-21 18:18:55,743 - INFO - Added file: C:/Users/Lance/Downloads/2024 01 Selections/Phalpher_2024 01 SL Selections Template.xlsx
-2026-01-21 18:18:55,743 - INFO - Added file: C:/Users/Lance/Downloads/2024 01 Selections/Puri_2024 01.xlsx
-2026-01-21 18:18:55,743 - INFO - Added file: C:/Users/Lance/Downloads/2024 01 Selections/Shin_2024 01 SL Selections.xlsx
-2026-01-21 18:18:55,743 - INFO - Added file: C:/Users/Lance/Downloads/2024 01 Selections/SHUM_2024 01 SL Selections Template-.xlsx
-2026-01-21 18:18:55,743 - INFO - Added file: C:/Users/Lance/Downloads/2024 01 Selections/Silverstein_2024 01 Revised Selections Template.xlsx
-2026-01-21 18:18:55,743 - INFO - Added file: C:/Users/Lance/Downloads/2024 01 Selections/Sommer_2024 01 SL Selections.xlsx
-2026-01-21 18:18:55,743 - INFO - Added file: C:/Users/Lance/Downloads/2024 01 Selections/Topaz_2024 01 SL Selections Template.xlsx
-2026-01-21 18:18:55,744 - INFO - Added file: C:/Users/Lance/Downloads/2024 01 Selections/Waghmare_2024 01 SL Selections Template.xlsx
-2026-01-21 18:18:55,744 - INFO - Added file: C:/Users/Lance/Downloads/2024 01 Selections/Yue_2024 01 SL Selections Template.xlsx
-2026-01-21 18:18:58,128 - INFO - Processing file: C:/Users/Lance/Downloads/2024 01 Selections/iMak_2024 01 SL Selections.xlsx
-2026-01-21 18:18:58,135 - INFO - Processing preferences for: iMak
-2026-01-21 18:18:58,147 - INFO - iMak shift ranges - Min: None, Ideal: None, Max: None
-2026-01-21 18:18:58,147 - ERROR - CRITICAL: iMak in file C:/Users/Lance/Downloads/2024 01 Selections/iMak_2024 01 SL Selections.xlsx has missing shift range values!
-2026-01-21 18:18:58,148 - ERROR -   Min shifts (B42): None
-2026-01-21 18:18:58,148 - ERROR -   Ideal shifts (B43): None
-2026-01-21 18:18:58,148 - ERROR -   Max shifts (B44): None
-2026-01-21 18:18:58,148 - WARNING -   Using defaults for iMak: Min=0, Max=31
-2026-01-21 18:18:58,560 - INFO - Successfully processed iMak: 101 preferences loaded
-2026-01-21 18:18:58,560 - INFO - Processing file: C:/Users/Lance/Downloads/2024 01 Selections/Da Qi_2024 01 SL Selections Template.xlsx
-2026-01-21 18:18:58,566 - INFO - Processing preferences for: Da Qi
-2026-01-21 18:18:58,578 - INFO - Da Qi shift ranges - Min: None, Ideal: 14, Max: 15
-2026-01-21 18:18:58,578 - ERROR - CRITICAL: Da Qi in file C:/Users/Lance/Downloads/2024 01 Selections/Da Qi_2024 01 SL Selections Template.xlsx has missing shift range values!
-2026-01-21 18:18:58,578 - ERROR -   Min shifts (B42): None
-2026-01-21 18:18:58,578 - ERROR -   Ideal shifts (B43): 14
-2026-01-21 18:18:58,578 - ERROR -   Max shifts (B44): 15
-2026-01-21 18:18:58,578 - WARNING -   Using defaults for Da Qi: Min=0, Max=15
-2026-01-21 18:18:59,006 - INFO - Successfully processed Da Qi: 279 preferences loaded
-2026-01-21 18:18:59,006 - INFO - Processing file: C:/Users/Lance/Downloads/2024 01 Selections/Duerksen_2025 10 SL Selections Template.xlsx
-2026-01-21 18:18:59,013 - INFO - Processing preferences for: Duerksen
-2026-01-21 18:18:59,024 - INFO - Duerksen shift ranges - Min: 2, Ideal: 4, Max: 5
-2026-01-21 18:18:59,435 - INFO - Successfully processed Duerksen: 279 preferences loaded
-2026-01-21 18:18:59,435 - INFO - Processing file: C:/Users/Lance/Downloads/2024 01 Selections/Duic_2024 01 SL Revisiion #2 Selections Template.xlsx
-2026-01-21 18:18:59,441 - INFO - Processing preferences for: Duic
-2026-01-21 18:18:59,453 - INFO - Duic shift ranges - Min: 11, Ideal: 12, Max: 16
-2026-01-21 18:18:59,871 - INFO - Successfully processed Duic: 54 preferences loaded
-2026-01-21 18:18:59,871 - INFO - Processing file: C:/Users/Lance/Downloads/2024 01 Selections/tan_.xlsx
-2026-01-21 18:18:59,877 - INFO - Processing preferences for: Tan
-2026-01-21 18:18:59,888 - INFO - Tan shift ranges - Min: 10, Ideal: 12, Max: 14
-2026-01-21 18:19:00,303 - INFO - Successfully processed Tan: 161 preferences loaded
-2026-01-21 18:19:00,303 - INFO - Processing file: C:/Users/Lance/Downloads/2024 01 Selections/Chan_2024 01 SL Selections.xlsx
-2026-01-21 18:19:00,319 - INFO - Processing preferences for: Chan
-2026-01-21 18:19:00,331 - INFO - Chan shift ranges - Min: 12, Ideal: 12, Max: 13
-2026-01-21 18:19:00,726 - INFO - Successfully processed Chan: 35 preferences loaded
-2026-01-21 18:19:00,726 - INFO - Processing file: C:/Users/Lance/Downloads/2024 01 Selections/Charnish_2024 01 SL excel.xlsx
-2026-01-21 18:19:00,744 - INFO - Processing preferences for: Charnish
-2026-01-21 18:19:00,756 - INFO - Charnish shift ranges - Min: 3, Ideal: 4, Max: 5
-2026-01-21 18:19:01,193 - INFO - Successfully processed Charnish: 45 preferences loaded
-2026-01-21 18:19:01,193 - INFO - Processing file: C:/Users/Lance/Downloads/2024 01 Selections/Feng_2024 01 SL Selections Template.xlsx
-2026-01-21 18:19:01,209 - INFO - Processing preferences for: Feng
-2026-01-21 18:19:01,220 - INFO - Feng shift ranges - Min: 5, Ideal: 5, Max: 5
-2026-01-21 18:19:01,614 - INFO - Successfully processed Feng: 98 preferences loaded
-2026-01-21 18:19:01,614 - INFO - Processing file: C:/Users/Lance/Downloads/2024 01 Selections/Gannage 2024 01 SL Selections Template_REVISED .xlsx
-2026-01-21 18:19:01,633 - INFO - Processing preferences for: Gannage
-2026-01-21 18:19:01,646 - INFO - Gannage shift ranges - Min: 13, Ideal: 14, Max: 16
-2026-01-21 18:19:02,091 - INFO - Successfully processed Gannage: 132 preferences loaded
-2026-01-21 18:19:02,091 - INFO - Processing file: C:/Users/Lance/Downloads/2024 01 Selections/GRENIER JANUARY.xlsx
-2026-01-21 18:19:02,097 - INFO - Processing preferences for: Grenier
-2026-01-21 18:19:02,108 - INFO - Grenier shift ranges - Min: 5, Ideal: 5, Max: 5
-2026-01-21 18:19:02,515 - INFO - Successfully processed Grenier: 16 preferences loaded
-2026-01-21 18:19:02,515 - INFO - Processing file: C:/Users/Lance/Downloads/2024 01 Selections/Ho_2024 01 SL Selections Template-.xlsx
-2026-01-21 18:19:02,529 - INFO - Processing preferences for: Ho
-2026-01-21 18:19:02,541 - INFO - Ho shift ranges - Min: 14, Ideal: 14, Max: 14
-2026-01-21 18:19:02,944 - INFO - Successfully processed Ho: 14 preferences loaded
-2026-01-21 18:19:02,945 - INFO - Processing file: C:/Users/Lance/Downloads/2024 01 Selections/Hui_2024 01 SL Selections 1a.xlsx
-2026-01-21 18:19:02,951 - INFO - Processing preferences for: Hui
-2026-01-21 18:19:02,961 - INFO - Hui shift ranges - Min: 10, Ideal: 13, Max: 18
-2026-01-21 18:19:03,324 - INFO - Successfully processed Hui: 43 preferences loaded
-2026-01-21 18:19:03,324 - INFO - Processing file: C:/Users/Lance/Downloads/2024 01 Selections/IKONNIKOV_2024 01 SL Selections Template.xlsx
-2026-01-21 18:19:03,338 - INFO - Processing preferences for: Ikonnikov
-2026-01-21 18:19:03,351 - INFO - Ikonnikov shift ranges - Min: 10, Ideal: 12, Max: 15
-2026-01-21 18:19:03,781 - INFO - Successfully processed Ikonnikov: 194 preferences loaded
-2026-01-21 18:19:03,782 - INFO - Processing file: C:/Users/Lance/Downloads/2024 01 Selections/Lau_2024 01 SL Selections Template.xlsx
-2026-01-21 18:19:03,795 - INFO - Processing preferences for: Lau
-2026-01-21 18:19:03,807 - INFO - Lau shift ranges - Min: 15, Ideal: 17, Max: 18
-2026-01-21 18:19:04,226 - INFO - Successfully processed Lau: 130 preferences loaded
-2026-01-21 18:19:04,227 - INFO - Processing file: C:/Users/Lance/Downloads/2024 01 Selections/Lee_2024 01 SL Selections Template copy.xlsx
-2026-01-21 18:19:04,246 - INFO - Processing preferences for: Lee
-2026-01-21 18:19:04,258 - INFO - Lee shift ranges - Min: 14, Ideal: 14, Max: 16
-2026-01-21 18:19:04,697 - INFO - Successfully processed Lee: 68 preferences loaded
-2026-01-21 18:19:04,697 - INFO - Processing file: C:/Users/Lance/Downloads/2024 01 Selections/Leung_2024 01 SL Selections Template.xlsx
-2026-01-21 18:19:04,712 - INFO - Processing preferences for: Leung
-2026-01-21 18:19:04,723 - INFO - Leung shift ranges - Min: 14, Ideal: 16, Max: 18
-2026-01-21 18:19:05,130 - INFO - Successfully processed Leung: 172 preferences loaded
-2026-01-21 18:19:05,131 - INFO - Processing file: C:/Users/Lance/Downloads/2024 01 Selections/Phalpher_2024 01 SL Selections Template.xlsx
-2026-01-21 18:19:05,137 - INFO - Processing preferences for: Phalpher
-2026-01-21 18:19:05,149 - INFO - Phalpher shift ranges - Min: 1, Ideal: 1, Max: 1
-2026-01-21 18:19:05,553 - INFO - Successfully processed Phalpher: 1 preferences loaded
-2026-01-21 18:19:05,554 - INFO - Processing file: C:/Users/Lance/Downloads/2024 01 Selections/Puri_2024 01.xlsx
-2026-01-21 18:19:05,560 - INFO - Processing preferences for: Puri
-2026-01-21 18:19:05,573 - INFO - Puri shift ranges - Min: 20, Ideal: 20, Max: 25
-2026-01-21 18:19:05,979 - INFO - Successfully processed Puri: 20 preferences loaded
-2026-01-21 18:19:05,979 - INFO - Processing file: C:/Users/Lance/Downloads/2024 01 Selections/Shin_2024 01 SL Selections.xlsx
-2026-01-21 18:19:05,994 - INFO - Processing preferences for: Shin
-2026-01-21 18:19:06,007 - INFO - Shin shift ranges - Min: 7, Ideal: 9, Max: 11
-2026-01-21 18:19:06,421 - INFO - Successfully processed Shin: 172 preferences loaded
-2026-01-21 18:19:06,421 - INFO - Processing file: C:/Users/Lance/Downloads/2024 01 Selections/SHUM_2024 01 SL Selections Template-.xlsx
-2026-01-21 18:19:06,439 - INFO - Processing preferences for: Shum
-2026-01-21 18:19:06,453 - INFO - Shum shift ranges - Min: 5, Ideal: 6, Max: 8
-2026-01-21 18:19:06,891 - INFO - Successfully processed Shum: 89 preferences loaded
-2026-01-21 18:19:06,892 - INFO - Processing file: C:/Users/Lance/Downloads/2024 01 Selections/Silverstein_2024 01 Revised Selections Template.xlsx
-2026-01-21 18:19:06,906 - INFO - Processing preferences for: Silverstein
-2026-01-21 18:19:06,919 - INFO - Silverstein shift ranges - Min: 12, Ideal: 14, Max: 16
-2026-01-21 18:19:07,334 - INFO - Successfully processed Silverstein: 126 preferences loaded
-2026-01-21 18:19:07,335 - INFO - Processing file: C:/Users/Lance/Downloads/2024 01 Selections/Sommer_2024 01 SL Selections.xlsx
-2026-01-21 18:19:07,348 - INFO - Processing preferences for: Sommer
-2026-01-21 18:19:07,374 - INFO - Sommer shift ranges - Min: 10, Ideal: 12, Max: 13
-2026-01-21 18:19:07,785 - INFO - Successfully processed Sommer: 113 preferences loaded
-2026-01-21 18:19:07,785 - INFO - Processing file: C:/Users/Lance/Downloads/2024 01 Selections/Topaz_2024 01 SL Selections Template.xlsx
-2026-01-21 18:19:07,800 - INFO - Processing preferences for: Topaz
-2026-01-21 18:19:07,813 - INFO - Topaz shift ranges - Min: 7, Ideal: 8, Max: 9
-2026-01-21 18:19:08,275 - INFO - Successfully processed Topaz: 87 preferences loaded
-2026-01-21 18:19:08,276 - INFO - Processing file: C:/Users/Lance/Downloads/2024 01 Selections/Waghmare_2024 01 SL Selections Template.xlsx
-2026-01-21 18:19:08,300 - INFO - Processing preferences for: Waghmare
-2026-01-21 18:19:08,313 - INFO - Waghmare shift ranges - Min: 13, Ideal: 14, Max: 14
-2026-01-21 18:19:08,766 - INFO - Successfully processed Waghmare: 152 preferences loaded
-2026-01-21 18:19:08,766 - INFO - Processing file: C:/Users/Lance/Downloads/2024 01 Selections/Yue_2024 01 SL Selections Template.xlsx
-2026-01-21 18:19:08,780 - INFO - Processing preferences for: Yue
-2026-01-21 18:19:08,792 - INFO - Yue shift ranges - Min: 1, Ideal: 2, Max: 3
-2026-01-21 18:19:09,197 - INFO - Successfully processed Yue: 21 preferences loaded
-2026-01-21 18:19:09,201 - INFO - Starting schedule generation...
-2026-01-21 18:19:09,201 - INFO - Total physicians: 25
-2026-01-21 18:19:09,201 - INFO - Total dates: 31
-2026-01-21 18:19:09,201 - INFO - Date range: 2024-01-01 to 2024-01-31
-2026-01-21 18:19:11,372 - INFO - Schedule saved to C:/Users/Lance/Downloads/2024 01 Selections/master.xlsx
+2026-02-24 18:13:49,570 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-24 18:13:49,571 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Shum_2026 03 SL Selections Template.xlsx
+2026-02-24 18:13:49,571 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Ikonnikov_2026 03 SL Selections Template.xlsx
+2026-02-24 18:13:49,571 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx
+2026-02-24 18:13:49,571 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/GRENIER 2026 03 SL Selections Template.xlsx
+2026-02-24 18:13:49,571 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Adamson-2026 03 SL Selections Template.xlsx
+2026-02-24 18:13:49,571 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Chan 2026 03 SL Selections.xlsx
+2026-02-24 18:13:49,571 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Da Qi_2026 03 SL Selections Template.xlsx
+2026-02-24 18:13:49,572 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Duerksen_2026 03 SL Selections Template.xlsx
+2026-02-24 18:13:49,572 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Feng_2026 03 SL Selections Template.xlsx
+2026-02-24 18:13:49,572 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Gannage 2026 03 SL Selections Template.xlsx
+2026-02-24 18:13:49,572 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Ho_2026 03 SL Selections Template.xlsx
+2026-02-24 18:13:49,572 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Hui 2026 03 SL Selections Template.xlsx
+2026-02-24 18:13:49,572 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/iMak_2026 03 SL Selections Template.xlsx
+2026-02-24 18:13:49,572 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Lau 2026 03 SL Selections.xlsx
+2026-02-24 18:13:49,572 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Lee_2026 03 SL Selections Template.xlsx
+2026-02-24 18:13:49,572 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Leung 03 SL Selections Template.xlsx
+2026-02-24 18:13:49,572 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Shin_2026 03 SL Selections.xlsx
+2026-02-24 18:13:49,572 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Silverstein_2026 03 Selections Template.xlsx
+2026-02-24 18:13:49,572 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Sommer_2026 03 SL Selections.xlsx
+2026-02-24 18:13:49,572 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Tan 2026 03 SL Selections Template.xlsx
+2026-02-24 18:13:49,573 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Van Heer 2026 03 SL Selections Template.xlsx
+2026-02-24 18:13:49,573 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Waghmare_2026 03 SL Selections.xlsx
+2026-02-24 18:13:49,573 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Yue 2026 03 SL Selections Template.xlsx
+2026-02-24 18:13:50,268 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-24 18:13:50,275 - INFO - Processing preferences for: Puri
+2026-02-24 18:13:50,286 - INFO - Puri shift ranges - Min: 20, Ideal: 20, Max: 30
+2026-02-24 18:13:50,676 - INFO - Successfully processed Puri: 23 preferences loaded
+2026-02-24 18:13:50,676 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Shum_2026 03 SL Selections Template.xlsx
+2026-02-24 18:13:50,693 - INFO - Processing preferences for: Shum
+2026-02-24 18:13:50,704 - INFO - Shum shift ranges - Min: 4, Ideal: 5, Max: 6
+2026-02-24 18:13:51,102 - INFO - Successfully processed Shum: 70 preferences loaded
+2026-02-24 18:13:51,103 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Ikonnikov_2026 03 SL Selections Template.xlsx
+2026-02-24 18:13:51,118 - INFO - Processing preferences for: Ikonnikov
+2026-02-24 18:13:51,130 - INFO - Ikonnikov shift ranges - Min: 8, Ideal: 12, Max: 14
+2026-02-24 18:13:51,534 - INFO - Successfully processed Ikonnikov: 143 preferences loaded
+2026-02-24 18:13:51,535 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx
+2026-02-24 18:13:51,540 - INFO - Processing preferences for: Sethuraman
+2026-02-24 18:13:51,555 - INFO - Sethuraman shift ranges - Min: None, Ideal: None, Max: None
+2026-02-24 18:13:51,555 - ERROR - CRITICAL: Sethuraman in file C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx has missing shift range values!
+2026-02-24 18:13:51,555 - ERROR -   Min shifts (B42): None
+2026-02-24 18:13:51,555 - ERROR -   Ideal shifts (B43): None
+2026-02-24 18:13:51,555 - ERROR -   Max shifts (B44): None
+2026-02-24 18:13:51,556 - WARNING -   Using defaults for Sethuraman: Min=0, Max=31
+2026-02-24 18:13:51,939 - INFO - Successfully processed Sethuraman: 9 preferences loaded
+2026-02-24 18:13:51,939 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/GRENIER 2026 03 SL Selections Template.xlsx
+2026-02-24 18:13:51,955 - INFO - Processing preferences for: Grenier
+2026-02-24 18:13:51,966 - INFO - Grenier shift ranges - Min: 3, Ideal: 3, Max: 3
+2026-02-24 18:13:52,364 - INFO - Successfully processed Grenier: 6 preferences loaded
+2026-02-24 18:13:52,364 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Adamson-2026 03 SL Selections Template.xlsx
+2026-02-24 18:13:52,384 - INFO - Processing preferences for: Adamson
+2026-02-24 18:13:52,396 - INFO - Adamson shift ranges - Min: 0.0, Ideal: 1.0, Max: 1.0
+2026-02-24 18:13:52,784 - INFO - Successfully processed Adamson: 3 preferences loaded
+2026-02-24 18:13:52,784 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Chan 2026 03 SL Selections.xlsx
+2026-02-24 18:13:52,798 - INFO - Processing preferences for: Chan
+2026-02-24 18:13:52,810 - INFO - Chan shift ranges - Min: None, Ideal: 12, Max: None
+2026-02-24 18:13:52,810 - ERROR - CRITICAL: Chan in file C:/Users/Lance/Downloads/2026 03/Chan 2026 03 SL Selections.xlsx has missing shift range values!
+2026-02-24 18:13:52,810 - ERROR -   Min shifts (B42): None
+2026-02-24 18:13:52,810 - ERROR -   Ideal shifts (B43): 12
+2026-02-24 18:13:52,810 - ERROR -   Max shifts (B44): None
+2026-02-24 18:13:52,810 - WARNING -   Using defaults for Chan: Min=0, Max=31
+2026-02-24 18:13:53,204 - INFO - Successfully processed Chan: 82 preferences loaded
+2026-02-24 18:13:53,204 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Da Qi_2026 03 SL Selections Template.xlsx
+2026-02-24 18:13:53,219 - INFO - Processing preferences for: Da Qi
+2026-02-24 18:13:53,231 - INFO - Da Qi shift ranges - Min: 13, Ideal: 14, Max: 15
+2026-02-24 18:13:53,648 - INFO - Successfully processed Da Qi: 279 preferences loaded
+2026-02-24 18:13:53,648 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Duerksen_2026 03 SL Selections Template.xlsx
+2026-02-24 18:13:53,667 - INFO - Processing preferences for: Duerksen
+2026-02-24 18:13:53,679 - INFO - Duerksen shift ranges - Min: 6.0, Ideal: 8.0, Max: 9.0
+2026-02-24 18:13:54,093 - INFO - Successfully processed Duerksen: 279 preferences loaded
+2026-02-24 18:13:54,093 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Feng_2026 03 SL Selections Template.xlsx
+2026-02-24 18:13:54,111 - INFO - Processing preferences for: Feng
+2026-02-24 18:13:54,123 - INFO - Feng shift ranges - Min: 13.0, Ideal: 13.0, Max: 15.0
+2026-02-24 18:13:54,508 - INFO - Successfully processed Feng: 137 preferences loaded
+2026-02-24 18:13:54,509 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Gannage 2026 03 SL Selections Template.xlsx
+2026-02-24 18:13:54,529 - INFO - Processing preferences for: Gannage
+2026-02-24 18:13:54,541 - INFO - Gannage shift ranges - Min: 11, Ideal: 12, Max: 13
+2026-02-24 18:13:54,940 - INFO - Successfully processed Gannage: 107 preferences loaded
+2026-02-24 18:13:54,941 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Ho_2026 03 SL Selections Template.xlsx
+2026-02-24 18:13:54,956 - INFO - Processing preferences for: Ho
+2026-02-24 18:13:54,967 - INFO - Ho shift ranges - Min: 9, Ideal: 9, Max: 9
+2026-02-24 18:13:55,358 - INFO - Successfully processed Ho: 9 preferences loaded
+2026-02-24 18:13:55,358 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Hui 2026 03 SL Selections Template.xlsx
+2026-02-24 18:13:55,375 - INFO - Processing preferences for: Hui
+2026-02-24 18:13:55,387 - INFO - Hui shift ranges - Min: 5, Ideal: 8, Max: 13
+2026-02-24 18:13:55,797 - INFO - Successfully processed Hui: 23 preferences loaded
+2026-02-24 18:13:55,797 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/iMak_2026 03 SL Selections Template.xlsx
+2026-02-24 18:13:55,812 - INFO - Processing preferences for: iMak
+2026-02-24 18:13:55,824 - INFO - iMak shift ranges - Min: 9, Ideal: 10, Max: 11
+2026-02-24 18:13:56,213 - INFO - Successfully processed iMak: 71 preferences loaded
+2026-02-24 18:13:56,213 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Lau 2026 03 SL Selections.xlsx
+2026-02-24 18:13:56,228 - INFO - Processing preferences for: Lau
+2026-02-24 18:13:56,241 - INFO - Lau shift ranges - Min: 9, Ideal: 11, Max: 12
+2026-02-24 18:13:56,646 - INFO - Successfully processed Lau: 113 preferences loaded
+2026-02-24 18:13:56,646 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Lee_2026 03 SL Selections Template.xlsx
+2026-02-24 18:13:56,661 - INFO - Processing preferences for: Lee
+2026-02-24 18:13:56,674 - INFO - Lee shift ranges - Min: 14, Ideal: 15, Max: 16
+2026-02-24 18:13:57,074 - INFO - Successfully processed Lee: 98 preferences loaded
+2026-02-24 18:13:57,075 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Leung 03 SL Selections Template.xlsx
+2026-02-24 18:13:57,090 - INFO - Processing preferences for: Leung
+2026-02-24 18:13:57,102 - INFO - Leung shift ranges - Min: None, Ideal: None, Max: None
+2026-02-24 18:13:57,102 - ERROR - CRITICAL: Leung in file C:/Users/Lance/Downloads/2026 03/Leung 03 SL Selections Template.xlsx has missing shift range values!
+2026-02-24 18:13:57,102 - ERROR -   Min shifts (B42): None
+2026-02-24 18:13:57,103 - ERROR -   Ideal shifts (B43): None
+2026-02-24 18:13:57,103 - ERROR -   Max shifts (B44): None
+2026-02-24 18:13:57,103 - WARNING -   Using defaults for Leung: Min=0, Max=31
+2026-02-24 18:13:57,497 - INFO - Successfully processed Leung: 149 preferences loaded
+2026-02-24 18:13:57,497 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Shin_2026 03 SL Selections.xlsx
+2026-02-24 18:13:57,512 - INFO - Processing preferences for: Shin
+2026-02-24 18:13:57,524 - INFO - Shin shift ranges - Min: 8, Ideal: 10, Max: 10
+2026-02-24 18:13:57,931 - INFO - Successfully processed Shin: 135 preferences loaded
+2026-02-24 18:13:57,931 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Silverstein_2026 03 Selections Template.xlsx
+2026-02-24 18:13:57,947 - INFO - Processing preferences for: Silverstein
+2026-02-24 18:13:57,959 - INFO - Silverstein shift ranges - Min: 7, Ideal: 9, Max: 12
+2026-02-24 18:13:58,366 - INFO - Successfully processed Silverstein: 84 preferences loaded
+2026-02-24 18:13:58,366 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Sommer_2026 03 SL Selections.xlsx
+2026-02-24 18:13:58,383 - INFO - Processing preferences for: Sommer
+2026-02-24 18:13:58,394 - INFO - Sommer shift ranges - Min: 7, Ideal: 9, Max: 10
+2026-02-24 18:13:58,785 - INFO - Successfully processed Sommer: 90 preferences loaded
+2026-02-24 18:13:58,785 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Tan 2026 03 SL Selections Template.xlsx
+2026-02-24 18:13:58,802 - INFO - Processing preferences for: Tan
+2026-02-24 18:13:58,813 - INFO - Tan shift ranges - Min: 11, Ideal: 13, Max: 16
+2026-02-24 18:13:59,223 - INFO - Successfully processed Tan: 173 preferences loaded
+2026-02-24 18:13:59,223 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Van Heer 2026 03 SL Selections Template.xlsx
+2026-02-24 18:13:59,238 - INFO - Processing preferences for: Van Heer
+2026-02-24 18:13:59,249 - INFO - Van Heer shift ranges - Min: 6, Ideal: 10, Max: 12
+2026-02-24 18:13:59,639 - INFO - Successfully processed Van Heer: 77 preferences loaded
+2026-02-24 18:13:59,639 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Waghmare_2026 03 SL Selections.xlsx
+2026-02-24 18:13:59,658 - INFO - Processing preferences for: Waghmare
+2026-02-24 18:13:59,670 - INFO - Waghmare shift ranges - Min: 12, Ideal: 13, Max: 14
+2026-02-24 18:14:00,078 - INFO - Successfully processed Waghmare: 127 preferences loaded
+2026-02-24 18:14:00,079 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Yue 2026 03 SL Selections Template.xlsx
+2026-02-24 18:14:00,094 - INFO - Processing preferences for: Yue
+2026-02-24 18:14:00,107 - INFO - Yue shift ranges - Min: 0, Ideal: 0, Max: 0
+2026-02-24 18:14:00,502 - INFO - Successfully processed Yue: 0 preferences loaded
+2026-02-24 18:14:00,502 - INFO - Loaded 24 physicians, 31 dates from 24 files
+2026-02-24 18:17:29,317 - INFO - Pre-assignments saved: 19 assignments across 14 dates
+2026-02-24 18:17:38,510 - INFO - Set output path: C:/Users/Lance/Downloads/2026 03/master 03.xlsx
+2026-02-24 18:17:39,009 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-24 18:17:39,016 - INFO - Processing preferences for: Puri
+2026-02-24 18:17:39,032 - INFO - Puri shift ranges - Min: 20, Ideal: 20, Max: 30
+2026-02-24 18:17:39,423 - INFO - Successfully processed Puri: 23 preferences loaded
+2026-02-24 18:17:39,423 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Shum_2026 03 SL Selections Template.xlsx
+2026-02-24 18:17:39,430 - INFO - Processing preferences for: Shum
+2026-02-24 18:17:39,441 - INFO - Shum shift ranges - Min: 4, Ideal: 5, Max: 6
+2026-02-24 18:17:39,861 - INFO - Successfully processed Shum: 70 preferences loaded
+2026-02-24 18:17:39,861 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Ikonnikov_2026 03 SL Selections Template.xlsx
+2026-02-24 18:17:39,867 - INFO - Processing preferences for: Ikonnikov
+2026-02-24 18:17:39,878 - INFO - Ikonnikov shift ranges - Min: 8, Ideal: 12, Max: 14
+2026-02-24 18:17:40,273 - INFO - Successfully processed Ikonnikov: 143 preferences loaded
+2026-02-24 18:17:40,274 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx
+2026-02-24 18:17:40,280 - INFO - Processing preferences for: Sethuraman
+2026-02-24 18:17:40,291 - INFO - Sethuraman shift ranges - Min: None, Ideal: None, Max: None
+2026-02-24 18:17:40,291 - ERROR - CRITICAL: Sethuraman in file C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx has missing shift range values!
+2026-02-24 18:17:40,291 - ERROR -   Min shifts (B42): None
+2026-02-24 18:17:40,291 - ERROR -   Ideal shifts (B43): None
+2026-02-24 18:17:40,291 - ERROR -   Max shifts (B44): None
+2026-02-24 18:17:40,291 - WARNING -   Using defaults for Sethuraman: Min=0, Max=31
+2026-02-24 18:17:40,690 - INFO - Successfully processed Sethuraman: 9 preferences loaded
+2026-02-24 18:17:40,690 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/GRENIER 2026 03 SL Selections Template.xlsx
+2026-02-24 18:17:40,696 - INFO - Processing preferences for: Grenier
+2026-02-24 18:17:40,708 - INFO - Grenier shift ranges - Min: 3, Ideal: 3, Max: 3
+2026-02-24 18:17:41,105 - INFO - Successfully processed Grenier: 6 preferences loaded
+2026-02-24 18:17:41,105 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Adamson-2026 03 SL Selections Template.xlsx
+2026-02-24 18:17:41,112 - INFO - Processing preferences for: Adamson
+2026-02-24 18:17:41,123 - INFO - Adamson shift ranges - Min: 0.0, Ideal: 1.0, Max: 1.0
+2026-02-24 18:17:41,503 - INFO - Successfully processed Adamson: 3 preferences loaded
+2026-02-24 18:17:41,503 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Chan 2026 03 SL Selections.xlsx
+2026-02-24 18:17:41,509 - INFO - Processing preferences for: Chan
+2026-02-24 18:17:41,521 - INFO - Chan shift ranges - Min: None, Ideal: 12, Max: None
+2026-02-24 18:17:41,521 - ERROR - CRITICAL: Chan in file C:/Users/Lance/Downloads/2026 03/Chan 2026 03 SL Selections.xlsx has missing shift range values!
+2026-02-24 18:17:41,521 - ERROR -   Min shifts (B42): None
+2026-02-24 18:17:41,521 - ERROR -   Ideal shifts (B43): 12
+2026-02-24 18:17:41,521 - ERROR -   Max shifts (B44): None
+2026-02-24 18:17:41,521 - WARNING -   Using defaults for Chan: Min=0, Max=31
+2026-02-24 18:17:41,935 - INFO - Successfully processed Chan: 82 preferences loaded
+2026-02-24 18:17:41,935 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Da Qi_2026 03 SL Selections Template.xlsx
+2026-02-24 18:17:41,941 - INFO - Processing preferences for: Da Qi
+2026-02-24 18:17:41,952 - INFO - Da Qi shift ranges - Min: 13, Ideal: 14, Max: 15
+2026-02-24 18:17:42,360 - INFO - Successfully processed Da Qi: 279 preferences loaded
+2026-02-24 18:17:42,360 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Duerksen_2026 03 SL Selections Template.xlsx
+2026-02-24 18:17:42,381 - INFO - Processing preferences for: Duerksen
+2026-02-24 18:17:42,392 - INFO - Duerksen shift ranges - Min: 6.0, Ideal: 8.0, Max: 9.0
+2026-02-24 18:17:42,796 - INFO - Successfully processed Duerksen: 279 preferences loaded
+2026-02-24 18:17:42,796 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Feng_2026 03 SL Selections Template.xlsx
+2026-02-24 18:17:42,803 - INFO - Processing preferences for: Feng
+2026-02-24 18:17:42,814 - INFO - Feng shift ranges - Min: 13.0, Ideal: 13.0, Max: 15.0
+2026-02-24 18:17:43,220 - INFO - Successfully processed Feng: 137 preferences loaded
+2026-02-24 18:17:43,220 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Gannage 2026 03 SL Selections Template.xlsx
+2026-02-24 18:17:43,226 - INFO - Processing preferences for: Gannage
+2026-02-24 18:17:43,237 - INFO - Gannage shift ranges - Min: 11, Ideal: 12, Max: 13
+2026-02-24 18:17:43,630 - INFO - Successfully processed Gannage: 107 preferences loaded
+2026-02-24 18:17:43,630 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Ho_2026 03 SL Selections Template.xlsx
+2026-02-24 18:17:43,636 - INFO - Processing preferences for: Ho
+2026-02-24 18:17:43,647 - INFO - Ho shift ranges - Min: 9, Ideal: 9, Max: 9
+2026-02-24 18:17:44,054 - INFO - Successfully processed Ho: 9 preferences loaded
+2026-02-24 18:17:44,054 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Hui 2026 03 SL Selections Template.xlsx
+2026-02-24 18:17:44,061 - INFO - Processing preferences for: Hui
+2026-02-24 18:17:44,072 - INFO - Hui shift ranges - Min: 5, Ideal: 8, Max: 13
+2026-02-24 18:17:44,473 - INFO - Successfully processed Hui: 23 preferences loaded
+2026-02-24 18:17:44,473 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/iMak_2026 03 SL Selections Template.xlsx
+2026-02-24 18:17:44,479 - INFO - Processing preferences for: iMak
+2026-02-24 18:17:44,505 - INFO - iMak shift ranges - Min: 9, Ideal: 10, Max: 11
+2026-02-24 18:17:44,894 - INFO - Successfully processed iMak: 71 preferences loaded
+2026-02-24 18:17:44,894 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Lau 2026 03 SL Selections.xlsx
+2026-02-24 18:17:44,900 - INFO - Processing preferences for: Lau
+2026-02-24 18:17:44,911 - INFO - Lau shift ranges - Min: 9, Ideal: 11, Max: 12
+2026-02-24 18:17:45,319 - INFO - Successfully processed Lau: 113 preferences loaded
+2026-02-24 18:17:45,319 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Lee_2026 03 SL Selections Template.xlsx
+2026-02-24 18:17:45,325 - INFO - Processing preferences for: Lee
+2026-02-24 18:17:45,336 - INFO - Lee shift ranges - Min: 14, Ideal: 15, Max: 16
+2026-02-24 18:17:45,730 - INFO - Successfully processed Lee: 98 preferences loaded
+2026-02-24 18:17:45,730 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Leung 03 SL Selections Template.xlsx
+2026-02-24 18:17:45,736 - INFO - Processing preferences for: Leung
+2026-02-24 18:17:45,748 - INFO - Leung shift ranges - Min: None, Ideal: None, Max: None
+2026-02-24 18:17:45,748 - ERROR - CRITICAL: Leung in file C:/Users/Lance/Downloads/2026 03/Leung 03 SL Selections Template.xlsx has missing shift range values!
+2026-02-24 18:17:45,748 - ERROR -   Min shifts (B42): None
+2026-02-24 18:17:45,748 - ERROR -   Ideal shifts (B43): None
+2026-02-24 18:17:45,748 - ERROR -   Max shifts (B44): None
+2026-02-24 18:17:45,749 - WARNING -   Using defaults for Leung: Min=0, Max=31
+2026-02-24 18:17:46,159 - INFO - Successfully processed Leung: 149 preferences loaded
+2026-02-24 18:17:46,159 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Shin_2026 03 SL Selections.xlsx
+2026-02-24 18:17:46,166 - INFO - Processing preferences for: Shin
+2026-02-24 18:17:46,178 - INFO - Shin shift ranges - Min: 8, Ideal: 10, Max: 10
+2026-02-24 18:17:46,579 - INFO - Successfully processed Shin: 135 preferences loaded
+2026-02-24 18:17:46,580 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Silverstein_2026 03 Selections Template.xlsx
+2026-02-24 18:17:46,585 - INFO - Processing preferences for: Silverstein
+2026-02-24 18:17:46,614 - INFO - Silverstein shift ranges - Min: 7, Ideal: 9, Max: 12
+2026-02-24 18:17:47,004 - INFO - Successfully processed Silverstein: 84 preferences loaded
+2026-02-24 18:17:47,004 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Sommer_2026 03 SL Selections.xlsx
+2026-02-24 18:17:47,009 - INFO - Processing preferences for: Sommer
+2026-02-24 18:17:47,021 - INFO - Sommer shift ranges - Min: 7, Ideal: 9, Max: 10
+2026-02-24 18:17:47,431 - INFO - Successfully processed Sommer: 90 preferences loaded
+2026-02-24 18:17:47,432 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Tan 2026 03 SL Selections Template.xlsx
+2026-02-24 18:17:47,438 - INFO - Processing preferences for: Tan
+2026-02-24 18:17:47,450 - INFO - Tan shift ranges - Min: 11, Ideal: 13, Max: 16
+2026-02-24 18:17:47,852 - INFO - Successfully processed Tan: 173 preferences loaded
+2026-02-24 18:17:47,853 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Van Heer 2026 03 SL Selections Template.xlsx
+2026-02-24 18:17:47,859 - INFO - Processing preferences for: Van Heer
+2026-02-24 18:17:47,870 - INFO - Van Heer shift ranges - Min: 6, Ideal: 10, Max: 12
+2026-02-24 18:17:48,278 - INFO - Successfully processed Van Heer: 77 preferences loaded
+2026-02-24 18:17:48,279 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Waghmare_2026 03 SL Selections.xlsx
+2026-02-24 18:17:48,287 - INFO - Processing preferences for: Waghmare
+2026-02-24 18:17:48,299 - INFO - Waghmare shift ranges - Min: 12, Ideal: 13, Max: 14
+2026-02-24 18:17:48,711 - INFO - Successfully processed Waghmare: 127 preferences loaded
+2026-02-24 18:17:48,711 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Yue 2026 03 SL Selections Template.xlsx
+2026-02-24 18:17:48,717 - INFO - Processing preferences for: Yue
+2026-02-24 18:17:48,728 - INFO - Yue shift ranges - Min: 0, Ideal: 0, Max: 0
+2026-02-24 18:17:49,115 - INFO - Successfully processed Yue: 0 preferences loaded
+2026-02-24 18:17:49,115 - INFO - Set 19 pre-assignments
+2026-02-24 18:17:49,115 - INFO - Pre-assigned: 2026-03-01 St. John's \u2192 Ikonnikov
+2026-02-24 18:17:49,115 - INFO - Pre-assigned: 2026-03-01 Halifax \u2192 Puri
+2026-02-24 18:17:49,115 - INFO - Pre-assigned: 2026-03-02 St. John's \u2192 Puri
+2026-02-24 18:17:49,115 - INFO - Pre-assigned: 2026-03-03 St. John's \u2192 Puri
+2026-02-24 18:17:49,115 - INFO - Pre-assigned: 2026-03-04 St. John's \u2192 Puri
+2026-02-24 18:17:49,116 - INFO - Pre-assigned: 2026-03-07 St. John's \u2192 Shin
+2026-02-24 18:17:49,116 - INFO - Pre-assigned: 2026-03-07 Halifax \u2192 Puri
+2026-02-24 18:17:49,116 - INFO - Pre-assigned: 2026-03-08 St. John's \u2192 Shin
+2026-02-24 18:17:49,116 - INFO - Pre-assigned: 2026-03-08 Halifax \u2192 Puri
+2026-02-24 18:17:49,116 - INFO - Pre-assigned: 2026-03-09 St. John's \u2192 Puri
+2026-02-24 18:17:49,116 - INFO - Pre-assigned: 2026-03-10 St. John's \u2192 Puri
+2026-02-24 18:17:49,116 - INFO - Pre-assigned: 2026-03-11 St. John's \u2192 Puri
+2026-02-24 18:17:49,116 - INFO - Pre-assigned: 2026-03-14 St. John's \u2192 Shin
+2026-02-24 18:17:49,116 - INFO - Pre-assigned: 2026-03-14 Halifax \u2192 Puri
+2026-02-24 18:17:49,116 - INFO - Pre-assigned: 2026-03-15 St. John's \u2192 Shin
+2026-02-24 18:17:49,116 - INFO - Pre-assigned: 2026-03-15 Halifax \u2192 Puri
+2026-02-24 18:17:49,116 - INFO - Pre-assigned: 2026-03-16 St. John's \u2192 Puri
+2026-02-24 18:17:49,116 - INFO - Pre-assigned: 2026-03-17 St. John's \u2192 Puri
+2026-02-24 18:17:49,116 - INFO - Pre-assigned: 2026-03-18 St. John's \u2192 Puri
+2026-02-24 18:17:49,117 - INFO - Injecting 19 pre-assignments into solver
+2026-02-24 18:17:49,119 - INFO - Starting schedule generation...
+2026-02-24 18:17:49,120 - INFO - Total physicians: 24
+2026-02-24 18:17:49,120 - INFO - Total dates: 31
+2026-02-24 18:17:49,120 - INFO - Date range: 2026-03-01 to 2026-03-31
+2026-02-24 18:17:49,130 - INFO - Forcing pre-assigned shifts...
+2026-02-24 18:17:49,130 - INFO - Forced 19 pre-assigned shifts
+2026-02-24 18:17:49,130 - INFO - Forcing ALL of Puri's preferences (priority #1)...
+2026-02-24 18:17:49,130 - INFO - Forced 23 total shifts for Puri
+2026-02-24 18:17:50,813 - INFO - Starting solver with deterministic settings...
+2026-02-24 18:17:52,898 - INFO - Solver status: OPTIMAL
+2026-02-24 18:17:52,898 - INFO - Solve time: 2.0756175000000003 seconds
+2026-02-24 18:17:52,898 - INFO - Solution found - analyzing coverage...
+2026-02-24 18:17:52,903 - INFO - Total possible shifts: 248
+2026-02-24 18:17:52,903 - INFO - Filled shifts: 248 (100.0%)
+2026-02-24 18:17:52,903 - INFO - Unfilled shifts: 0
+2026-02-24 18:17:52,904 - INFO - Puri: 23/30 shifts (min: 20)
+2026-02-24 18:17:52,904 - INFO - Shum: 5/6 shifts (min: 4)
+2026-02-24 18:17:52,905 - WARNING - Ikonnikov: HIT MAX LIMIT - 14/14 (min: 8)
+2026-02-24 18:17:52,905 - INFO - Sethuraman: 3/31 shifts (min: 0)
+2026-02-24 18:17:52,906 - WARNING - Grenier: HIT MAX LIMIT - 3/3 (min: 3)
+2026-02-24 18:17:52,906 - WARNING - Adamson: HIT MAX LIMIT - 1/1 (min: 0)
+2026-02-24 18:17:52,907 - INFO - Chan: 13/31 shifts (min: 0)
+2026-02-24 18:17:52,907 - INFO - Da Qi: 13/15 shifts (min: 13)
+2026-02-24 18:17:52,907 - WARNING - Duerksen: HIT MAX LIMIT - 9/9 (min: 6)
+2026-02-24 18:17:52,908 - INFO - Feng: 13/15 shifts (min: 13)
+2026-02-24 18:17:52,908 - WARNING - Gannage: HIT MAX LIMIT - 13/13 (min: 11)
+2026-02-24 18:17:52,909 - WARNING - Ho: HIT MAX LIMIT - 9/9 (min: 9)
+2026-02-24 18:17:52,909 - INFO - Hui: 9/13 shifts (min: 5)
+2026-02-24 18:17:52,910 - WARNING - iMak: HIT MAX LIMIT - 11/11 (min: 9)
+2026-02-24 18:17:52,910 - WARNING - Lau: HIT MAX LIMIT - 12/12 (min: 9)
+2026-02-24 18:17:52,910 - INFO - Lee: 14/16 shifts (min: 14)
+2026-02-24 18:17:52,911 - INFO - Leung: 14/31 shifts (min: 0)
+2026-02-24 18:17:52,911 - WARNING - Shin: HIT MAX LIMIT - 10/10 (min: 8)
+2026-02-24 18:17:52,912 - INFO - Silverstein: 8/12 shifts (min: 7)
+2026-02-24 18:17:52,912 - WARNING - Sommer: HIT MAX LIMIT - 10/10 (min: 7)
+2026-02-24 18:17:52,913 - INFO - Tan: 15/16 shifts (min: 11)
+2026-02-24 18:17:52,913 - WARNING - Van Heer: HIT MAX LIMIT - 12/12 (min: 6)
+2026-02-24 18:17:52,913 - WARNING - Waghmare: HIT MAX LIMIT - 14/14 (min: 12)
+2026-02-24 18:17:52,914 - WARNING - Yue: HIT MAX LIMIT - 0/0 (min: 0)
+2026-02-24 18:17:52,966 - INFO - Schedule saved to C:/Users/Lance/Downloads/2026 03/master 03.xlsx
+2026-02-24 18:20:02,646 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-24 18:20:02,646 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Shum_2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:02,646 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Ikonnikov_2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:02,646 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx
+2026-02-24 18:20:02,647 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/GRENIER 2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:02,647 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Adamson-2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:02,647 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Chan 2026 03 SL Selections.xlsx
+2026-02-24 18:20:02,647 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Da Qi_2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:02,647 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Duerksen_2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:02,647 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Feng_2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:02,647 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Gannage 2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:02,647 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Ho_2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:02,647 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Hui 2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:02,647 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/iMak_2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:02,647 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Lau 2026 03 SL Selections.xlsx
+2026-02-24 18:20:02,648 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Lee_2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:02,648 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Leung 03 SL Selections Template.xlsx
+2026-02-24 18:20:02,648 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Shin_2026 03 SL Selections.xlsx
+2026-02-24 18:20:02,648 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Silverstein_2026 03 Selections Template.xlsx
+2026-02-24 18:20:02,648 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Sommer_2026 03 SL Selections.xlsx
+2026-02-24 18:20:02,648 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Tan 2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:02,648 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Van Heer 2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:02,648 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Waghmare_2026 03 SL Selections.xlsx
+2026-02-24 18:20:02,648 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Yue 2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:03,924 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-24 18:20:03,931 - INFO - Processing preferences for: Puri
+2026-02-24 18:20:03,942 - INFO - Puri shift ranges - Min: 20, Ideal: 20, Max: 30
+2026-02-24 18:20:04,335 - INFO - Successfully processed Puri: 23 preferences loaded
+2026-02-24 18:20:04,335 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Shum_2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:04,341 - INFO - Processing preferences for: Shum
+2026-02-24 18:20:04,353 - INFO - Shum shift ranges - Min: 4, Ideal: 5, Max: 6
+2026-02-24 18:20:04,754 - INFO - Successfully processed Shum: 70 preferences loaded
+2026-02-24 18:20:04,755 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Ikonnikov_2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:04,761 - INFO - Processing preferences for: Ikonnikov
+2026-02-24 18:20:04,772 - INFO - Ikonnikov shift ranges - Min: 8, Ideal: 12, Max: 14
+2026-02-24 18:20:05,181 - INFO - Successfully processed Ikonnikov: 143 preferences loaded
+2026-02-24 18:20:05,181 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx
+2026-02-24 18:20:05,187 - INFO - Processing preferences for: Sethuraman
+2026-02-24 18:20:05,197 - INFO - Sethuraman shift ranges - Min: None, Ideal: None, Max: None
+2026-02-24 18:20:05,198 - ERROR - CRITICAL: Sethuraman in file C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx has missing shift range values!
+2026-02-24 18:20:05,198 - ERROR -   Min shifts (B42): None
+2026-02-24 18:20:05,198 - ERROR -   Ideal shifts (B43): None
+2026-02-24 18:20:05,198 - ERROR -   Max shifts (B44): None
+2026-02-24 18:20:05,198 - WARNING -   Using defaults for Sethuraman: Min=0, Max=31
+2026-02-24 18:20:05,582 - INFO - Successfully processed Sethuraman: 9 preferences loaded
+2026-02-24 18:20:05,583 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/GRENIER 2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:05,588 - INFO - Processing preferences for: Grenier
+2026-02-24 18:20:05,599 - INFO - Grenier shift ranges - Min: 3, Ideal: 3, Max: 3
+2026-02-24 18:20:06,011 - INFO - Successfully processed Grenier: 6 preferences loaded
+2026-02-24 18:20:06,011 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Adamson-2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:06,019 - INFO - Processing preferences for: Adamson
+2026-02-24 18:20:06,031 - INFO - Adamson shift ranges - Min: 0.0, Ideal: 1.0, Max: 1.0
+2026-02-24 18:20:06,441 - INFO - Successfully processed Adamson: 3 preferences loaded
+2026-02-24 18:20:06,441 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Chan 2026 03 SL Selections.xlsx
+2026-02-24 18:20:06,448 - INFO - Processing preferences for: Chan
+2026-02-24 18:20:06,462 - INFO - Chan shift ranges - Min: None, Ideal: 12, Max: None
+2026-02-24 18:20:06,462 - ERROR - CRITICAL: Chan in file C:/Users/Lance/Downloads/2026 03/Chan 2026 03 SL Selections.xlsx has missing shift range values!
+2026-02-24 18:20:06,462 - ERROR -   Min shifts (B42): None
+2026-02-24 18:20:06,462 - ERROR -   Ideal shifts (B43): 12
+2026-02-24 18:20:06,462 - ERROR -   Max shifts (B44): None
+2026-02-24 18:20:06,462 - WARNING -   Using defaults for Chan: Min=0, Max=31
+2026-02-24 18:20:06,876 - INFO - Successfully processed Chan: 82 preferences loaded
+2026-02-24 18:20:06,876 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Da Qi_2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:06,882 - INFO - Processing preferences for: Da Qi
+2026-02-24 18:20:06,895 - INFO - Da Qi shift ranges - Min: 13, Ideal: 14, Max: 15
+2026-02-24 18:20:07,323 - INFO - Successfully processed Da Qi: 279 preferences loaded
+2026-02-24 18:20:07,323 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Duerksen_2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:07,330 - INFO - Processing preferences for: Duerksen
+2026-02-24 18:20:07,343 - INFO - Duerksen shift ranges - Min: 6.0, Ideal: 8.0, Max: 9.0
+2026-02-24 18:20:07,761 - INFO - Successfully processed Duerksen: 279 preferences loaded
+2026-02-24 18:20:07,761 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Feng_2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:07,769 - INFO - Processing preferences for: Feng
+2026-02-24 18:20:07,780 - INFO - Feng shift ranges - Min: 13.0, Ideal: 13.0, Max: 15.0
+2026-02-24 18:20:08,171 - INFO - Successfully processed Feng: 137 preferences loaded
+2026-02-24 18:20:08,171 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Gannage 2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:08,177 - INFO - Processing preferences for: Gannage
+2026-02-24 18:20:08,188 - INFO - Gannage shift ranges - Min: 11, Ideal: 12, Max: 13
+2026-02-24 18:20:08,595 - INFO - Successfully processed Gannage: 107 preferences loaded
+2026-02-24 18:20:08,595 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Ho_2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:08,601 - INFO - Processing preferences for: Ho
+2026-02-24 18:20:08,612 - INFO - Ho shift ranges - Min: 9, Ideal: 9, Max: 9
+2026-02-24 18:20:09,004 - INFO - Successfully processed Ho: 9 preferences loaded
+2026-02-24 18:20:09,004 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Hui 2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:09,011 - INFO - Processing preferences for: Hui
+2026-02-24 18:20:09,022 - INFO - Hui shift ranges - Min: 5, Ideal: 8, Max: 13
+2026-02-24 18:20:09,436 - INFO - Successfully processed Hui: 23 preferences loaded
+2026-02-24 18:20:09,437 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/iMak_2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:09,442 - INFO - Processing preferences for: iMak
+2026-02-24 18:20:09,453 - INFO - iMak shift ranges - Min: 9, Ideal: 10, Max: 11
+2026-02-24 18:20:09,851 - INFO - Successfully processed iMak: 71 preferences loaded
+2026-02-24 18:20:09,852 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Lau 2026 03 SL Selections.xlsx
+2026-02-24 18:20:09,858 - INFO - Processing preferences for: Lau
+2026-02-24 18:20:09,870 - INFO - Lau shift ranges - Min: 9, Ideal: 11, Max: 12
+2026-02-24 18:20:10,276 - INFO - Successfully processed Lau: 113 preferences loaded
+2026-02-24 18:20:10,276 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Lee_2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:10,282 - INFO - Processing preferences for: Lee
+2026-02-24 18:20:10,294 - INFO - Lee shift ranges - Min: 14, Ideal: 15, Max: 16
+2026-02-24 18:20:10,703 - INFO - Successfully processed Lee: 98 preferences loaded
+2026-02-24 18:20:10,703 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Leung 03 SL Selections Template.xlsx
+2026-02-24 18:20:10,709 - INFO - Processing preferences for: Leung
+2026-02-24 18:20:10,721 - INFO - Leung shift ranges - Min: None, Ideal: None, Max: None
+2026-02-24 18:20:10,721 - ERROR - CRITICAL: Leung in file C:/Users/Lance/Downloads/2026 03/Leung 03 SL Selections Template.xlsx has missing shift range values!
+2026-02-24 18:20:10,721 - ERROR -   Min shifts (B42): None
+2026-02-24 18:20:10,721 - ERROR -   Ideal shifts (B43): None
+2026-02-24 18:20:10,721 - ERROR -   Max shifts (B44): None
+2026-02-24 18:20:10,721 - WARNING -   Using defaults for Leung: Min=0, Max=31
+2026-02-24 18:20:11,119 - INFO - Successfully processed Leung: 149 preferences loaded
+2026-02-24 18:20:11,119 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Shin_2026 03 SL Selections.xlsx
+2026-02-24 18:20:11,125 - INFO - Processing preferences for: Shin
+2026-02-24 18:20:11,137 - INFO - Shin shift ranges - Min: 8, Ideal: 10, Max: 10
+2026-02-24 18:20:11,553 - INFO - Successfully processed Shin: 135 preferences loaded
+2026-02-24 18:20:11,553 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Silverstein_2026 03 Selections Template.xlsx
+2026-02-24 18:20:11,559 - INFO - Processing preferences for: Silverstein
+2026-02-24 18:20:11,571 - INFO - Silverstein shift ranges - Min: 7, Ideal: 9, Max: 12
+2026-02-24 18:20:11,978 - INFO - Successfully processed Silverstein: 84 preferences loaded
+2026-02-24 18:20:11,978 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Sommer_2026 03 SL Selections.xlsx
+2026-02-24 18:20:11,984 - INFO - Processing preferences for: Sommer
+2026-02-24 18:20:11,996 - INFO - Sommer shift ranges - Min: 7, Ideal: 9, Max: 10
+2026-02-24 18:20:12,397 - INFO - Successfully processed Sommer: 90 preferences loaded
+2026-02-24 18:20:12,397 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Tan 2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:12,404 - INFO - Processing preferences for: Tan
+2026-02-24 18:20:12,415 - INFO - Tan shift ranges - Min: 11, Ideal: 13, Max: 16
+2026-02-24 18:20:12,831 - INFO - Successfully processed Tan: 173 preferences loaded
+2026-02-24 18:20:12,831 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Van Heer 2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:12,838 - INFO - Processing preferences for: Van Heer
+2026-02-24 18:20:12,848 - INFO - Van Heer shift ranges - Min: 6, Ideal: 10, Max: 12
+2026-02-24 18:20:13,245 - INFO - Successfully processed Van Heer: 77 preferences loaded
+2026-02-24 18:20:13,245 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Waghmare_2026 03 SL Selections.xlsx
+2026-02-24 18:20:13,254 - INFO - Processing preferences for: Waghmare
+2026-02-24 18:20:13,265 - INFO - Waghmare shift ranges - Min: 12, Ideal: 13, Max: 14
+2026-02-24 18:20:13,680 - INFO - Successfully processed Waghmare: 127 preferences loaded
+2026-02-24 18:20:13,680 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Yue 2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:13,686 - INFO - Processing preferences for: Yue
+2026-02-24 18:20:13,699 - INFO - Yue shift ranges - Min: 0, Ideal: 0, Max: 0
+2026-02-24 18:20:14,100 - INFO - Successfully processed Yue: 0 preferences loaded
+2026-02-24 18:20:14,100 - INFO - Loaded 24 physicians, 31 dates from 24 files
+2026-02-24 18:20:48,898 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-24 18:20:48,898 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Shum_2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:48,898 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Ikonnikov_2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:48,898 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx
+2026-02-24 18:20:48,899 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/GRENIER 2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:48,899 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Adamson-2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:48,899 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Chan 2026 03 SL Selections.xlsx
+2026-02-24 18:20:48,899 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Da Qi_2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:48,899 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Duerksen_2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:48,899 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Feng_2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:48,899 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Gannage 2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:48,899 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Ho_2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:48,899 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Hui 2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:48,899 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/iMak_2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:48,899 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Lau 2026 03 SL Selections.xlsx
+2026-02-24 18:20:48,900 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Lee_2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:48,900 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Leung 03 SL Selections Template.xlsx
+2026-02-24 18:20:48,900 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Shin_2026 03 SL Selections.xlsx
+2026-02-24 18:20:48,900 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Silverstein_2026 03 Selections Template.xlsx
+2026-02-24 18:20:48,900 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Sommer_2026 03 SL Selections.xlsx
+2026-02-24 18:20:48,900 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Tan 2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:48,900 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Van Heer 2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:48,900 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Waghmare_2026 03 SL Selections.xlsx
+2026-02-24 18:20:48,900 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Yue 2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:49,508 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-24 18:20:49,516 - INFO - Processing preferences for: Puri
+2026-02-24 18:20:49,526 - INFO - Puri shift ranges - Min: 20, Ideal: 20, Max: 30
+2026-02-24 18:20:49,924 - INFO - Successfully processed Puri: 23 preferences loaded
+2026-02-24 18:20:49,924 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Shum_2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:49,931 - INFO - Processing preferences for: Shum
+2026-02-24 18:20:49,942 - INFO - Shum shift ranges - Min: 4, Ideal: 5, Max: 6
+2026-02-24 18:20:50,346 - INFO - Successfully processed Shum: 70 preferences loaded
+2026-02-24 18:20:50,346 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Ikonnikov_2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:50,352 - INFO - Processing preferences for: Ikonnikov
+2026-02-24 18:20:50,363 - INFO - Ikonnikov shift ranges - Min: 8, Ideal: 12, Max: 14
+2026-02-24 18:20:50,769 - INFO - Successfully processed Ikonnikov: 143 preferences loaded
+2026-02-24 18:20:50,769 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx
+2026-02-24 18:20:50,775 - INFO - Processing preferences for: Sethuraman
+2026-02-24 18:20:50,785 - INFO - Sethuraman shift ranges - Min: None, Ideal: None, Max: None
+2026-02-24 18:20:50,786 - ERROR - CRITICAL: Sethuraman in file C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx has missing shift range values!
+2026-02-24 18:20:50,786 - ERROR -   Min shifts (B42): None
+2026-02-24 18:20:50,786 - ERROR -   Ideal shifts (B43): None
+2026-02-24 18:20:50,786 - ERROR -   Max shifts (B44): None
+2026-02-24 18:20:50,786 - WARNING -   Using defaults for Sethuraman: Min=0, Max=31
+2026-02-24 18:20:51,173 - INFO - Successfully processed Sethuraman: 9 preferences loaded
+2026-02-24 18:20:51,173 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/GRENIER 2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:51,178 - INFO - Processing preferences for: Grenier
+2026-02-24 18:20:51,189 - INFO - Grenier shift ranges - Min: 3, Ideal: 3, Max: 3
+2026-02-24 18:20:51,585 - INFO - Successfully processed Grenier: 6 preferences loaded
+2026-02-24 18:20:51,585 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Adamson-2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:51,592 - INFO - Processing preferences for: Adamson
+2026-02-24 18:20:51,604 - INFO - Adamson shift ranges - Min: 0.0, Ideal: 1.0, Max: 1.0
+2026-02-24 18:20:51,993 - INFO - Successfully processed Adamson: 3 preferences loaded
+2026-02-24 18:20:51,993 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Chan 2026 03 SL Selections.xlsx
+2026-02-24 18:20:51,999 - INFO - Processing preferences for: Chan
+2026-02-24 18:20:52,011 - INFO - Chan shift ranges - Min: None, Ideal: 12, Max: None
+2026-02-24 18:20:52,011 - ERROR - CRITICAL: Chan in file C:/Users/Lance/Downloads/2026 03/Chan 2026 03 SL Selections.xlsx has missing shift range values!
+2026-02-24 18:20:52,011 - ERROR -   Min shifts (B42): None
+2026-02-24 18:20:52,011 - ERROR -   Ideal shifts (B43): 12
+2026-02-24 18:20:52,011 - ERROR -   Max shifts (B44): None
+2026-02-24 18:20:52,011 - WARNING -   Using defaults for Chan: Min=0, Max=31
+2026-02-24 18:20:52,403 - INFO - Successfully processed Chan: 82 preferences loaded
+2026-02-24 18:20:52,403 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Da Qi_2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:52,408 - INFO - Processing preferences for: Da Qi
+2026-02-24 18:20:52,421 - INFO - Da Qi shift ranges - Min: 13, Ideal: 14, Max: 15
+2026-02-24 18:20:52,839 - INFO - Successfully processed Da Qi: 279 preferences loaded
+2026-02-24 18:20:52,840 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Duerksen_2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:52,848 - INFO - Processing preferences for: Duerksen
+2026-02-24 18:20:52,860 - INFO - Duerksen shift ranges - Min: 6.0, Ideal: 8.0, Max: 9.0
+2026-02-24 18:20:53,277 - INFO - Successfully processed Duerksen: 279 preferences loaded
+2026-02-24 18:20:53,278 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Feng_2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:53,285 - INFO - Processing preferences for: Feng
+2026-02-24 18:20:53,297 - INFO - Feng shift ranges - Min: 13.0, Ideal: 13.0, Max: 15.0
+2026-02-24 18:20:53,683 - INFO - Successfully processed Feng: 137 preferences loaded
+2026-02-24 18:20:53,684 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Gannage 2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:53,689 - INFO - Processing preferences for: Gannage
+2026-02-24 18:20:53,700 - INFO - Gannage shift ranges - Min: 11, Ideal: 12, Max: 13
+2026-02-24 18:20:54,100 - INFO - Successfully processed Gannage: 107 preferences loaded
+2026-02-24 18:20:54,100 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Ho_2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:54,105 - INFO - Processing preferences for: Ho
+2026-02-24 18:20:54,116 - INFO - Ho shift ranges - Min: 9, Ideal: 9, Max: 9
+2026-02-24 18:20:54,508 - INFO - Successfully processed Ho: 9 preferences loaded
+2026-02-24 18:20:54,508 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Hui 2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:54,515 - INFO - Processing preferences for: Hui
+2026-02-24 18:20:54,526 - INFO - Hui shift ranges - Min: 5, Ideal: 8, Max: 13
+2026-02-24 18:20:54,932 - INFO - Successfully processed Hui: 23 preferences loaded
+2026-02-24 18:20:54,932 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/iMak_2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:54,938 - INFO - Processing preferences for: iMak
+2026-02-24 18:20:54,950 - INFO - iMak shift ranges - Min: 9, Ideal: 10, Max: 11
+2026-02-24 18:20:55,346 - INFO - Successfully processed iMak: 71 preferences loaded
+2026-02-24 18:20:55,346 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Lau 2026 03 SL Selections.xlsx
+2026-02-24 18:20:55,352 - INFO - Processing preferences for: Lau
+2026-02-24 18:20:55,365 - INFO - Lau shift ranges - Min: 9, Ideal: 11, Max: 12
+2026-02-24 18:20:55,766 - INFO - Successfully processed Lau: 113 preferences loaded
+2026-02-24 18:20:55,767 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Lee_2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:55,772 - INFO - Processing preferences for: Lee
+2026-02-24 18:20:55,785 - INFO - Lee shift ranges - Min: 14, Ideal: 15, Max: 16
+2026-02-24 18:20:56,195 - INFO - Successfully processed Lee: 98 preferences loaded
+2026-02-24 18:20:56,195 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Leung 03 SL Selections Template.xlsx
+2026-02-24 18:20:56,200 - INFO - Processing preferences for: Leung
+2026-02-24 18:20:56,212 - INFO - Leung shift ranges - Min: None, Ideal: None, Max: None
+2026-02-24 18:20:56,213 - ERROR - CRITICAL: Leung in file C:/Users/Lance/Downloads/2026 03/Leung 03 SL Selections Template.xlsx has missing shift range values!
+2026-02-24 18:20:56,213 - ERROR -   Min shifts (B42): None
+2026-02-24 18:20:56,213 - ERROR -   Ideal shifts (B43): None
+2026-02-24 18:20:56,213 - ERROR -   Max shifts (B44): None
+2026-02-24 18:20:56,213 - WARNING -   Using defaults for Leung: Min=0, Max=31
+2026-02-24 18:20:56,611 - INFO - Successfully processed Leung: 149 preferences loaded
+2026-02-24 18:20:56,611 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Shin_2026 03 SL Selections.xlsx
+2026-02-24 18:20:56,616 - INFO - Processing preferences for: Shin
+2026-02-24 18:20:56,628 - INFO - Shin shift ranges - Min: 8, Ideal: 10, Max: 10
+2026-02-24 18:20:57,039 - INFO - Successfully processed Shin: 135 preferences loaded
+2026-02-24 18:20:57,039 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Silverstein_2026 03 Selections Template.xlsx
+2026-02-24 18:20:57,045 - INFO - Processing preferences for: Silverstein
+2026-02-24 18:20:57,056 - INFO - Silverstein shift ranges - Min: 7, Ideal: 9, Max: 12
+2026-02-24 18:20:57,464 - INFO - Successfully processed Silverstein: 84 preferences loaded
+2026-02-24 18:20:57,464 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Sommer_2026 03 SL Selections.xlsx
+2026-02-24 18:20:57,470 - INFO - Processing preferences for: Sommer
+2026-02-24 18:20:57,481 - INFO - Sommer shift ranges - Min: 7, Ideal: 9, Max: 10
+2026-02-24 18:20:57,874 - INFO - Successfully processed Sommer: 90 preferences loaded
+2026-02-24 18:20:57,875 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Tan 2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:57,881 - INFO - Processing preferences for: Tan
+2026-02-24 18:20:57,892 - INFO - Tan shift ranges - Min: 11, Ideal: 13, Max: 16
+2026-02-24 18:20:58,311 - INFO - Successfully processed Tan: 173 preferences loaded
+2026-02-24 18:20:58,312 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Van Heer 2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:58,318 - INFO - Processing preferences for: Van Heer
+2026-02-24 18:20:58,329 - INFO - Van Heer shift ranges - Min: 6, Ideal: 10, Max: 12
+2026-02-24 18:20:58,738 - INFO - Successfully processed Van Heer: 77 preferences loaded
+2026-02-24 18:20:58,738 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Waghmare_2026 03 SL Selections.xlsx
+2026-02-24 18:20:58,747 - INFO - Processing preferences for: Waghmare
+2026-02-24 18:20:58,759 - INFO - Waghmare shift ranges - Min: 12, Ideal: 13, Max: 14
+2026-02-24 18:20:59,193 - INFO - Successfully processed Waghmare: 127 preferences loaded
+2026-02-24 18:20:59,194 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Yue 2026 03 SL Selections Template.xlsx
+2026-02-24 18:20:59,199 - INFO - Processing preferences for: Yue
+2026-02-24 18:20:59,212 - INFO - Yue shift ranges - Min: 0, Ideal: 0, Max: 0
+2026-02-24 18:20:59,611 - INFO - Successfully processed Yue: 0 preferences loaded
+2026-02-24 18:20:59,612 - INFO - Loaded 24 physicians, 31 dates from 24 files
+2026-02-24 18:21:30,149 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-24 18:21:30,150 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Shum_2026 03 SL Selections Template.xlsx
+2026-02-24 18:21:30,150 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Ikonnikov_2026 03 SL Selections Template.xlsx
+2026-02-24 18:21:30,150 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx
+2026-02-24 18:21:30,150 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/GRENIER 2026 03 SL Selections Template.xlsx
+2026-02-24 18:21:30,150 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Adamson-2026 03 SL Selections Template.xlsx
+2026-02-24 18:21:30,150 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Chan 2026 03 SL Selections.xlsx
+2026-02-24 18:21:30,150 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Da Qi_2026 03 SL Selections Template.xlsx
+2026-02-24 18:21:30,150 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Duerksen_2026 03 SL Selections Template.xlsx
+2026-02-24 18:21:30,151 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Feng_2026 03 SL Selections Template.xlsx
+2026-02-24 18:21:30,151 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Gannage 2026 03 SL Selections Template.xlsx
+2026-02-24 18:21:30,151 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Ho_2026 03 SL Selections Template.xlsx
+2026-02-24 18:21:30,151 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Hui 2026 03 SL Selections Template.xlsx
+2026-02-24 18:21:30,151 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/iMak_2026 03 SL Selections Template.xlsx
+2026-02-24 18:21:30,151 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Lau 2026 03 SL Selections.xlsx
+2026-02-24 18:21:30,151 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Lee_2026 03 SL Selections Template.xlsx
+2026-02-24 18:21:30,151 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Leung 03 SL Selections Template.xlsx
+2026-02-24 18:21:30,151 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Shin_2026 03 SL Selections.xlsx
+2026-02-24 18:21:30,151 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Silverstein_2026 03 Selections Template.xlsx
+2026-02-24 18:21:30,151 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Sommer_2026 03 SL Selections.xlsx
+2026-02-24 18:21:30,151 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Tan 2026 03 SL Selections Template.xlsx
+2026-02-24 18:21:30,151 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Van Heer 2026 03 SL Selections Template.xlsx
+2026-02-24 18:21:30,152 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Waghmare_2026 03 SL Selections.xlsx
+2026-02-24 18:21:30,152 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Yue 2026 03 SL Selections Template.xlsx
+2026-02-24 18:21:31,051 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-24 18:21:31,059 - INFO - Processing preferences for: Puri
+2026-02-24 18:21:31,070 - INFO - Puri shift ranges - Min: 20, Ideal: 20, Max: 30
+2026-02-24 18:21:31,467 - INFO - Successfully processed Puri: 23 preferences loaded
+2026-02-24 18:21:31,467 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Shum_2026 03 SL Selections Template.xlsx
+2026-02-24 18:21:31,474 - INFO - Processing preferences for: Shum
+2026-02-24 18:21:31,485 - INFO - Shum shift ranges - Min: 4, Ideal: 5, Max: 6
+2026-02-24 18:21:31,891 - INFO - Successfully processed Shum: 70 preferences loaded
+2026-02-24 18:21:31,891 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Ikonnikov_2026 03 SL Selections Template.xlsx
+2026-02-24 18:21:31,897 - INFO - Processing preferences for: Ikonnikov
+2026-02-24 18:21:31,908 - INFO - Ikonnikov shift ranges - Min: 8, Ideal: 12, Max: 14
+2026-02-24 18:21:32,322 - INFO - Successfully processed Ikonnikov: 143 preferences loaded
+2026-02-24 18:21:32,322 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx
+2026-02-24 18:21:32,329 - INFO - Processing preferences for: Sethuraman
+2026-02-24 18:21:32,340 - INFO - Sethuraman shift ranges - Min: None, Ideal: None, Max: None
+2026-02-24 18:21:32,340 - ERROR - CRITICAL: Sethuraman in file C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx has missing shift range values!
+2026-02-24 18:21:32,340 - ERROR -   Min shifts (B42): None
+2026-02-24 18:21:32,340 - ERROR -   Ideal shifts (B43): None
+2026-02-24 18:21:32,341 - ERROR -   Max shifts (B44): None
+2026-02-24 18:21:32,341 - WARNING -   Using defaults for Sethuraman: Min=0, Max=31
+2026-02-24 18:21:32,729 - INFO - Successfully processed Sethuraman: 9 preferences loaded
+2026-02-24 18:21:32,729 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/GRENIER 2026 03 SL Selections Template.xlsx
+2026-02-24 18:21:32,735 - INFO - Processing preferences for: Grenier
+2026-02-24 18:21:32,746 - INFO - Grenier shift ranges - Min: 3, Ideal: 3, Max: 3
+2026-02-24 18:21:33,144 - INFO - Successfully processed Grenier: 6 preferences loaded
+2026-02-24 18:21:33,144 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Adamson-2026 03 SL Selections Template.xlsx
+2026-02-24 18:21:33,152 - INFO - Processing preferences for: Adamson
+2026-02-24 18:21:33,164 - INFO - Adamson shift ranges - Min: 0.0, Ideal: 1.0, Max: 1.0
+2026-02-24 18:21:33,560 - INFO - Successfully processed Adamson: 3 preferences loaded
+2026-02-24 18:21:33,560 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Chan 2026 03 SL Selections.xlsx
+2026-02-24 18:21:33,566 - INFO - Processing preferences for: Chan
+2026-02-24 18:21:33,578 - INFO - Chan shift ranges - Min: None, Ideal: 12, Max: None
+2026-02-24 18:21:33,578 - ERROR - CRITICAL: Chan in file C:/Users/Lance/Downloads/2026 03/Chan 2026 03 SL Selections.xlsx has missing shift range values!
+2026-02-24 18:21:33,578 - ERROR -   Min shifts (B42): None
+2026-02-24 18:21:33,578 - ERROR -   Ideal shifts (B43): 12
+2026-02-24 18:21:33,579 - ERROR -   Max shifts (B44): None
+2026-02-24 18:21:33,579 - WARNING -   Using defaults for Chan: Min=0, Max=31
+2026-02-24 18:21:33,971 - INFO - Successfully processed Chan: 82 preferences loaded
+2026-02-24 18:21:33,971 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Da Qi_2026 03 SL Selections Template.xlsx
+2026-02-24 18:21:33,977 - INFO - Processing preferences for: Da Qi
+2026-02-24 18:21:33,989 - INFO - Da Qi shift ranges - Min: 13, Ideal: 14, Max: 15
+2026-02-24 18:21:34,411 - INFO - Successfully processed Da Qi: 279 preferences loaded
+2026-02-24 18:21:34,411 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Duerksen_2026 03 SL Selections Template.xlsx
+2026-02-24 18:21:34,418 - INFO - Processing preferences for: Duerksen
+2026-02-24 18:21:34,431 - INFO - Duerksen shift ranges - Min: 6.0, Ideal: 8.0, Max: 9.0
+2026-02-24 18:21:34,846 - INFO - Successfully processed Duerksen: 279 preferences loaded
+2026-02-24 18:21:34,847 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Feng_2026 03 SL Selections Template.xlsx
+2026-02-24 18:21:34,854 - INFO - Processing preferences for: Feng
+2026-02-24 18:21:34,866 - INFO - Feng shift ranges - Min: 13.0, Ideal: 13.0, Max: 15.0
+2026-02-24 18:21:35,255 - INFO - Successfully processed Feng: 137 preferences loaded
+2026-02-24 18:21:35,255 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Gannage 2026 03 SL Selections Template.xlsx
+2026-02-24 18:21:35,261 - INFO - Processing preferences for: Gannage
+2026-02-24 18:21:35,272 - INFO - Gannage shift ranges - Min: 11, Ideal: 12, Max: 13
+2026-02-24 18:21:35,679 - INFO - Successfully processed Gannage: 107 preferences loaded
+2026-02-24 18:21:35,679 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Ho_2026 03 SL Selections Template.xlsx
+2026-02-24 18:21:35,685 - INFO - Processing preferences for: Ho
+2026-02-24 18:21:35,696 - INFO - Ho shift ranges - Min: 9, Ideal: 9, Max: 9
+2026-02-24 18:21:36,087 - INFO - Successfully processed Ho: 9 preferences loaded
+2026-02-24 18:21:36,088 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Hui 2026 03 SL Selections Template.xlsx
+2026-02-24 18:21:36,094 - INFO - Processing preferences for: Hui
+2026-02-24 18:21:36,105 - INFO - Hui shift ranges - Min: 5, Ideal: 8, Max: 13
+2026-02-24 18:21:36,520 - INFO - Successfully processed Hui: 23 preferences loaded
+2026-02-24 18:21:36,520 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/iMak_2026 03 SL Selections Template.xlsx
+2026-02-24 18:21:36,526 - INFO - Processing preferences for: iMak
+2026-02-24 18:21:36,537 - INFO - iMak shift ranges - Min: 9, Ideal: 10, Max: 11
+2026-02-24 18:21:36,931 - INFO - Successfully processed iMak: 71 preferences loaded
+2026-02-24 18:21:36,931 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Lau 2026 03 SL Selections.xlsx
+2026-02-24 18:21:36,937 - INFO - Processing preferences for: Lau
+2026-02-24 18:21:36,949 - INFO - Lau shift ranges - Min: 9, Ideal: 11, Max: 12
+2026-02-24 18:21:37,356 - INFO - Successfully processed Lau: 113 preferences loaded
+2026-02-24 18:21:37,356 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Lee_2026 03 SL Selections Template.xlsx
+2026-02-24 18:21:37,362 - INFO - Processing preferences for: Lee
+2026-02-24 18:21:37,374 - INFO - Lee shift ranges - Min: 14, Ideal: 15, Max: 16
+2026-02-24 18:21:37,784 - INFO - Successfully processed Lee: 98 preferences loaded
+2026-02-24 18:21:37,785 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Leung 03 SL Selections Template.xlsx
+2026-02-24 18:21:37,790 - INFO - Processing preferences for: Leung
+2026-02-24 18:21:37,802 - INFO - Leung shift ranges - Min: None, Ideal: None, Max: None
+2026-02-24 18:21:37,802 - ERROR - CRITICAL: Leung in file C:/Users/Lance/Downloads/2026 03/Leung 03 SL Selections Template.xlsx has missing shift range values!
+2026-02-24 18:21:37,802 - ERROR -   Min shifts (B42): None
+2026-02-24 18:21:37,802 - ERROR -   Ideal shifts (B43): None
+2026-02-24 18:21:37,802 - ERROR -   Max shifts (B44): None
+2026-02-24 18:21:37,803 - WARNING -   Using defaults for Leung: Min=0, Max=31
+2026-02-24 18:21:38,203 - INFO - Successfully processed Leung: 149 preferences loaded
+2026-02-24 18:21:38,203 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Shin_2026 03 SL Selections.xlsx
+2026-02-24 18:21:38,209 - INFO - Processing preferences for: Shin
+2026-02-24 18:21:38,221 - INFO - Shin shift ranges - Min: 8, Ideal: 10, Max: 10
+2026-02-24 18:21:38,640 - INFO - Successfully processed Shin: 135 preferences loaded
+2026-02-24 18:21:38,641 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Silverstein_2026 03 Selections Template.xlsx
+2026-02-24 18:21:38,646 - INFO - Processing preferences for: Silverstein
+2026-02-24 18:21:38,658 - INFO - Silverstein shift ranges - Min: 7, Ideal: 9, Max: 12
+2026-02-24 18:21:39,067 - INFO - Successfully processed Silverstein: 84 preferences loaded
+2026-02-24 18:21:39,067 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Sommer_2026 03 SL Selections.xlsx
+2026-02-24 18:21:39,073 - INFO - Processing preferences for: Sommer
+2026-02-24 18:21:39,085 - INFO - Sommer shift ranges - Min: 7, Ideal: 9, Max: 10
+2026-02-24 18:21:39,484 - INFO - Successfully processed Sommer: 90 preferences loaded
+2026-02-24 18:21:39,484 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Tan 2026 03 SL Selections Template.xlsx
+2026-02-24 18:21:39,490 - INFO - Processing preferences for: Tan
+2026-02-24 18:21:39,501 - INFO - Tan shift ranges - Min: 11, Ideal: 13, Max: 16
+2026-02-24 18:21:39,921 - INFO - Successfully processed Tan: 173 preferences loaded
+2026-02-24 18:21:39,921 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Van Heer 2026 03 SL Selections Template.xlsx
+2026-02-24 18:21:39,927 - INFO - Processing preferences for: Van Heer
+2026-02-24 18:21:39,939 - INFO - Van Heer shift ranges - Min: 6, Ideal: 10, Max: 12
+2026-02-24 18:21:40,337 - INFO - Successfully processed Van Heer: 77 preferences loaded
+2026-02-24 18:21:40,338 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Waghmare_2026 03 SL Selections.xlsx
+2026-02-24 18:21:40,346 - INFO - Processing preferences for: Waghmare
+2026-02-24 18:21:40,358 - INFO - Waghmare shift ranges - Min: 12, Ideal: 13, Max: 14
+2026-02-24 18:21:40,775 - INFO - Successfully processed Waghmare: 127 preferences loaded
+2026-02-24 18:21:40,776 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Yue 2026 03 SL Selections Template.xlsx
+2026-02-24 18:21:40,781 - INFO - Processing preferences for: Yue
+2026-02-24 18:21:40,793 - INFO - Yue shift ranges - Min: 0, Ideal: 0, Max: 0
+2026-02-24 18:21:41,193 - INFO - Successfully processed Yue: 0 preferences loaded
+2026-02-24 18:21:41,193 - INFO - Loaded 24 physicians, 31 dates from 24 files
+2026-02-24 18:23:34,775 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-24 18:23:34,775 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Shum_2026 03 SL Selections Template.xlsx
+2026-02-24 18:23:34,775 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Ikonnikov_2026 03 SL Selections Template.xlsx
+2026-02-24 18:23:34,775 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx
+2026-02-24 18:23:34,775 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/GRENIER 2026 03 SL Selections Template.xlsx
+2026-02-24 18:23:34,776 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Adamson-2026 03 SL Selections Template.xlsx
+2026-02-24 18:23:34,776 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Chan 2026 03 SL Selections.xlsx
+2026-02-24 18:23:34,776 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Da Qi_2026 03 SL Selections Template.xlsx
+2026-02-24 18:23:34,776 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Duerksen_2026 03 SL Selections Template.xlsx
+2026-02-24 18:23:34,776 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Feng_2026 03 SL Selections Template.xlsx
+2026-02-24 18:23:34,776 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Gannage 2026 03 SL Selections Template.xlsx
+2026-02-24 18:23:34,776 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Ho_2026 03 SL Selections Template.xlsx
+2026-02-24 18:23:34,776 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Hui 2026 03 SL Selections Template.xlsx
+2026-02-24 18:23:34,776 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/iMak_2026 03 SL Selections Template.xlsx
+2026-02-24 18:23:34,776 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Lau 2026 03 SL Selections.xlsx
+2026-02-24 18:23:34,776 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Lee_2026 03 SL Selections Template.xlsx
+2026-02-24 18:23:34,776 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Leung 03 SL Selections Template.xlsx
+2026-02-24 18:23:34,777 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Shin_2026 03 SL Selections.xlsx
+2026-02-24 18:23:34,777 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Silverstein_2026 03 Selections Template.xlsx
+2026-02-24 18:23:34,777 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Sommer_2026 03 SL Selections.xlsx
+2026-02-24 18:23:34,777 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Tan 2026 03 SL Selections Template.xlsx
+2026-02-24 18:23:34,777 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Van Heer 2026 03 SL Selections Template.xlsx
+2026-02-24 18:23:34,777 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Waghmare_2026 03 SL Selections.xlsx
+2026-02-24 18:23:34,777 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Yue 2026 03 SL Selections Template.xlsx
+2026-02-24 18:23:35,388 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-24 18:23:35,395 - INFO - Processing preferences for: Puri
+2026-02-24 18:23:35,406 - INFO - Puri shift ranges - Min: 20, Ideal: 20, Max: 30
+2026-02-24 18:23:35,797 - INFO - Successfully processed Puri: 23 preferences loaded
+2026-02-24 18:23:35,797 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Shum_2026 03 SL Selections Template.xlsx
+2026-02-24 18:23:35,805 - INFO - Processing preferences for: Shum
+2026-02-24 18:23:35,816 - INFO - Shum shift ranges - Min: 4, Ideal: 5, Max: 6
+2026-02-24 18:23:36,216 - INFO - Successfully processed Shum: 70 preferences loaded
+2026-02-24 18:23:36,216 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Ikonnikov_2026 03 SL Selections Template.xlsx
+2026-02-24 18:23:36,222 - INFO - Processing preferences for: Ikonnikov
+2026-02-24 18:23:36,233 - INFO - Ikonnikov shift ranges - Min: 8, Ideal: 12, Max: 14
+2026-02-24 18:23:36,640 - INFO - Successfully processed Ikonnikov: 143 preferences loaded
+2026-02-24 18:23:36,640 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx
+2026-02-24 18:23:36,645 - INFO - Processing preferences for: Sethuraman
+2026-02-24 18:23:36,656 - INFO - Sethuraman shift ranges - Min: None, Ideal: None, Max: None
+2026-02-24 18:23:36,656 - ERROR - CRITICAL: Sethuraman in file C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx has missing shift range values!
+2026-02-24 18:23:36,657 - ERROR -   Min shifts (B42): None
+2026-02-24 18:23:36,657 - ERROR -   Ideal shifts (B43): None
+2026-02-24 18:23:36,657 - ERROR -   Max shifts (B44): None
+2026-02-24 18:23:36,657 - WARNING -   Using defaults for Sethuraman: Min=0, Max=31
+2026-02-24 18:23:37,038 - INFO - Successfully processed Sethuraman: 9 preferences loaded
+2026-02-24 18:23:37,038 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/GRENIER 2026 03 SL Selections Template.xlsx
+2026-02-24 18:23:37,044 - INFO - Processing preferences for: Grenier
+2026-02-24 18:23:37,055 - INFO - Grenier shift ranges - Min: 3, Ideal: 3, Max: 3
+2026-02-24 18:23:37,448 - INFO - Successfully processed Grenier: 6 preferences loaded
+2026-02-24 18:23:37,449 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Adamson-2026 03 SL Selections Template.xlsx
+2026-02-24 18:23:37,456 - INFO - Processing preferences for: Adamson
+2026-02-24 18:23:37,467 - INFO - Adamson shift ranges - Min: 0.0, Ideal: 1.0, Max: 1.0
+2026-02-24 18:23:37,858 - INFO - Successfully processed Adamson: 3 preferences loaded
+2026-02-24 18:23:37,858 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Chan 2026 03 SL Selections.xlsx
+2026-02-24 18:23:37,864 - INFO - Processing preferences for: Chan
+2026-02-24 18:23:37,876 - INFO - Chan shift ranges - Min: None, Ideal: 12, Max: None
+2026-02-24 18:23:37,876 - ERROR - CRITICAL: Chan in file C:/Users/Lance/Downloads/2026 03/Chan 2026 03 SL Selections.xlsx has missing shift range values!
+2026-02-24 18:23:37,876 - ERROR -   Min shifts (B42): None
+2026-02-24 18:23:37,876 - ERROR -   Ideal shifts (B43): 12
+2026-02-24 18:23:37,877 - ERROR -   Max shifts (B44): None
+2026-02-24 18:23:37,877 - WARNING -   Using defaults for Chan: Min=0, Max=31
+2026-02-24 18:23:38,267 - INFO - Successfully processed Chan: 82 preferences loaded
+2026-02-24 18:23:38,267 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Da Qi_2026 03 SL Selections Template.xlsx
+2026-02-24 18:23:38,272 - INFO - Processing preferences for: Da Qi
+2026-02-24 18:23:38,284 - INFO - Da Qi shift ranges - Min: 13, Ideal: 14, Max: 15
+2026-02-24 18:23:38,699 - INFO - Successfully processed Da Qi: 279 preferences loaded
+2026-02-24 18:23:38,700 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Duerksen_2026 03 SL Selections Template.xlsx
+2026-02-24 18:23:38,708 - INFO - Processing preferences for: Duerksen
+2026-02-24 18:23:38,719 - INFO - Duerksen shift ranges - Min: 6.0, Ideal: 8.0, Max: 9.0
+2026-02-24 18:23:39,131 - INFO - Successfully processed Duerksen: 279 preferences loaded
+2026-02-24 18:23:39,132 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Feng_2026 03 SL Selections Template.xlsx
+2026-02-24 18:23:39,140 - INFO - Processing preferences for: Feng
+2026-02-24 18:23:39,152 - INFO - Feng shift ranges - Min: 13.0, Ideal: 13.0, Max: 15.0
+2026-02-24 18:23:39,539 - INFO - Successfully processed Feng: 137 preferences loaded
+2026-02-24 18:23:39,539 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Gannage 2026 03 SL Selections Template.xlsx
+2026-02-24 18:23:39,545 - INFO - Processing preferences for: Gannage
+2026-02-24 18:23:39,556 - INFO - Gannage shift ranges - Min: 11, Ideal: 12, Max: 13
+2026-02-24 18:23:39,956 - INFO - Successfully processed Gannage: 107 preferences loaded
+2026-02-24 18:23:39,956 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Ho_2026 03 SL Selections Template.xlsx
+2026-02-24 18:23:39,962 - INFO - Processing preferences for: Ho
+2026-02-24 18:23:39,974 - INFO - Ho shift ranges - Min: 9, Ideal: 9, Max: 9
+2026-02-24 18:23:40,365 - INFO - Successfully processed Ho: 9 preferences loaded
+2026-02-24 18:23:40,365 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Hui 2026 03 SL Selections Template.xlsx
+2026-02-24 18:23:40,372 - INFO - Processing preferences for: Hui
+2026-02-24 18:23:40,383 - INFO - Hui shift ranges - Min: 5, Ideal: 8, Max: 13
+2026-02-24 18:23:40,792 - INFO - Successfully processed Hui: 23 preferences loaded
+2026-02-24 18:23:40,793 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/iMak_2026 03 SL Selections Template.xlsx
+2026-02-24 18:23:40,798 - INFO - Processing preferences for: iMak
+2026-02-24 18:23:40,809 - INFO - iMak shift ranges - Min: 9, Ideal: 10, Max: 11
+2026-02-24 18:23:41,196 - INFO - Successfully processed iMak: 71 preferences loaded
+2026-02-24 18:23:41,197 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Lau 2026 03 SL Selections.xlsx
+2026-02-24 18:23:41,203 - INFO - Processing preferences for: Lau
+2026-02-24 18:23:41,215 - INFO - Lau shift ranges - Min: 9, Ideal: 11, Max: 12
+2026-02-24 18:23:41,619 - INFO - Successfully processed Lau: 113 preferences loaded
+2026-02-24 18:23:41,619 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Lee_2026 03 SL Selections Template.xlsx
+2026-02-24 18:23:41,625 - INFO - Processing preferences for: Lee
+2026-02-24 18:23:41,638 - INFO - Lee shift ranges - Min: 14, Ideal: 15, Max: 16
+2026-02-24 18:23:42,042 - INFO - Successfully processed Lee: 98 preferences loaded
+2026-02-24 18:23:42,043 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Leung 03 SL Selections Template.xlsx
+2026-02-24 18:23:42,048 - INFO - Processing preferences for: Leung
+2026-02-24 18:23:42,060 - INFO - Leung shift ranges - Min: None, Ideal: None, Max: None
+2026-02-24 18:23:42,060 - ERROR - CRITICAL: Leung in file C:/Users/Lance/Downloads/2026 03/Leung 03 SL Selections Template.xlsx has missing shift range values!
+2026-02-24 18:23:42,060 - ERROR -   Min shifts (B42): None
+2026-02-24 18:23:42,060 - ERROR -   Ideal shifts (B43): None
+2026-02-24 18:23:42,060 - ERROR -   Max shifts (B44): None
+2026-02-24 18:23:42,060 - WARNING -   Using defaults for Leung: Min=0, Max=31
+2026-02-24 18:23:42,455 - INFO - Successfully processed Leung: 149 preferences loaded
+2026-02-24 18:23:42,456 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Shin_2026 03 SL Selections.xlsx
+2026-02-24 18:23:42,462 - INFO - Processing preferences for: Shin
+2026-02-24 18:23:42,475 - INFO - Shin shift ranges - Min: 8, Ideal: 10, Max: 10
+2026-02-24 18:23:42,886 - INFO - Successfully processed Shin: 135 preferences loaded
+2026-02-24 18:23:42,886 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Silverstein_2026 03 Selections Template.xlsx
+2026-02-24 18:23:42,892 - INFO - Processing preferences for: Silverstein
+2026-02-24 18:23:42,904 - INFO - Silverstein shift ranges - Min: 7, Ideal: 9, Max: 12
+2026-02-24 18:23:43,311 - INFO - Successfully processed Silverstein: 84 preferences loaded
+2026-02-24 18:23:43,311 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Sommer_2026 03 SL Selections.xlsx
+2026-02-24 18:23:43,317 - INFO - Processing preferences for: Sommer
+2026-02-24 18:23:43,328 - INFO - Sommer shift ranges - Min: 7, Ideal: 9, Max: 10
+2026-02-24 18:23:43,722 - INFO - Successfully processed Sommer: 90 preferences loaded
+2026-02-24 18:23:43,722 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Tan 2026 03 SL Selections Template.xlsx
+2026-02-24 18:23:43,729 - INFO - Processing preferences for: Tan
+2026-02-24 18:23:43,740 - INFO - Tan shift ranges - Min: 11, Ideal: 13, Max: 16
+2026-02-24 18:23:44,151 - INFO - Successfully processed Tan: 173 preferences loaded
+2026-02-24 18:23:44,152 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Van Heer 2026 03 SL Selections Template.xlsx
+2026-02-24 18:23:44,158 - INFO - Processing preferences for: Van Heer
+2026-02-24 18:23:44,169 - INFO - Van Heer shift ranges - Min: 6, Ideal: 10, Max: 12
+2026-02-24 18:23:44,559 - INFO - Successfully processed Van Heer: 77 preferences loaded
+2026-02-24 18:23:44,559 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Waghmare_2026 03 SL Selections.xlsx
+2026-02-24 18:23:44,568 - INFO - Processing preferences for: Waghmare
+2026-02-24 18:23:44,580 - INFO - Waghmare shift ranges - Min: 12, Ideal: 13, Max: 14
+2026-02-24 18:23:44,991 - INFO - Successfully processed Waghmare: 127 preferences loaded
+2026-02-24 18:23:44,991 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Yue 2026 03 SL Selections Template.xlsx
+2026-02-24 18:23:44,997 - INFO - Processing preferences for: Yue
+2026-02-24 18:23:45,009 - INFO - Yue shift ranges - Min: 0, Ideal: 0, Max: 0
+2026-02-24 18:23:45,407 - INFO - Successfully processed Yue: 0 preferences loaded
+2026-02-24 18:23:45,407 - INFO - Loaded 24 physicians, 31 dates from 24 files
+2026-02-24 18:26:43,772 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-24 18:26:43,773 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Shum_2026 03 SL Selections Template.xlsx
+2026-02-24 18:26:43,773 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Ikonnikov_2026 03 SL Selections Template.xlsx
+2026-02-24 18:26:43,773 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx
+2026-02-24 18:26:43,773 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/GRENIER 2026 03 SL Selections Template.xlsx
+2026-02-24 18:26:43,773 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Adamson-2026 03 SL Selections Template.xlsx
+2026-02-24 18:26:43,773 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Chan 2026 03 SL Selections.xlsx
+2026-02-24 18:26:43,773 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Da Qi_2026 03 SL Selections Template.xlsx
+2026-02-24 18:26:43,773 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Duerksen_2026 03 SL Selections Template.xlsx
+2026-02-24 18:26:43,773 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Feng_2026 03 SL Selections Template.xlsx
+2026-02-24 18:26:43,773 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Gannage 2026 03 SL Selections Template.xlsx
+2026-02-24 18:26:43,774 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Ho_2026 03 SL Selections Template.xlsx
+2026-02-24 18:26:43,774 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Hui 2026 03 SL Selections Template.xlsx
+2026-02-24 18:26:43,774 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/iMak_2026 03 SL Selections Template.xlsx
+2026-02-24 18:26:43,774 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Lau 2026 03 SL Selections.xlsx
+2026-02-24 18:26:43,774 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Lee_2026 03 SL Selections Template.xlsx
+2026-02-24 18:26:43,774 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Leung 03 SL Selections Template.xlsx
+2026-02-24 18:26:43,774 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Shin_2026 03 SL Selections.xlsx
+2026-02-24 18:26:43,774 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Silverstein_2026 03 Selections Template.xlsx
+2026-02-24 18:26:43,774 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Sommer_2026 03 SL Selections.xlsx
+2026-02-24 18:26:43,774 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Tan 2026 03 SL Selections Template.xlsx
+2026-02-24 18:26:43,775 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Van Heer 2026 03 SL Selections Template.xlsx
+2026-02-24 18:26:43,775 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Waghmare_2026 03 SL Selections.xlsx
+2026-02-24 18:26:43,775 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Yue 2026 03 SL Selections Template.xlsx
+2026-02-24 18:26:44,232 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-24 18:26:44,239 - INFO - Processing preferences for: Puri
+2026-02-24 18:26:44,251 - INFO - Puri shift ranges - Min: 20, Ideal: 20, Max: 30
+2026-02-24 18:26:44,647 - INFO - Successfully processed Puri: 23 preferences loaded
+2026-02-24 18:26:44,647 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Shum_2026 03 SL Selections Template.xlsx
+2026-02-24 18:26:44,654 - INFO - Processing preferences for: Shum
+2026-02-24 18:26:44,665 - INFO - Shum shift ranges - Min: 4, Ideal: 5, Max: 6
+2026-02-24 18:26:45,070 - INFO - Successfully processed Shum: 70 preferences loaded
+2026-02-24 18:26:45,070 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Ikonnikov_2026 03 SL Selections Template.xlsx
+2026-02-24 18:26:45,076 - INFO - Processing preferences for: Ikonnikov
+2026-02-24 18:26:45,088 - INFO - Ikonnikov shift ranges - Min: 8, Ideal: 12, Max: 14
+2026-02-24 18:26:45,499 - INFO - Successfully processed Ikonnikov: 143 preferences loaded
+2026-02-24 18:26:45,499 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx
+2026-02-24 18:26:45,506 - INFO - Processing preferences for: Sethuraman
+2026-02-24 18:26:45,517 - INFO - Sethuraman shift ranges - Min: None, Ideal: None, Max: None
+2026-02-24 18:26:45,517 - ERROR - CRITICAL: Sethuraman in file C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx has missing shift range values!
+2026-02-24 18:26:45,517 - ERROR -   Min shifts (B42): None
+2026-02-24 18:26:45,517 - ERROR -   Ideal shifts (B43): None
+2026-02-24 18:26:45,517 - ERROR -   Max shifts (B44): None
+2026-02-24 18:26:45,517 - WARNING -   Using defaults for Sethuraman: Min=0, Max=31
+2026-02-24 18:26:45,902 - INFO - Successfully processed Sethuraman: 9 preferences loaded
+2026-02-24 18:26:45,903 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/GRENIER 2026 03 SL Selections Template.xlsx
+2026-02-24 18:26:45,908 - INFO - Processing preferences for: Grenier
+2026-02-24 18:26:45,919 - INFO - Grenier shift ranges - Min: 3, Ideal: 3, Max: 3
+2026-02-24 18:26:46,319 - INFO - Successfully processed Grenier: 6 preferences loaded
+2026-02-24 18:26:46,319 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Adamson-2026 03 SL Selections Template.xlsx
+2026-02-24 18:26:46,326 - INFO - Processing preferences for: Adamson
+2026-02-24 18:26:46,338 - INFO - Adamson shift ranges - Min: 0.0, Ideal: 1.0, Max: 1.0
+2026-02-24 18:26:46,734 - INFO - Successfully processed Adamson: 3 preferences loaded
+2026-02-24 18:26:46,734 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Chan 2026 03 SL Selections.xlsx
+2026-02-24 18:26:46,741 - INFO - Processing preferences for: Chan
+2026-02-24 18:26:46,753 - INFO - Chan shift ranges - Min: None, Ideal: 12, Max: None
+2026-02-24 18:26:46,753 - ERROR - CRITICAL: Chan in file C:/Users/Lance/Downloads/2026 03/Chan 2026 03 SL Selections.xlsx has missing shift range values!
+2026-02-24 18:26:46,753 - ERROR -   Min shifts (B42): None
+2026-02-24 18:26:46,753 - ERROR -   Ideal shifts (B43): 12
+2026-02-24 18:26:46,754 - ERROR -   Max shifts (B44): None
+2026-02-24 18:26:46,754 - WARNING -   Using defaults for Chan: Min=0, Max=31
+2026-02-24 18:26:47,164 - INFO - Successfully processed Chan: 82 preferences loaded
+2026-02-24 18:26:47,164 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Da Qi_2026 03 SL Selections Template.xlsx
+2026-02-24 18:26:47,171 - INFO - Processing preferences for: Da Qi
+2026-02-24 18:26:47,185 - INFO - Da Qi shift ranges - Min: 13, Ideal: 14, Max: 15
+2026-02-24 18:26:47,613 - INFO - Successfully processed Da Qi: 279 preferences loaded
+2026-02-24 18:26:47,613 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Duerksen_2026 03 SL Selections Template.xlsx
+2026-02-24 18:26:47,620 - INFO - Processing preferences for: Duerksen
+2026-02-24 18:26:47,633 - INFO - Duerksen shift ranges - Min: 6.0, Ideal: 8.0, Max: 9.0
+2026-02-24 18:26:48,053 - INFO - Successfully processed Duerksen: 279 preferences loaded
+2026-02-24 18:26:48,053 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Feng_2026 03 SL Selections Template.xlsx
+2026-02-24 18:26:48,060 - INFO - Processing preferences for: Feng
+2026-02-24 18:26:48,073 - INFO - Feng shift ranges - Min: 13.0, Ideal: 13.0, Max: 15.0
+2026-02-24 18:26:48,463 - INFO - Successfully processed Feng: 137 preferences loaded
+2026-02-24 18:26:48,463 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Gannage 2026 03 SL Selections Template.xlsx
+2026-02-24 18:26:48,469 - INFO - Processing preferences for: Gannage
+2026-02-24 18:26:48,480 - INFO - Gannage shift ranges - Min: 11, Ideal: 12, Max: 13
+2026-02-24 18:26:48,883 - INFO - Successfully processed Gannage: 107 preferences loaded
+2026-02-24 18:26:48,883 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Ho_2026 03 SL Selections Template.xlsx
+2026-02-24 18:26:48,889 - INFO - Processing preferences for: Ho
+2026-02-24 18:26:48,900 - INFO - Ho shift ranges - Min: 9, Ideal: 9, Max: 9
+2026-02-24 18:26:49,295 - INFO - Successfully processed Ho: 9 preferences loaded
+2026-02-24 18:26:49,296 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Hui 2026 03 SL Selections Template.xlsx
+2026-02-24 18:26:49,303 - INFO - Processing preferences for: Hui
+2026-02-24 18:26:49,315 - INFO - Hui shift ranges - Min: 5, Ideal: 8, Max: 13
+2026-02-24 18:26:49,729 - INFO - Successfully processed Hui: 23 preferences loaded
+2026-02-24 18:26:49,729 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/iMak_2026 03 SL Selections Template.xlsx
+2026-02-24 18:26:49,735 - INFO - Processing preferences for: iMak
+2026-02-24 18:26:49,747 - INFO - iMak shift ranges - Min: 9, Ideal: 10, Max: 11
+2026-02-24 18:26:50,142 - INFO - Successfully processed iMak: 71 preferences loaded
+2026-02-24 18:26:50,142 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Lau 2026 03 SL Selections.xlsx
+2026-02-24 18:26:50,148 - INFO - Processing preferences for: Lau
+2026-02-24 18:26:50,160 - INFO - Lau shift ranges - Min: 9, Ideal: 11, Max: 12
+2026-02-24 18:26:50,568 - INFO - Successfully processed Lau: 113 preferences loaded
+2026-02-24 18:26:50,568 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Lee_2026 03 SL Selections Template.xlsx
+2026-02-24 18:26:50,574 - INFO - Processing preferences for: Lee
+2026-02-24 18:26:50,587 - INFO - Lee shift ranges - Min: 14, Ideal: 15, Max: 16
+2026-02-24 18:26:50,999 - INFO - Successfully processed Lee: 98 preferences loaded
+2026-02-24 18:26:50,999 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Leung 03 SL Selections Template.xlsx
+2026-02-24 18:26:51,005 - INFO - Processing preferences for: Leung
+2026-02-24 18:26:51,018 - INFO - Leung shift ranges - Min: None, Ideal: None, Max: None
+2026-02-24 18:26:51,019 - ERROR - CRITICAL: Leung in file C:/Users/Lance/Downloads/2026 03/Leung 03 SL Selections Template.xlsx has missing shift range values!
+2026-02-24 18:26:51,019 - ERROR -   Min shifts (B42): None
+2026-02-24 18:26:51,019 - ERROR -   Ideal shifts (B43): None
+2026-02-24 18:26:51,019 - ERROR -   Max shifts (B44): None
+2026-02-24 18:26:51,019 - WARNING -   Using defaults for Leung: Min=0, Max=31
+2026-02-24 18:26:51,420 - INFO - Successfully processed Leung: 149 preferences loaded
+2026-02-24 18:26:51,420 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Shin_2026 03 SL Selections.xlsx
+2026-02-24 18:26:51,426 - INFO - Processing preferences for: Shin
+2026-02-24 18:26:51,438 - INFO - Shin shift ranges - Min: 8, Ideal: 10, Max: 10
+2026-02-24 18:26:51,862 - INFO - Successfully processed Shin: 135 preferences loaded
+2026-02-24 18:26:51,862 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Silverstein_2026 03 Selections Template.xlsx
+2026-02-24 18:26:51,868 - INFO - Processing preferences for: Silverstein
+2026-02-24 18:26:51,880 - INFO - Silverstein shift ranges - Min: 7, Ideal: 9, Max: 12
+2026-02-24 18:26:52,290 - INFO - Successfully processed Silverstein: 84 preferences loaded
+2026-02-24 18:26:52,290 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Sommer_2026 03 SL Selections.xlsx
+2026-02-24 18:26:52,296 - INFO - Processing preferences for: Sommer
+2026-02-24 18:26:52,308 - INFO - Sommer shift ranges - Min: 7, Ideal: 9, Max: 10
+2026-02-24 18:26:52,713 - INFO - Successfully processed Sommer: 90 preferences loaded
+2026-02-24 18:26:52,713 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Tan 2026 03 SL Selections Template.xlsx
+2026-02-24 18:26:52,720 - INFO - Processing preferences for: Tan
+2026-02-24 18:26:52,732 - INFO - Tan shift ranges - Min: 11, Ideal: 13, Max: 16
+2026-02-24 18:26:53,144 - INFO - Successfully processed Tan: 173 preferences loaded
+2026-02-24 18:26:53,144 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Van Heer 2026 03 SL Selections Template.xlsx
+2026-02-24 18:26:53,150 - INFO - Processing preferences for: Van Heer
+2026-02-24 18:26:53,161 - INFO - Van Heer shift ranges - Min: 6, Ideal: 10, Max: 12
+2026-02-24 18:26:53,555 - INFO - Successfully processed Van Heer: 77 preferences loaded
+2026-02-24 18:26:53,556 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Waghmare_2026 03 SL Selections.xlsx
+2026-02-24 18:26:53,564 - INFO - Processing preferences for: Waghmare
+2026-02-24 18:26:53,576 - INFO - Waghmare shift ranges - Min: 12, Ideal: 13, Max: 14
+2026-02-24 18:26:53,994 - INFO - Successfully processed Waghmare: 127 preferences loaded
+2026-02-24 18:26:53,994 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Yue 2026 03 SL Selections Template.xlsx
+2026-02-24 18:26:54,000 - INFO - Processing preferences for: Yue
+2026-02-24 18:26:54,012 - INFO - Yue shift ranges - Min: 0, Ideal: 0, Max: 0
+2026-02-24 18:26:54,411 - INFO - Successfully processed Yue: 0 preferences loaded
+2026-02-24 18:26:54,411 - INFO - Loaded 24 physicians, 31 dates from 24 files
+2026-02-24 18:28:37,522 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-24 18:28:37,522 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Shum_2026 03 SL Selections Template.xlsx
+2026-02-24 18:28:37,522 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Ikonnikov_2026 03 SL Selections Template.xlsx
+2026-02-24 18:28:37,522 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx
+2026-02-24 18:28:37,522 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/GRENIER 2026 03 SL Selections Template.xlsx
+2026-02-24 18:28:37,522 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Adamson-2026 03 SL Selections Template.xlsx
+2026-02-24 18:28:37,523 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Chan 2026 03 SL Selections.xlsx
+2026-02-24 18:28:37,523 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Da Qi_2026 03 SL Selections Template.xlsx
+2026-02-24 18:28:37,523 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Duerksen_2026 03 SL Selections Template.xlsx
+2026-02-24 18:28:37,523 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Feng_2026 03 SL Selections Template.xlsx
+2026-02-24 18:28:37,523 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Gannage 2026 03 SL Selections Template.xlsx
+2026-02-24 18:28:37,523 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Ho_2026 03 SL Selections Template.xlsx
+2026-02-24 18:28:37,523 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Hui 2026 03 SL Selections Template.xlsx
+2026-02-24 18:28:37,523 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/iMak_2026 03 SL Selections Template.xlsx
+2026-02-24 18:28:37,523 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Lau 2026 03 SL Selections.xlsx
+2026-02-24 18:28:37,523 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Lee_2026 03 SL Selections Template.xlsx
+2026-02-24 18:28:37,524 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Leung 03 SL Selections Template.xlsx
+2026-02-24 18:28:37,524 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Shin_2026 03 SL Selections.xlsx
+2026-02-24 18:28:37,524 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Silverstein_2026 03 Selections Template.xlsx
+2026-02-24 18:28:37,524 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Sommer_2026 03 SL Selections.xlsx
+2026-02-24 18:28:37,524 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Tan 2026 03 SL Selections Template.xlsx
+2026-02-24 18:28:37,524 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Van Heer 2026 03 SL Selections Template.xlsx
+2026-02-24 18:28:37,524 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Waghmare_2026 03 SL Selections.xlsx
+2026-02-24 18:28:37,524 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Yue 2026 03 SL Selections Template.xlsx
+2026-02-24 18:28:38,544 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-24 18:28:38,552 - INFO - Processing preferences for: Puri
+2026-02-24 18:28:38,563 - INFO - Puri shift ranges - Min: 20, Ideal: 20, Max: 30
+2026-02-24 18:28:38,959 - INFO - Successfully processed Puri: 23 preferences loaded
+2026-02-24 18:28:38,959 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Shum_2026 03 SL Selections Template.xlsx
+2026-02-24 18:28:38,966 - INFO - Processing preferences for: Shum
+2026-02-24 18:28:38,978 - INFO - Shum shift ranges - Min: 4, Ideal: 5, Max: 6
+2026-02-24 18:28:39,379 - INFO - Successfully processed Shum: 70 preferences loaded
+2026-02-24 18:28:39,379 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Ikonnikov_2026 03 SL Selections Template.xlsx
+2026-02-24 18:28:39,385 - INFO - Processing preferences for: Ikonnikov
+2026-02-24 18:28:39,396 - INFO - Ikonnikov shift ranges - Min: 8, Ideal: 12, Max: 14
+2026-02-24 18:28:39,795 - INFO - Successfully processed Ikonnikov: 143 preferences loaded
+2026-02-24 18:28:39,795 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx
+2026-02-24 18:28:39,800 - INFO - Processing preferences for: Sethuraman
+2026-02-24 18:28:39,811 - INFO - Sethuraman shift ranges - Min: None, Ideal: None, Max: None
+2026-02-24 18:28:39,811 - ERROR - CRITICAL: Sethuraman in file C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx has missing shift range values!
+2026-02-24 18:28:39,811 - ERROR -   Min shifts (B42): None
+2026-02-24 18:28:39,811 - ERROR -   Ideal shifts (B43): None
+2026-02-24 18:28:39,812 - ERROR -   Max shifts (B44): None
+2026-02-24 18:28:39,812 - WARNING -   Using defaults for Sethuraman: Min=0, Max=31
+2026-02-24 18:28:40,197 - INFO - Successfully processed Sethuraman: 9 preferences loaded
+2026-02-24 18:28:40,197 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/GRENIER 2026 03 SL Selections Template.xlsx
+2026-02-24 18:28:40,203 - INFO - Processing preferences for: Grenier
+2026-02-24 18:28:40,214 - INFO - Grenier shift ranges - Min: 3, Ideal: 3, Max: 3
+2026-02-24 18:28:40,607 - INFO - Successfully processed Grenier: 6 preferences loaded
+2026-02-24 18:28:40,607 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Adamson-2026 03 SL Selections Template.xlsx
+2026-02-24 18:28:40,614 - INFO - Processing preferences for: Adamson
+2026-02-24 18:28:40,626 - INFO - Adamson shift ranges - Min: 0.0, Ideal: 1.0, Max: 1.0
+2026-02-24 18:28:41,010 - INFO - Successfully processed Adamson: 3 preferences loaded
+2026-02-24 18:28:41,010 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Chan 2026 03 SL Selections.xlsx
+2026-02-24 18:28:41,016 - INFO - Processing preferences for: Chan
+2026-02-24 18:28:41,027 - INFO - Chan shift ranges - Min: None, Ideal: 12, Max: None
+2026-02-24 18:28:41,027 - ERROR - CRITICAL: Chan in file C:/Users/Lance/Downloads/2026 03/Chan 2026 03 SL Selections.xlsx has missing shift range values!
+2026-02-24 18:28:41,028 - ERROR -   Min shifts (B42): None
+2026-02-24 18:28:41,028 - ERROR -   Ideal shifts (B43): 12
+2026-02-24 18:28:41,028 - ERROR -   Max shifts (B44): None
+2026-02-24 18:28:41,028 - WARNING -   Using defaults for Chan: Min=0, Max=31
+2026-02-24 18:28:41,420 - INFO - Successfully processed Chan: 82 preferences loaded
+2026-02-24 18:28:41,420 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Da Qi_2026 03 SL Selections Template.xlsx
+2026-02-24 18:28:41,426 - INFO - Processing preferences for: Da Qi
+2026-02-24 18:28:41,439 - INFO - Da Qi shift ranges - Min: 13, Ideal: 14, Max: 15
+2026-02-24 18:28:41,850 - INFO - Successfully processed Da Qi: 279 preferences loaded
+2026-02-24 18:28:41,850 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Duerksen_2026 03 SL Selections Template.xlsx
+2026-02-24 18:28:41,858 - INFO - Processing preferences for: Duerksen
+2026-02-24 18:28:41,869 - INFO - Duerksen shift ranges - Min: 6.0, Ideal: 8.0, Max: 9.0
+2026-02-24 18:28:42,280 - INFO - Successfully processed Duerksen: 279 preferences loaded
+2026-02-24 18:28:42,280 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Feng_2026 03 SL Selections Template.xlsx
+2026-02-24 18:28:42,287 - INFO - Processing preferences for: Feng
+2026-02-24 18:28:42,299 - INFO - Feng shift ranges - Min: 13.0, Ideal: 13.0, Max: 15.0
+2026-02-24 18:28:42,681 - INFO - Successfully processed Feng: 137 preferences loaded
+2026-02-24 18:28:42,681 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Gannage 2026 03 SL Selections Template.xlsx
+2026-02-24 18:28:42,687 - INFO - Processing preferences for: Gannage
+2026-02-24 18:28:42,698 - INFO - Gannage shift ranges - Min: 11, Ideal: 12, Max: 13
+2026-02-24 18:28:43,096 - INFO - Successfully processed Gannage: 107 preferences loaded
+2026-02-24 18:28:43,096 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Ho_2026 03 SL Selections Template.xlsx
+2026-02-24 18:28:43,102 - INFO - Processing preferences for: Ho
+2026-02-24 18:28:43,113 - INFO - Ho shift ranges - Min: 9, Ideal: 9, Max: 9
+2026-02-24 18:28:43,508 - INFO - Successfully processed Ho: 9 preferences loaded
+2026-02-24 18:28:43,508 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Hui 2026 03 SL Selections Template.xlsx
+2026-02-24 18:28:43,515 - INFO - Processing preferences for: Hui
+2026-02-24 18:28:43,526 - INFO - Hui shift ranges - Min: 5, Ideal: 8, Max: 13
+2026-02-24 18:28:43,930 - INFO - Successfully processed Hui: 23 preferences loaded
+2026-02-24 18:28:43,931 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/iMak_2026 03 SL Selections Template.xlsx
+2026-02-24 18:28:43,937 - INFO - Processing preferences for: iMak
+2026-02-24 18:28:43,947 - INFO - iMak shift ranges - Min: 9, Ideal: 10, Max: 11
+2026-02-24 18:28:44,341 - INFO - Successfully processed iMak: 71 preferences loaded
+2026-02-24 18:28:44,341 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Lau 2026 03 SL Selections.xlsx
+2026-02-24 18:28:44,347 - INFO - Processing preferences for: Lau
+2026-02-24 18:28:44,359 - INFO - Lau shift ranges - Min: 9, Ideal: 11, Max: 12
+2026-02-24 18:28:44,754 - INFO - Successfully processed Lau: 113 preferences loaded
+2026-02-24 18:28:44,755 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Lee_2026 03 SL Selections Template.xlsx
+2026-02-24 18:28:44,761 - INFO - Processing preferences for: Lee
+2026-02-24 18:28:44,772 - INFO - Lee shift ranges - Min: 14, Ideal: 15, Max: 16
+2026-02-24 18:28:45,174 - INFO - Successfully processed Lee: 98 preferences loaded
+2026-02-24 18:28:45,174 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Leung 03 SL Selections Template.xlsx
+2026-02-24 18:28:45,179 - INFO - Processing preferences for: Leung
+2026-02-24 18:28:45,191 - INFO - Leung shift ranges - Min: None, Ideal: None, Max: None
+2026-02-24 18:28:45,191 - ERROR - CRITICAL: Leung in file C:/Users/Lance/Downloads/2026 03/Leung 03 SL Selections Template.xlsx has missing shift range values!
+2026-02-24 18:28:45,192 - ERROR -   Min shifts (B42): None
+2026-02-24 18:28:45,192 - ERROR -   Ideal shifts (B43): None
+2026-02-24 18:28:45,192 - ERROR -   Max shifts (B44): None
+2026-02-24 18:28:45,192 - WARNING -   Using defaults for Leung: Min=0, Max=31
+2026-02-24 18:28:45,584 - INFO - Successfully processed Leung: 149 preferences loaded
+2026-02-24 18:28:45,584 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Shin_2026 03 SL Selections.xlsx
+2026-02-24 18:28:45,590 - INFO - Processing preferences for: Shin
+2026-02-24 18:28:45,602 - INFO - Shin shift ranges - Min: 8, Ideal: 10, Max: 10
+2026-02-24 18:28:46,006 - INFO - Successfully processed Shin: 135 preferences loaded
+2026-02-24 18:28:46,006 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Silverstein_2026 03 Selections Template.xlsx
+2026-02-24 18:28:46,012 - INFO - Processing preferences for: Silverstein
+2026-02-24 18:28:46,024 - INFO - Silverstein shift ranges - Min: 7, Ideal: 9, Max: 12
+2026-02-24 18:28:46,428 - INFO - Successfully processed Silverstein: 84 preferences loaded
+2026-02-24 18:28:46,429 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Sommer_2026 03 SL Selections.xlsx
+2026-02-24 18:28:46,434 - INFO - Processing preferences for: Sommer
+2026-02-24 18:28:46,445 - INFO - Sommer shift ranges - Min: 7, Ideal: 9, Max: 10
+2026-02-24 18:28:46,834 - INFO - Successfully processed Sommer: 90 preferences loaded
+2026-02-24 18:28:46,834 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Tan 2026 03 SL Selections Template.xlsx
+2026-02-24 18:28:46,841 - INFO - Processing preferences for: Tan
+2026-02-24 18:28:46,852 - INFO - Tan shift ranges - Min: 11, Ideal: 13, Max: 16
+2026-02-24 18:28:47,264 - INFO - Successfully processed Tan: 173 preferences loaded
+2026-02-24 18:28:47,264 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Van Heer 2026 03 SL Selections Template.xlsx
+2026-02-24 18:28:47,271 - INFO - Processing preferences for: Van Heer
+2026-02-24 18:28:47,282 - INFO - Van Heer shift ranges - Min: 6, Ideal: 10, Max: 12
+2026-02-24 18:28:47,671 - INFO - Successfully processed Van Heer: 77 preferences loaded
+2026-02-24 18:28:47,672 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Waghmare_2026 03 SL Selections.xlsx
+2026-02-24 18:28:47,680 - INFO - Processing preferences for: Waghmare
+2026-02-24 18:28:47,692 - INFO - Waghmare shift ranges - Min: 12, Ideal: 13, Max: 14
+2026-02-24 18:28:48,100 - INFO - Successfully processed Waghmare: 127 preferences loaded
+2026-02-24 18:28:48,101 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Yue 2026 03 SL Selections Template.xlsx
+2026-02-24 18:28:48,106 - INFO - Processing preferences for: Yue
+2026-02-24 18:28:48,119 - INFO - Yue shift ranges - Min: 0, Ideal: 0, Max: 0
+2026-02-24 18:28:48,513 - INFO - Successfully processed Yue: 0 preferences loaded
+2026-02-24 18:28:48,513 - INFO - Loaded 24 physicians, 31 dates from 24 files
+2026-02-24 18:30:44,663 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-24 18:30:44,664 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Shum_2026 03 SL Selections Template.xlsx
+2026-02-24 18:30:44,664 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Ikonnikov_2026 03 SL Selections Template.xlsx
+2026-02-24 18:30:44,664 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx
+2026-02-24 18:30:44,664 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/GRENIER 2026 03 SL Selections Template.xlsx
+2026-02-24 18:30:44,664 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Adamson-2026 03 SL Selections Template.xlsx
+2026-02-24 18:30:44,664 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Chan 2026 03 SL Selections.xlsx
+2026-02-24 18:30:44,664 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Da Qi_2026 03 SL Selections Template.xlsx
+2026-02-24 18:30:44,665 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Duerksen_2026 03 SL Selections Template.xlsx
+2026-02-24 18:30:44,665 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Feng_2026 03 SL Selections Template.xlsx
+2026-02-24 18:30:44,665 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Gannage 2026 03 SL Selections Template.xlsx
+2026-02-24 18:30:44,665 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Ho_2026 03 SL Selections Template.xlsx
+2026-02-24 18:30:44,665 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Hui 2026 03 SL Selections Template.xlsx
+2026-02-24 18:30:44,665 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/iMak_2026 03 SL Selections Template.xlsx
+2026-02-24 18:30:44,665 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Lau 2026 03 SL Selections.xlsx
+2026-02-24 18:30:44,665 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Lee_2026 03 SL Selections Template.xlsx
+2026-02-24 18:30:44,665 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Leung 03 SL Selections Template.xlsx
+2026-02-24 18:30:44,665 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Shin_2026 03 SL Selections.xlsx
+2026-02-24 18:30:44,666 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Silverstein_2026 03 Selections Template.xlsx
+2026-02-24 18:30:44,666 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Sommer_2026 03 SL Selections.xlsx
+2026-02-24 18:30:44,666 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Tan 2026 03 SL Selections Template.xlsx
+2026-02-24 18:30:44,666 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Van Heer 2026 03 SL Selections Template.xlsx
+2026-02-24 18:30:44,666 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Waghmare_2026 03 SL Selections.xlsx
+2026-02-24 18:30:44,666 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Yue 2026 03 SL Selections Template.xlsx
+2026-02-24 18:30:45,274 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-24 18:30:45,281 - INFO - Processing preferences for: Puri
+2026-02-24 18:30:45,291 - INFO - Puri shift ranges - Min: 20, Ideal: 20, Max: 30
+2026-02-24 18:30:45,683 - INFO - Successfully processed Puri: 23 preferences loaded
+2026-02-24 18:30:45,683 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Shum_2026 03 SL Selections Template.xlsx
+2026-02-24 18:30:45,690 - INFO - Processing preferences for: Shum
+2026-02-24 18:30:45,701 - INFO - Shum shift ranges - Min: 4, Ideal: 5, Max: 6
+2026-02-24 18:30:46,102 - INFO - Successfully processed Shum: 70 preferences loaded
+2026-02-24 18:30:46,102 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Ikonnikov_2026 03 SL Selections Template.xlsx
+2026-02-24 18:30:46,108 - INFO - Processing preferences for: Ikonnikov
+2026-02-24 18:30:46,120 - INFO - Ikonnikov shift ranges - Min: 8, Ideal: 12, Max: 14
+2026-02-24 18:30:46,523 - INFO - Successfully processed Ikonnikov: 143 preferences loaded
+2026-02-24 18:30:46,523 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx
+2026-02-24 18:30:46,529 - INFO - Processing preferences for: Sethuraman
+2026-02-24 18:30:46,540 - INFO - Sethuraman shift ranges - Min: None, Ideal: None, Max: None
+2026-02-24 18:30:46,540 - ERROR - CRITICAL: Sethuraman in file C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx has missing shift range values!
+2026-02-24 18:30:46,540 - ERROR -   Min shifts (B42): None
+2026-02-24 18:30:46,540 - ERROR -   Ideal shifts (B43): None
+2026-02-24 18:30:46,540 - ERROR -   Max shifts (B44): None
+2026-02-24 18:30:46,540 - WARNING -   Using defaults for Sethuraman: Min=0, Max=31
+2026-02-24 18:30:46,920 - INFO - Successfully processed Sethuraman: 9 preferences loaded
+2026-02-24 18:30:46,920 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/GRENIER 2026 03 SL Selections Template.xlsx
+2026-02-24 18:30:46,926 - INFO - Processing preferences for: Grenier
+2026-02-24 18:30:46,937 - INFO - Grenier shift ranges - Min: 3, Ideal: 3, Max: 3
+2026-02-24 18:30:47,330 - INFO - Successfully processed Grenier: 6 preferences loaded
+2026-02-24 18:30:47,330 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Adamson-2026 03 SL Selections Template.xlsx
+2026-02-24 18:30:47,337 - INFO - Processing preferences for: Adamson
+2026-02-24 18:30:47,348 - INFO - Adamson shift ranges - Min: 0.0, Ideal: 1.0, Max: 1.0
+2026-02-24 18:30:47,733 - INFO - Successfully processed Adamson: 3 preferences loaded
+2026-02-24 18:30:47,733 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Chan 2026 03 SL Selections.xlsx
+2026-02-24 18:30:47,739 - INFO - Processing preferences for: Chan
+2026-02-24 18:30:47,751 - INFO - Chan shift ranges - Min: None, Ideal: 12, Max: None
+2026-02-24 18:30:47,751 - ERROR - CRITICAL: Chan in file C:/Users/Lance/Downloads/2026 03/Chan 2026 03 SL Selections.xlsx has missing shift range values!
+2026-02-24 18:30:47,751 - ERROR -   Min shifts (B42): None
+2026-02-24 18:30:47,751 - ERROR -   Ideal shifts (B43): 12
+2026-02-24 18:30:47,751 - ERROR -   Max shifts (B44): None
+2026-02-24 18:30:47,751 - WARNING -   Using defaults for Chan: Min=0, Max=31
+2026-02-24 18:30:48,136 - INFO - Successfully processed Chan: 82 preferences loaded
+2026-02-24 18:30:48,136 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Da Qi_2026 03 SL Selections Template.xlsx
+2026-02-24 18:30:48,142 - INFO - Processing preferences for: Da Qi
+2026-02-24 18:30:48,154 - INFO - Da Qi shift ranges - Min: 13, Ideal: 14, Max: 15
+2026-02-24 18:30:48,573 - INFO - Successfully processed Da Qi: 279 preferences loaded
+2026-02-24 18:30:48,573 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Duerksen_2026 03 SL Selections Template.xlsx
+2026-02-24 18:30:48,581 - INFO - Processing preferences for: Duerksen
+2026-02-24 18:30:48,593 - INFO - Duerksen shift ranges - Min: 6.0, Ideal: 8.0, Max: 9.0
+2026-02-24 18:30:49,004 - INFO - Successfully processed Duerksen: 279 preferences loaded
+2026-02-24 18:30:49,004 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Feng_2026 03 SL Selections Template.xlsx
+2026-02-24 18:30:49,011 - INFO - Processing preferences for: Feng
+2026-02-24 18:30:49,024 - INFO - Feng shift ranges - Min: 13.0, Ideal: 13.0, Max: 15.0
+2026-02-24 18:30:49,407 - INFO - Successfully processed Feng: 137 preferences loaded
+2026-02-24 18:30:49,407 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Gannage 2026 03 SL Selections Template.xlsx
+2026-02-24 18:30:49,412 - INFO - Processing preferences for: Gannage
+2026-02-24 18:30:49,424 - INFO - Gannage shift ranges - Min: 11, Ideal: 12, Max: 13
+2026-02-24 18:30:49,821 - INFO - Successfully processed Gannage: 107 preferences loaded
+2026-02-24 18:30:49,821 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Ho_2026 03 SL Selections Template.xlsx
+2026-02-24 18:30:49,827 - INFO - Processing preferences for: Ho
+2026-02-24 18:30:49,838 - INFO - Ho shift ranges - Min: 9, Ideal: 9, Max: 9
+2026-02-24 18:30:50,223 - INFO - Successfully processed Ho: 9 preferences loaded
+2026-02-24 18:30:50,223 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Hui 2026 03 SL Selections Template.xlsx
+2026-02-24 18:30:50,230 - INFO - Processing preferences for: Hui
+2026-02-24 18:30:50,242 - INFO - Hui shift ranges - Min: 5, Ideal: 8, Max: 13
+2026-02-24 18:30:50,657 - INFO - Successfully processed Hui: 23 preferences loaded
+2026-02-24 18:30:50,657 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/iMak_2026 03 SL Selections Template.xlsx
+2026-02-24 18:30:50,663 - INFO - Processing preferences for: iMak
+2026-02-24 18:30:50,674 - INFO - iMak shift ranges - Min: 9, Ideal: 10, Max: 11
+2026-02-24 18:30:51,061 - INFO - Successfully processed iMak: 71 preferences loaded
+2026-02-24 18:30:51,061 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Lau 2026 03 SL Selections.xlsx
+2026-02-24 18:30:51,067 - INFO - Processing preferences for: Lau
+2026-02-24 18:30:51,080 - INFO - Lau shift ranges - Min: 9, Ideal: 11, Max: 12
+2026-02-24 18:30:51,480 - INFO - Successfully processed Lau: 113 preferences loaded
+2026-02-24 18:30:51,480 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Lee_2026 03 SL Selections Template.xlsx
+2026-02-24 18:30:51,486 - INFO - Processing preferences for: Lee
+2026-02-24 18:30:51,498 - INFO - Lee shift ranges - Min: 14, Ideal: 15, Max: 16
+2026-02-24 18:30:51,899 - INFO - Successfully processed Lee: 98 preferences loaded
+2026-02-24 18:30:51,899 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Leung 03 SL Selections Template.xlsx
+2026-02-24 18:30:51,905 - INFO - Processing preferences for: Leung
+2026-02-24 18:30:51,917 - INFO - Leung shift ranges - Min: None, Ideal: None, Max: None
+2026-02-24 18:30:51,917 - ERROR - CRITICAL: Leung in file C:/Users/Lance/Downloads/2026 03/Leung 03 SL Selections Template.xlsx has missing shift range values!
+2026-02-24 18:30:51,917 - ERROR -   Min shifts (B42): None
+2026-02-24 18:30:51,917 - ERROR -   Ideal shifts (B43): None
+2026-02-24 18:30:51,917 - ERROR -   Max shifts (B44): None
+2026-02-24 18:30:51,917 - WARNING -   Using defaults for Leung: Min=0, Max=31
+2026-02-24 18:30:52,310 - INFO - Successfully processed Leung: 149 preferences loaded
+2026-02-24 18:30:52,310 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Shin_2026 03 SL Selections.xlsx
+2026-02-24 18:30:52,316 - INFO - Processing preferences for: Shin
+2026-02-24 18:30:52,328 - INFO - Shin shift ranges - Min: 8, Ideal: 10, Max: 10
+2026-02-24 18:30:52,736 - INFO - Successfully processed Shin: 135 preferences loaded
+2026-02-24 18:30:52,736 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Silverstein_2026 03 Selections Template.xlsx
+2026-02-24 18:30:52,742 - INFO - Processing preferences for: Silverstein
+2026-02-24 18:30:52,753 - INFO - Silverstein shift ranges - Min: 7, Ideal: 9, Max: 12
+2026-02-24 18:30:53,153 - INFO - Successfully processed Silverstein: 84 preferences loaded
+2026-02-24 18:30:53,153 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Sommer_2026 03 SL Selections.xlsx
+2026-02-24 18:30:53,159 - INFO - Processing preferences for: Sommer
+2026-02-24 18:30:53,170 - INFO - Sommer shift ranges - Min: 7, Ideal: 9, Max: 10
+2026-02-24 18:30:53,562 - INFO - Successfully processed Sommer: 90 preferences loaded
+2026-02-24 18:30:53,562 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Tan 2026 03 SL Selections Template.xlsx
+2026-02-24 18:30:53,569 - INFO - Processing preferences for: Tan
+2026-02-24 18:30:53,580 - INFO - Tan shift ranges - Min: 11, Ideal: 13, Max: 16
+2026-02-24 18:30:53,988 - INFO - Successfully processed Tan: 173 preferences loaded
+2026-02-24 18:30:53,988 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Van Heer 2026 03 SL Selections Template.xlsx
+2026-02-24 18:30:53,994 - INFO - Processing preferences for: Van Heer
+2026-02-24 18:30:54,005 - INFO - Van Heer shift ranges - Min: 6, Ideal: 10, Max: 12
+2026-02-24 18:30:54,399 - INFO - Successfully processed Van Heer: 77 preferences loaded
+2026-02-24 18:30:54,399 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Waghmare_2026 03 SL Selections.xlsx
+2026-02-24 18:30:54,408 - INFO - Processing preferences for: Waghmare
+2026-02-24 18:30:54,419 - INFO - Waghmare shift ranges - Min: 12, Ideal: 13, Max: 14
+2026-02-24 18:30:54,825 - INFO - Successfully processed Waghmare: 127 preferences loaded
+2026-02-24 18:30:54,825 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Yue 2026 03 SL Selections Template.xlsx
+2026-02-24 18:30:54,831 - INFO - Processing preferences for: Yue
+2026-02-24 18:30:54,842 - INFO - Yue shift ranges - Min: 0, Ideal: 0, Max: 0
+2026-02-24 18:30:55,236 - INFO - Successfully processed Yue: 0 preferences loaded
+2026-02-24 18:30:55,237 - INFO - Loaded 24 physicians, 31 dates from 24 files
+2026-02-24 18:33:37,181 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-24 18:33:37,181 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Shum_2026 03 SL Selections Template.xlsx
+2026-02-24 18:33:37,181 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Ikonnikov_2026 03 SL Selections Template.xlsx
+2026-02-24 18:33:37,181 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx
+2026-02-24 18:33:37,181 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/GRENIER 2026 03 SL Selections Template.xlsx
+2026-02-24 18:33:37,181 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Adamson-2026 03 SL Selections Template.xlsx
+2026-02-24 18:33:37,181 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Chan 2026 03 SL Selections.xlsx
+2026-02-24 18:33:37,182 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Da Qi_2026 03 SL Selections Template.xlsx
+2026-02-24 18:33:37,182 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Duerksen_2026 03 SL Selections Template.xlsx
+2026-02-24 18:33:37,182 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Feng_2026 03 SL Selections Template.xlsx
+2026-02-24 18:33:37,182 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Gannage 2026 03 SL Selections Template.xlsx
+2026-02-24 18:33:37,182 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Ho_2026 03 SL Selections Template.xlsx
+2026-02-24 18:33:37,182 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Hui 2026 03 SL Selections Template.xlsx
+2026-02-24 18:33:37,182 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/iMak_2026 03 SL Selections Template.xlsx
+2026-02-24 18:33:37,182 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Lau 2026 03 SL Selections.xlsx
+2026-02-24 18:33:37,182 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Lee_2026 03 SL Selections Template.xlsx
+2026-02-24 18:33:37,182 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Leung 03 SL Selections Template.xlsx
+2026-02-24 18:33:37,182 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Shin_2026 03 SL Selections.xlsx
+2026-02-24 18:33:37,183 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Silverstein_2026 03 Selections Template.xlsx
+2026-02-24 18:33:37,183 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Sommer_2026 03 SL Selections.xlsx
+2026-02-24 18:33:37,183 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Tan 2026 03 SL Selections Template.xlsx
+2026-02-24 18:33:37,183 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Van Heer 2026 03 SL Selections Template.xlsx
+2026-02-24 18:33:37,183 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Waghmare_2026 03 SL Selections.xlsx
+2026-02-24 18:33:37,183 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Yue 2026 03 SL Selections Template.xlsx
+2026-02-24 18:33:37,657 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-24 18:33:37,664 - INFO - Processing preferences for: Puri
+2026-02-24 18:33:37,675 - INFO - Puri shift ranges - Min: 20, Ideal: 20, Max: 30
+2026-02-24 18:33:38,064 - INFO - Successfully processed Puri: 23 preferences loaded
+2026-02-24 18:33:38,064 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Shum_2026 03 SL Selections Template.xlsx
+2026-02-24 18:33:38,071 - INFO - Processing preferences for: Shum
+2026-02-24 18:33:38,082 - INFO - Shum shift ranges - Min: 4, Ideal: 5, Max: 6
+2026-02-24 18:33:38,485 - INFO - Successfully processed Shum: 70 preferences loaded
+2026-02-24 18:33:38,485 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Ikonnikov_2026 03 SL Selections Template.xlsx
+2026-02-24 18:33:38,491 - INFO - Processing preferences for: Ikonnikov
+2026-02-24 18:33:38,502 - INFO - Ikonnikov shift ranges - Min: 8, Ideal: 12, Max: 14
+2026-02-24 18:33:38,906 - INFO - Successfully processed Ikonnikov: 143 preferences loaded
+2026-02-24 18:33:38,907 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx
+2026-02-24 18:33:38,912 - INFO - Processing preferences for: Sethuraman
+2026-02-24 18:33:38,923 - INFO - Sethuraman shift ranges - Min: None, Ideal: None, Max: None
+2026-02-24 18:33:38,923 - ERROR - CRITICAL: Sethuraman in file C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx has missing shift range values!
+2026-02-24 18:33:38,923 - ERROR -   Min shifts (B42): None
+2026-02-24 18:33:38,923 - ERROR -   Ideal shifts (B43): None
+2026-02-24 18:33:38,923 - ERROR -   Max shifts (B44): None
+2026-02-24 18:33:38,923 - WARNING -   Using defaults for Sethuraman: Min=0, Max=31
+2026-02-24 18:33:39,305 - INFO - Successfully processed Sethuraman: 9 preferences loaded
+2026-02-24 18:33:39,305 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/GRENIER 2026 03 SL Selections Template.xlsx
+2026-02-24 18:33:39,310 - INFO - Processing preferences for: Grenier
+2026-02-24 18:33:39,321 - INFO - Grenier shift ranges - Min: 3, Ideal: 3, Max: 3
+2026-02-24 18:33:39,717 - INFO - Successfully processed Grenier: 6 preferences loaded
+2026-02-24 18:33:39,717 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Adamson-2026 03 SL Selections Template.xlsx
+2026-02-24 18:33:39,725 - INFO - Processing preferences for: Adamson
+2026-02-24 18:33:39,736 - INFO - Adamson shift ranges - Min: 0.0, Ideal: 1.0, Max: 1.0
+2026-02-24 18:33:40,122 - INFO - Successfully processed Adamson: 3 preferences loaded
+2026-02-24 18:33:40,123 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Chan 2026 03 SL Selections.xlsx
+2026-02-24 18:33:40,129 - INFO - Processing preferences for: Chan
+2026-02-24 18:33:40,140 - INFO - Chan shift ranges - Min: None, Ideal: 12, Max: None
+2026-02-24 18:33:40,140 - ERROR - CRITICAL: Chan in file C:/Users/Lance/Downloads/2026 03/Chan 2026 03 SL Selections.xlsx has missing shift range values!
+2026-02-24 18:33:40,140 - ERROR -   Min shifts (B42): None
+2026-02-24 18:33:40,140 - ERROR -   Ideal shifts (B43): 12
+2026-02-24 18:33:40,141 - ERROR -   Max shifts (B44): None
+2026-02-24 18:33:40,141 - WARNING -   Using defaults for Chan: Min=0, Max=31
+2026-02-24 18:33:40,529 - INFO - Successfully processed Chan: 82 preferences loaded
+2026-02-24 18:33:40,529 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Da Qi_2026 03 SL Selections Template.xlsx
+2026-02-24 18:33:40,535 - INFO - Processing preferences for: Da Qi
+2026-02-24 18:33:40,547 - INFO - Da Qi shift ranges - Min: 13, Ideal: 14, Max: 15
+2026-02-24 18:33:40,957 - INFO - Successfully processed Da Qi: 279 preferences loaded
+2026-02-24 18:33:40,957 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Duerksen_2026 03 SL Selections Template.xlsx
+2026-02-24 18:33:40,964 - INFO - Processing preferences for: Duerksen
+2026-02-24 18:33:40,977 - INFO - Duerksen shift ranges - Min: 6.0, Ideal: 8.0, Max: 9.0
+2026-02-24 18:33:41,389 - INFO - Successfully processed Duerksen: 279 preferences loaded
+2026-02-24 18:33:41,389 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Feng_2026 03 SL Selections Template.xlsx
+2026-02-24 18:33:41,396 - INFO - Processing preferences for: Feng
+2026-02-24 18:33:41,408 - INFO - Feng shift ranges - Min: 13.0, Ideal: 13.0, Max: 15.0
+2026-02-24 18:33:41,793 - INFO - Successfully processed Feng: 137 preferences loaded
+2026-02-24 18:33:41,793 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Gannage 2026 03 SL Selections Template.xlsx
+2026-02-24 18:33:41,799 - INFO - Processing preferences for: Gannage
+2026-02-24 18:33:41,810 - INFO - Gannage shift ranges - Min: 11, Ideal: 12, Max: 13
+2026-02-24 18:33:42,210 - INFO - Successfully processed Gannage: 107 preferences loaded
+2026-02-24 18:33:42,210 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Ho_2026 03 SL Selections Template.xlsx
+2026-02-24 18:33:42,216 - INFO - Processing preferences for: Ho
+2026-02-24 18:33:42,226 - INFO - Ho shift ranges - Min: 9, Ideal: 9, Max: 9
+2026-02-24 18:33:42,618 - INFO - Successfully processed Ho: 9 preferences loaded
+2026-02-24 18:33:42,618 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Hui 2026 03 SL Selections Template.xlsx
+2026-02-24 18:33:42,625 - INFO - Processing preferences for: Hui
+2026-02-24 18:33:42,636 - INFO - Hui shift ranges - Min: 5, Ideal: 8, Max: 13
+2026-02-24 18:33:43,045 - INFO - Successfully processed Hui: 23 preferences loaded
+2026-02-24 18:33:43,045 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/iMak_2026 03 SL Selections Template.xlsx
+2026-02-24 18:33:43,051 - INFO - Processing preferences for: iMak
+2026-02-24 18:33:43,062 - INFO - iMak shift ranges - Min: 9, Ideal: 10, Max: 11
+2026-02-24 18:33:43,454 - INFO - Successfully processed iMak: 71 preferences loaded
+2026-02-24 18:33:43,455 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Lau 2026 03 SL Selections.xlsx
+2026-02-24 18:33:43,460 - INFO - Processing preferences for: Lau
+2026-02-24 18:33:43,473 - INFO - Lau shift ranges - Min: 9, Ideal: 11, Max: 12
+2026-02-24 18:33:43,871 - INFO - Successfully processed Lau: 113 preferences loaded
+2026-02-24 18:33:43,872 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Lee_2026 03 SL Selections Template.xlsx
+2026-02-24 18:33:43,877 - INFO - Processing preferences for: Lee
+2026-02-24 18:33:43,889 - INFO - Lee shift ranges - Min: 14, Ideal: 15, Max: 16
+2026-02-24 18:33:44,297 - INFO - Successfully processed Lee: 98 preferences loaded
+2026-02-24 18:33:44,297 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Leung 03 SL Selections Template.xlsx
+2026-02-24 18:33:44,303 - INFO - Processing preferences for: Leung
+2026-02-24 18:33:44,315 - INFO - Leung shift ranges - Min: None, Ideal: None, Max: None
+2026-02-24 18:33:44,315 - ERROR - CRITICAL: Leung in file C:/Users/Lance/Downloads/2026 03/Leung 03 SL Selections Template.xlsx has missing shift range values!
+2026-02-24 18:33:44,315 - ERROR -   Min shifts (B42): None
+2026-02-24 18:33:44,315 - ERROR -   Ideal shifts (B43): None
+2026-02-24 18:33:44,315 - ERROR -   Max shifts (B44): None
+2026-02-24 18:33:44,315 - WARNING -   Using defaults for Leung: Min=0, Max=31
+2026-02-24 18:33:44,711 - INFO - Successfully processed Leung: 149 preferences loaded
+2026-02-24 18:33:44,711 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Shin_2026 03 SL Selections.xlsx
+2026-02-24 18:33:44,717 - INFO - Processing preferences for: Shin
+2026-02-24 18:33:44,729 - INFO - Shin shift ranges - Min: 8, Ideal: 10, Max: 10
+2026-02-24 18:33:45,137 - INFO - Successfully processed Shin: 135 preferences loaded
+2026-02-24 18:33:45,137 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Silverstein_2026 03 Selections Template.xlsx
+2026-02-24 18:33:45,143 - INFO - Processing preferences for: Silverstein
+2026-02-24 18:33:45,154 - INFO - Silverstein shift ranges - Min: 7, Ideal: 9, Max: 12
+2026-02-24 18:33:45,560 - INFO - Successfully processed Silverstein: 84 preferences loaded
+2026-02-24 18:33:45,560 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Sommer_2026 03 SL Selections.xlsx
+2026-02-24 18:33:45,565 - INFO - Processing preferences for: Sommer
+2026-02-24 18:33:45,577 - INFO - Sommer shift ranges - Min: 7, Ideal: 9, Max: 10
+2026-02-24 18:33:45,968 - INFO - Successfully processed Sommer: 90 preferences loaded
+2026-02-24 18:33:45,968 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Tan 2026 03 SL Selections Template.xlsx
+2026-02-24 18:33:45,975 - INFO - Processing preferences for: Tan
+2026-02-24 18:33:45,985 - INFO - Tan shift ranges - Min: 11, Ideal: 13, Max: 16
+2026-02-24 18:33:46,398 - INFO - Successfully processed Tan: 173 preferences loaded
+2026-02-24 18:33:46,398 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Van Heer 2026 03 SL Selections Template.xlsx
+2026-02-24 18:33:46,404 - INFO - Processing preferences for: Van Heer
+2026-02-24 18:33:46,415 - INFO - Van Heer shift ranges - Min: 6, Ideal: 10, Max: 12
+2026-02-24 18:33:46,807 - INFO - Successfully processed Van Heer: 77 preferences loaded
+2026-02-24 18:33:46,808 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Waghmare_2026 03 SL Selections.xlsx
+2026-02-24 18:33:46,817 - INFO - Processing preferences for: Waghmare
+2026-02-24 18:33:46,828 - INFO - Waghmare shift ranges - Min: 12, Ideal: 13, Max: 14
+2026-02-24 18:33:47,236 - INFO - Successfully processed Waghmare: 127 preferences loaded
+2026-02-24 18:33:47,236 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Yue 2026 03 SL Selections Template.xlsx
+2026-02-24 18:33:47,242 - INFO - Processing preferences for: Yue
+2026-02-24 18:33:47,253 - INFO - Yue shift ranges - Min: 0, Ideal: 0, Max: 0
+2026-02-24 18:33:47,649 - INFO - Successfully processed Yue: 0 preferences loaded
+2026-02-24 18:33:47,649 - INFO - Loaded 24 physicians, 31 dates from 24 files
+2026-02-24 18:34:47,006 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/GRENIER 2026 03 SL Selections Template.xlsx
+2026-02-24 18:34:47,417 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/GRENIER 2026 03 SL Selections Template.xlsx
+2026-02-24 18:34:47,424 - INFO - Processing preferences for: Grenier
+2026-02-24 18:34:47,436 - INFO - Grenier shift ranges - Min: 3, Ideal: 3, Max: 3
+2026-02-24 18:34:47,844 - INFO - Successfully processed Grenier: 6 preferences loaded
+2026-02-24 18:34:47,844 - INFO - Loaded 1 physicians, 31 dates from 1 files
+2026-02-24 18:35:28,975 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-24 18:35:29,469 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-24 18:35:29,476 - INFO - Processing preferences for: Puri
+2026-02-24 18:35:29,487 - INFO - Puri shift ranges - Min: 20, Ideal: 20, Max: 30
+2026-02-24 18:35:29,886 - INFO - Successfully processed Puri: 23 preferences loaded
+2026-02-24 18:35:29,887 - INFO - Loaded 1 physicians, 31 dates from 1 files
+2026-02-24 18:35:51,646 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-24 18:35:51,902 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-24 18:35:51,909 - INFO - Processing preferences for: Puri
+2026-02-24 18:35:51,920 - INFO - Puri shift ranges - Min: 20, Ideal: 20, Max: 30
+2026-02-24 18:35:52,312 - INFO - Successfully processed Puri: 23 preferences loaded
+2026-02-24 18:35:52,312 - INFO - Loaded 1 physicians, 31 dates from 1 files
+2026-02-24 18:39:06,286 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-24 18:39:06,752 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-24 18:39:06,759 - INFO - Processing preferences for: Puri
+2026-02-24 18:39:06,770 - INFO - Puri shift ranges - Min: 20, Ideal: 20, Max: 30
+2026-02-24 18:39:07,173 - INFO - Successfully processed Puri: 23 preferences loaded
+2026-02-24 18:39:07,173 - INFO - Loaded 1 physicians, 31 dates from 1 files
+2026-02-24 18:39:38,334 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-24 18:39:38,526 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-24 18:39:38,533 - INFO - Processing preferences for: Puri
+2026-02-24 18:39:38,544 - INFO - Puri shift ranges - Min: 20, Ideal: 20, Max: 30
+2026-02-24 18:39:38,936 - INFO - Successfully processed Puri: 23 preferences loaded
+2026-02-24 18:39:38,936 - INFO - Loaded 1 physicians, 31 dates from 1 files
+2026-02-24 18:41:06,669 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-24 18:41:07,593 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-24 18:41:07,601 - INFO - Processing preferences for: Puri
+2026-02-24 18:41:07,611 - INFO - Puri shift ranges - Min: 20, Ideal: 20, Max: 30
+2026-02-24 18:41:08,009 - INFO - Successfully processed Puri: 23 preferences loaded
+2026-02-24 18:41:08,009 - INFO - Loaded 1 physicians, 31 dates from 1 files
+2026-02-24 18:41:42,290 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Adamson-2026 03 SL Selections Template.xlsx
+2026-02-24 18:41:42,607 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Adamson-2026 03 SL Selections Template.xlsx
+2026-02-24 18:41:42,615 - INFO - Processing preferences for: Adamson
+2026-02-24 18:41:42,626 - INFO - Adamson shift ranges - Min: 0.0, Ideal: 1.0, Max: 1.0
+2026-02-24 18:41:43,018 - INFO - Successfully processed Adamson: 3 preferences loaded
+2026-02-24 18:41:43,018 - INFO - Loaded 1 physicians, 31 dates from 1 files
+2026-02-24 18:42:11,151 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Shum_2026 03 SL Selections Template.xlsx
+2026-02-24 18:42:11,470 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Shum_2026 03 SL Selections Template.xlsx
+2026-02-24 18:42:11,478 - INFO - Processing preferences for: Shum
+2026-02-24 18:42:11,489 - INFO - Shum shift ranges - Min: 4, Ideal: 5, Max: 6
+2026-02-24 18:42:11,892 - INFO - Successfully processed Shum: 70 preferences loaded
+2026-02-24 18:42:11,892 - INFO - Loaded 1 physicians, 31 dates from 1 files
+2026-02-24 18:44:02,602 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-24 18:44:03,119 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-24 18:44:03,126 - INFO - Processing preferences for: Puri
+2026-02-24 18:44:03,138 - INFO - Puri shift ranges - Min: 20, Ideal: 20, Max: 30
+2026-02-24 18:44:03,534 - INFO - Successfully processed Puri: 23 preferences loaded
+2026-02-24 18:44:03,534 - INFO - Loaded 1 physicians, 31 dates from 1 files
+2026-02-24 18:44:23,977 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-24 18:44:24,813 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-24 18:44:24,820 - INFO - Processing preferences for: Puri
+2026-02-24 18:44:24,830 - INFO - Puri shift ranges - Min: 20, Ideal: 20, Max: 30
+2026-02-24 18:44:25,228 - INFO - Successfully processed Puri: 23 preferences loaded
+2026-02-24 18:44:25,228 - INFO - Loaded 1 physicians, 31 dates from 1 files
+2026-02-24 18:44:45,168 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx
+2026-02-24 18:44:45,523 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx
+2026-02-24 18:44:45,531 - INFO - Processing preferences for: Sethuraman
+2026-02-24 18:44:45,542 - INFO - Sethuraman shift ranges - Min: None, Ideal: None, Max: None
+2026-02-24 18:44:45,542 - ERROR - CRITICAL: Sethuraman in file C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx has missing shift range values!
+2026-02-24 18:44:45,542 - ERROR -   Min shifts (B42): None
+2026-02-24 18:44:45,542 - ERROR -   Ideal shifts (B43): None
+2026-02-24 18:44:45,542 - ERROR -   Max shifts (B44): None
+2026-02-24 18:44:45,542 - WARNING -   Using defaults for Sethuraman: Min=0, Max=31
+2026-02-24 18:44:45,940 - INFO - Successfully processed Sethuraman: 9 preferences loaded
+2026-02-24 18:44:45,940 - INFO - Loaded 1 physicians, 31 dates from 1 files
+2026-02-24 18:45:23,145 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-24 18:45:23,504 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-24 18:45:23,511 - INFO - Processing preferences for: Puri
+2026-02-24 18:45:23,522 - INFO - Puri shift ranges - Min: 20, Ideal: 20, Max: 30
+2026-02-24 18:45:23,921 - INFO - Successfully processed Puri: 23 preferences loaded
+2026-02-24 18:45:23,921 - INFO - Loaded 1 physicians, 31 dates from 1 files
+2026-02-24 18:45:50,835 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Ikonnikov_2026 03 SL Selections Template.xlsx
+2026-02-24 18:45:51,072 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Ikonnikov_2026 03 SL Selections Template.xlsx
+2026-02-24 18:45:51,079 - INFO - Processing preferences for: Ikonnikov
+2026-02-24 18:45:51,090 - INFO - Ikonnikov shift ranges - Min: 8, Ideal: 12, Max: 14
+2026-02-24 18:45:51,493 - INFO - Successfully processed Ikonnikov: 143 preferences loaded
+2026-02-24 18:45:51,493 - INFO - Loaded 1 physicians, 31 dates from 1 files
+2026-02-24 18:46:12,381 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Adamson-2026 03 SL Selections Template.xlsx
+2026-02-24 18:46:12,674 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Adamson-2026 03 SL Selections Template.xlsx
+2026-02-24 18:46:12,682 - INFO - Processing preferences for: Adamson
+2026-02-24 18:46:12,694 - INFO - Adamson shift ranges - Min: 0.0, Ideal: 1.0, Max: 1.0
+2026-02-24 18:46:13,098 - INFO - Successfully processed Adamson: 3 preferences loaded
+2026-02-24 18:46:13,098 - INFO - Loaded 1 physicians, 31 dates from 1 files
+2026-02-24 18:46:31,758 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Shum_2026 03 SL Selections Template.xlsx
+2026-02-24 18:46:32,611 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Shum_2026 03 SL Selections Template.xlsx
+2026-02-24 18:46:32,620 - INFO - Processing preferences for: Shum
+2026-02-24 18:46:32,632 - INFO - Shum shift ranges - Min: 4, Ideal: 5, Max: 6
+2026-02-24 18:46:33,028 - INFO - Successfully processed Shum: 70 preferences loaded
+2026-02-24 18:46:33,028 - INFO - Loaded 1 physicians, 31 dates from 1 files
+2026-02-24 18:46:49,991 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-24 18:46:50,130 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-24 18:46:50,137 - INFO - Processing preferences for: Puri
+2026-02-24 18:46:50,149 - INFO - Puri shift ranges - Min: 20, Ideal: 20, Max: 30
+2026-02-24 18:46:50,554 - INFO - Successfully processed Puri: 23 preferences loaded
+2026-02-24 18:46:50,554 - INFO - Loaded 1 physicians, 31 dates from 1 files
+2026-02-24 18:48:03,416 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Chan 2026 03 SL Selections.xlsx
+2026-02-24 18:48:03,951 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Chan 2026 03 SL Selections.xlsx
+2026-02-24 18:48:03,959 - INFO - Processing preferences for: Chan
+2026-02-24 18:48:03,971 - INFO - Chan shift ranges - Min: None, Ideal: 12, Max: None
+2026-02-24 18:48:03,972 - ERROR - CRITICAL: Chan in file C:/Users/Lance/Downloads/2026 03/Chan 2026 03 SL Selections.xlsx has missing shift range values!
+2026-02-24 18:48:03,972 - ERROR -   Min shifts (B42): None
+2026-02-24 18:48:03,972 - ERROR -   Ideal shifts (B43): 12
+2026-02-24 18:48:03,972 - ERROR -   Max shifts (B44): None
+2026-02-24 18:48:03,972 - WARNING -   Using defaults for Chan: Min=0, Max=31
+2026-02-24 18:48:04,368 - INFO - Successfully processed Chan: 82 preferences loaded
+2026-02-24 18:48:04,368 - INFO - Loaded 1 physicians, 31 dates from 1 files
+2026-02-24 18:49:23,616 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/GRENIER 2026 03 SL Selections Template.xlsx
+2026-02-24 18:49:23,829 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/GRENIER 2026 03 SL Selections Template.xlsx
+2026-02-24 18:49:23,836 - INFO - Processing preferences for: Grenier
+2026-02-24 18:49:23,847 - INFO - Grenier shift ranges - Min: 3, Ideal: 3, Max: 3
+2026-02-24 18:49:24,235 - INFO - Successfully processed Grenier: 6 preferences loaded
+2026-02-24 18:49:24,235 - INFO - Loaded 1 physicians, 31 dates from 1 files
+2026-02-24 18:50:44,163 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Shum_2026 03 SL Selections Template.xlsx
+2026-02-24 18:50:45,405 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Shum_2026 03 SL Selections Template.xlsx
+2026-02-24 18:50:45,413 - INFO - Processing preferences for: Shum
+2026-02-24 18:50:45,424 - INFO - Shum shift ranges - Min: 4, Ideal: 5, Max: 6
+2026-02-24 18:50:45,822 - INFO - Successfully processed Shum: 70 preferences loaded
+2026-02-24 18:50:45,822 - INFO - Loaded 1 physicians, 31 dates from 1 files
+2026-02-24 18:51:22,040 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Ikonnikov_2026 03 SL Selections Template.xlsx
+2026-02-24 18:51:23,006 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Ikonnikov_2026 03 SL Selections Template.xlsx
+2026-02-24 18:51:23,013 - INFO - Processing preferences for: Ikonnikov
+2026-02-24 18:51:23,024 - INFO - Ikonnikov shift ranges - Min: 8, Ideal: 12, Max: 14
+2026-02-24 18:51:23,430 - INFO - Successfully processed Ikonnikov: 143 preferences loaded
+2026-02-24 18:51:23,430 - INFO - Loaded 1 physicians, 31 dates from 1 files
+2026-02-24 18:51:33,160 - INFO - Set output path: C:/Users/Lance/Downloads/2026 03/Shum_2026 03 SL Selections Template.xlsx
+2026-02-24 18:51:38,645 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Shum_2026 03 SL Selections Template.xlsx
+2026-02-24 18:51:57,536 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Shum_2026 03 SL Selections Template.xlsx
+2026-02-24 18:51:58,111 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Shum_2026 03 SL Selections Template.xlsx
+2026-02-24 18:51:58,119 - INFO - Processing preferences for: Shum
+2026-02-24 18:51:58,131 - INFO - Shum shift ranges - Min: 4, Ideal: 5, Max: 6
+2026-02-24 18:51:58,527 - INFO - Successfully processed Shum: 70 preferences loaded
+2026-02-24 18:51:58,527 - INFO - Loaded 1 physicians, 31 dates from 1 files
+2026-02-24 18:55:16,429 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx
+2026-02-24 18:55:16,667 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx
+2026-02-24 18:55:16,675 - INFO - Processing preferences for: Sethuraman
+2026-02-24 18:55:16,686 - INFO - Sethuraman shift ranges - Min: None, Ideal: None, Max: None
+2026-02-24 18:55:16,686 - ERROR - CRITICAL: Sethuraman in file C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx has missing shift range values!
+2026-02-24 18:55:16,686 - ERROR -   Min shifts (B42): None
+2026-02-24 18:55:16,686 - ERROR -   Ideal shifts (B43): None
+2026-02-24 18:55:16,686 - ERROR -   Max shifts (B44): None
+2026-02-24 18:55:16,686 - WARNING -   Using defaults for Sethuraman: Min=0, Max=31
+2026-02-24 18:55:17,069 - INFO - Successfully processed Sethuraman: 9 preferences loaded
+2026-02-24 18:55:17,069 - INFO - Loaded 1 physicians, 31 dates from 1 files
+2026-02-24 18:56:40,537 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Shum_2026 03 SL Selections Template.xlsx
+2026-02-24 18:56:41,425 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Shum_2026 03 SL Selections Template.xlsx
+2026-02-24 18:56:41,433 - INFO - Processing preferences for: Shum
+2026-02-24 18:56:41,446 - INFO - Shum shift ranges - Min: 4, Ideal: 5, Max: 6
+2026-02-24 18:56:41,842 - INFO - Successfully processed Shum: 70 preferences loaded
+2026-02-24 18:56:41,842 - INFO - Loaded 1 physicians, 31 dates from 1 files
+2026-02-24 18:58:26,442 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-24 18:58:26,621 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-24 18:58:26,629 - INFO - Processing preferences for: Puri
+2026-02-24 18:58:26,639 - INFO - Puri shift ranges - Min: 20, Ideal: 20, Max: 30
+2026-02-24 18:58:27,036 - INFO - Successfully processed Puri: 23 preferences loaded
+2026-02-24 18:58:27,037 - INFO - Loaded 1 physicians, 31 dates from 1 files
+2026-02-25 02:22:54,380 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-25 02:22:55,272 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-25 02:22:55,300 - INFO - Processing preferences for: Puri
+2026-02-25 02:22:55,311 - INFO - Puri shift ranges - Min: 20, Ideal: 20, Max: 30
+2026-02-25 02:22:55,697 - INFO - Successfully processed Puri: 23 preferences loaded
+2026-02-25 02:22:55,697 - INFO - Loaded 1 physicians, 31 dates from 1 files
+2026-02-25 02:23:36,951 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Shum_2026 03 SL Selections Template.xlsx
+2026-02-25 02:23:36,951 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Ikonnikov_2026 03 SL Selections Template.xlsx
+2026-02-25 02:23:36,951 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx
+2026-02-25 02:23:36,952 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/GRENIER 2026 03 SL Selections Template.xlsx
+2026-02-25 02:23:36,952 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Adamson-2026 03 SL Selections Template.xlsx
+2026-02-25 02:23:36,952 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Chan 2026 03 SL Selections.xlsx
+2026-02-25 02:23:36,952 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Da Qi_2026 03 SL Selections Template.xlsx
+2026-02-25 02:23:36,952 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Duerksen_2026 03 SL Selections Template.xlsx
+2026-02-25 02:23:36,952 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Feng_2026 03 SL Selections Template.xlsx
+2026-02-25 02:23:36,952 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Gannage 2026 03 SL Selections Template.xlsx
+2026-02-25 02:23:36,952 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Ho_2026 03 SL Selections Template.xlsx
+2026-02-25 02:23:36,952 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Hui 2026 03 SL Selections Template.xlsx
+2026-02-25 02:23:36,952 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/iMak_2026 03 SL Selections Template.xlsx
+2026-02-25 02:23:36,952 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Lau 2026 03 SL Selections.xlsx
+2026-02-25 02:23:36,953 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Lee_2026 03 SL Selections Template.xlsx
+2026-02-25 02:23:36,953 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Leung 03 SL Selections Template.xlsx
+2026-02-25 02:23:36,953 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Shin_2026 03 SL Selections.xlsx
+2026-02-25 02:23:36,953 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Silverstein_2026 03 Selections Template.xlsx
+2026-02-25 02:23:36,953 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Sommer_2026 03 SL Selections.xlsx
+2026-02-25 02:23:36,953 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Tan 2026 03 SL Selections Template.xlsx
+2026-02-25 02:23:36,953 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Van Heer 2026 03 SL Selections Template.xlsx
+2026-02-25 02:23:36,953 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Waghmare_2026 03 SL Selections.xlsx
+2026-02-25 02:23:36,953 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Yue 2026 03 SL Selections Template.xlsx
+2026-02-25 02:23:39,819 - INFO - Set output path: C:/Users/Lance/Downloads/2026 03/master 03.xlsx
+2026-02-25 02:26:41,259 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-25 02:26:41,259 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Shum_2026 03 SL Selections Template.xlsx
+2026-02-25 02:26:41,259 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Ikonnikov_2026 03 SL Selections Template.xlsx
+2026-02-25 02:26:41,259 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx
+2026-02-25 02:26:41,259 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/GRENIER 2026 03 SL Selections Template.xlsx
+2026-02-25 02:26:41,259 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Adamson-2026 03 SL Selections Template.xlsx
+2026-02-25 02:26:41,260 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Chan 2026 03 SL Selections.xlsx
+2026-02-25 02:26:41,260 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Da Qi_2026 03 SL Selections Template.xlsx
+2026-02-25 02:26:41,260 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Duerksen_2026 03 SL Selections Template.xlsx
+2026-02-25 02:26:41,260 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Feng_2026 03 SL Selections Template.xlsx
+2026-02-25 02:26:41,260 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Gannage 2026 03 SL Selections Template.xlsx
+2026-02-25 02:26:41,260 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Ho_2026 03 SL Selections Template.xlsx
+2026-02-25 02:26:41,260 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Hui 2026 03 SL Selections Template.xlsx
+2026-02-25 02:26:41,260 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/iMak_2026 03 SL Selections Template.xlsx
+2026-02-25 02:26:41,260 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Lau 2026 03 SL Selections.xlsx
+2026-02-25 02:26:41,260 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Lee_2026 03 SL Selections Template.xlsx
+2026-02-25 02:26:41,260 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Leung 03 SL Selections Template.xlsx
+2026-02-25 02:26:41,261 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Shin_2026 03 SL Selections.xlsx
+2026-02-25 02:26:41,261 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Silverstein_2026 03 Selections Template.xlsx
+2026-02-25 02:26:41,261 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Sommer_2026 03 SL Selections.xlsx
+2026-02-25 02:26:41,261 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Tan 2026 03 SL Selections Template.xlsx
+2026-02-25 02:26:41,261 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Van Heer 2026 03 SL Selections Template.xlsx
+2026-02-25 02:26:41,261 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Waghmare_2026 03 SL Selections.xlsx
+2026-02-25 02:26:41,261 - INFO - Added file: C:/Users/Lance/Downloads/2026 03/Yue 2026 03 SL Selections Template.xlsx
+2026-02-25 02:26:46,278 - INFO - Set output path: C:/Users/Lance/Downloads/2026 03/master 03.xlsx
+2026-02-25 02:26:47,012 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-25 02:26:47,019 - INFO - Processing preferences for: Puri
+2026-02-25 02:26:47,030 - INFO - Puri shift ranges - Min: 20, Ideal: 20, Max: 30
+2026-02-25 02:26:47,420 - INFO - Successfully processed Puri: 23 preferences loaded
+2026-02-25 02:26:47,420 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Shum_2026 03 SL Selections Template.xlsx
+2026-02-25 02:26:47,436 - INFO - Processing preferences for: Shum
+2026-02-25 02:26:47,448 - INFO - Shum shift ranges - Min: 4, Ideal: 5, Max: 6
+2026-02-25 02:26:47,844 - INFO - Successfully processed Shum: 70 preferences loaded
+2026-02-25 02:26:47,844 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Ikonnikov_2026 03 SL Selections Template.xlsx
+2026-02-25 02:26:47,858 - INFO - Processing preferences for: Ikonnikov
+2026-02-25 02:26:47,870 - INFO - Ikonnikov shift ranges - Min: 8, Ideal: 12, Max: 14
+2026-02-25 02:26:48,274 - INFO - Successfully processed Ikonnikov: 143 preferences loaded
+2026-02-25 02:26:48,274 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx
+2026-02-25 02:26:48,288 - INFO - Processing preferences for: Sethuraman
+2026-02-25 02:26:48,299 - INFO - Sethuraman shift ranges - Min: None, Ideal: None, Max: None
+2026-02-25 02:26:48,299 - ERROR - CRITICAL: Sethuraman in file C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx has missing shift range values!
+2026-02-25 02:26:48,300 - ERROR -   Min shifts (B42): None
+2026-02-25 02:26:48,300 - ERROR -   Ideal shifts (B43): None
+2026-02-25 02:26:48,300 - ERROR -   Max shifts (B44): None
+2026-02-25 02:26:48,300 - WARNING -   Using defaults for Sethuraman: Min=0, Max=31
+2026-02-25 02:26:48,680 - INFO - Successfully processed Sethuraman: 9 preferences loaded
+2026-02-25 02:26:48,681 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/GRENIER 2026 03 SL Selections Template.xlsx
+2026-02-25 02:26:48,694 - INFO - Processing preferences for: Grenier
+2026-02-25 02:26:48,705 - INFO - Grenier shift ranges - Min: 3, Ideal: 3, Max: 3
+2026-02-25 02:26:49,099 - INFO - Successfully processed Grenier: 6 preferences loaded
+2026-02-25 02:26:49,100 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Adamson-2026 03 SL Selections Template.xlsx
+2026-02-25 02:26:49,117 - INFO - Processing preferences for: Adamson
+2026-02-25 02:26:49,128 - INFO - Adamson shift ranges - Min: 0.0, Ideal: 1.0, Max: 1.0
+2026-02-25 02:26:49,515 - INFO - Successfully processed Adamson: 3 preferences loaded
+2026-02-25 02:26:49,515 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Chan 2026 03 SL Selections.xlsx
+2026-02-25 02:26:49,528 - INFO - Processing preferences for: Chan
+2026-02-25 02:26:49,540 - INFO - Chan shift ranges - Min: None, Ideal: 12, Max: None
+2026-02-25 02:26:49,540 - ERROR - CRITICAL: Chan in file C:/Users/Lance/Downloads/2026 03/Chan 2026 03 SL Selections.xlsx has missing shift range values!
+2026-02-25 02:26:49,540 - ERROR -   Min shifts (B42): None
+2026-02-25 02:26:49,541 - ERROR -   Ideal shifts (B43): 12
+2026-02-25 02:26:49,541 - ERROR -   Max shifts (B44): None
+2026-02-25 02:26:49,541 - WARNING -   Using defaults for Chan: Min=0, Max=31
+2026-02-25 02:26:49,930 - INFO - Successfully processed Chan: 82 preferences loaded
+2026-02-25 02:26:49,931 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Da Qi_2026 03 SL Selections Template.xlsx
+2026-02-25 02:26:49,944 - INFO - Processing preferences for: Da Qi
+2026-02-25 02:26:49,956 - INFO - Da Qi shift ranges - Min: 13, Ideal: 14, Max: 15
+2026-02-25 02:26:50,371 - INFO - Successfully processed Da Qi: 279 preferences loaded
+2026-02-25 02:26:50,371 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Duerksen_2026 03 SL Selections Template.xlsx
+2026-02-25 02:26:50,388 - INFO - Processing preferences for: Duerksen
+2026-02-25 02:26:50,401 - INFO - Duerksen shift ranges - Min: 6.0, Ideal: 8.0, Max: 9.0
+2026-02-25 02:26:50,814 - INFO - Successfully processed Duerksen: 279 preferences loaded
+2026-02-25 02:26:50,814 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Feng_2026 03 SL Selections Template.xlsx
+2026-02-25 02:26:50,830 - INFO - Processing preferences for: Feng
+2026-02-25 02:26:50,843 - INFO - Feng shift ranges - Min: 13.0, Ideal: 13.0, Max: 15.0
+2026-02-25 02:26:51,230 - INFO - Successfully processed Feng: 137 preferences loaded
+2026-02-25 02:26:51,230 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Gannage 2026 03 SL Selections Template.xlsx
+2026-02-25 02:26:51,244 - INFO - Processing preferences for: Gannage
+2026-02-25 02:26:51,255 - INFO - Gannage shift ranges - Min: 11, Ideal: 12, Max: 13
+2026-02-25 02:26:51,653 - INFO - Successfully processed Gannage: 107 preferences loaded
+2026-02-25 02:26:51,653 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Ho_2026 03 SL Selections Template.xlsx
+2026-02-25 02:26:51,667 - INFO - Processing preferences for: Ho
+2026-02-25 02:26:51,678 - INFO - Ho shift ranges - Min: 9, Ideal: 9, Max: 9
+2026-02-25 02:26:52,066 - INFO - Successfully processed Ho: 9 preferences loaded
+2026-02-25 02:26:52,066 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Hui 2026 03 SL Selections Template.xlsx
+2026-02-25 02:26:52,082 - INFO - Processing preferences for: Hui
+2026-02-25 02:26:52,094 - INFO - Hui shift ranges - Min: 5, Ideal: 8, Max: 13
+2026-02-25 02:26:52,501 - INFO - Successfully processed Hui: 23 preferences loaded
+2026-02-25 02:26:52,501 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/iMak_2026 03 SL Selections Template.xlsx
+2026-02-25 02:26:52,515 - INFO - Processing preferences for: iMak
+2026-02-25 02:26:52,526 - INFO - iMak shift ranges - Min: 9, Ideal: 10, Max: 11
+2026-02-25 02:26:52,915 - INFO - Successfully processed iMak: 71 preferences loaded
+2026-02-25 02:26:52,915 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Lau 2026 03 SL Selections.xlsx
+2026-02-25 02:26:52,929 - INFO - Processing preferences for: Lau
+2026-02-25 02:26:52,942 - INFO - Lau shift ranges - Min: 9, Ideal: 11, Max: 12
+2026-02-25 02:26:53,341 - INFO - Successfully processed Lau: 113 preferences loaded
+2026-02-25 02:26:53,341 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Lee_2026 03 SL Selections Template.xlsx
+2026-02-25 02:26:53,355 - INFO - Processing preferences for: Lee
+2026-02-25 02:26:53,367 - INFO - Lee shift ranges - Min: 14, Ideal: 15, Max: 16
+2026-02-25 02:26:53,770 - INFO - Successfully processed Lee: 98 preferences loaded
+2026-02-25 02:26:53,770 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Leung 03 SL Selections Template.xlsx
+2026-02-25 02:26:53,784 - INFO - Processing preferences for: Leung
+2026-02-25 02:26:53,796 - INFO - Leung shift ranges - Min: None, Ideal: None, Max: None
+2026-02-25 02:26:53,797 - ERROR - CRITICAL: Leung in file C:/Users/Lance/Downloads/2026 03/Leung 03 SL Selections Template.xlsx has missing shift range values!
+2026-02-25 02:26:53,797 - ERROR -   Min shifts (B42): None
+2026-02-25 02:26:53,797 - ERROR -   Ideal shifts (B43): None
+2026-02-25 02:26:53,797 - ERROR -   Max shifts (B44): None
+2026-02-25 02:26:53,797 - WARNING -   Using defaults for Leung: Min=0, Max=31
+2026-02-25 02:26:54,188 - INFO - Successfully processed Leung: 149 preferences loaded
+2026-02-25 02:26:54,188 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Shin_2026 03 SL Selections.xlsx
+2026-02-25 02:26:54,202 - INFO - Processing preferences for: Shin
+2026-02-25 02:26:54,214 - INFO - Shin shift ranges - Min: 8, Ideal: 10, Max: 10
+2026-02-25 02:26:54,624 - INFO - Successfully processed Shin: 135 preferences loaded
+2026-02-25 02:26:54,625 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Silverstein_2026 03 Selections Template.xlsx
+2026-02-25 02:26:54,639 - INFO - Processing preferences for: Silverstein
+2026-02-25 02:26:54,651 - INFO - Silverstein shift ranges - Min: 7, Ideal: 9, Max: 12
+2026-02-25 02:26:55,053 - INFO - Successfully processed Silverstein: 84 preferences loaded
+2026-02-25 02:26:55,053 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Sommer_2026 03 SL Selections.xlsx
+2026-02-25 02:26:55,067 - INFO - Processing preferences for: Sommer
+2026-02-25 02:26:55,079 - INFO - Sommer shift ranges - Min: 7, Ideal: 9, Max: 10
+2026-02-25 02:26:55,471 - INFO - Successfully processed Sommer: 90 preferences loaded
+2026-02-25 02:26:55,471 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Tan 2026 03 SL Selections Template.xlsx
+2026-02-25 02:26:55,486 - INFO - Processing preferences for: Tan
+2026-02-25 02:26:55,498 - INFO - Tan shift ranges - Min: 11, Ideal: 13, Max: 16
+2026-02-25 02:26:55,913 - INFO - Successfully processed Tan: 173 preferences loaded
+2026-02-25 02:26:55,913 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Van Heer 2026 03 SL Selections Template.xlsx
+2026-02-25 02:26:55,928 - INFO - Processing preferences for: Van Heer
+2026-02-25 02:26:55,939 - INFO - Van Heer shift ranges - Min: 6, Ideal: 10, Max: 12
+2026-02-25 02:26:56,335 - INFO - Successfully processed Van Heer: 77 preferences loaded
+2026-02-25 02:26:56,335 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Waghmare_2026 03 SL Selections.xlsx
+2026-02-25 02:26:56,353 - INFO - Processing preferences for: Waghmare
+2026-02-25 02:26:56,365 - INFO - Waghmare shift ranges - Min: 12, Ideal: 13, Max: 14
+2026-02-25 02:26:56,783 - INFO - Successfully processed Waghmare: 127 preferences loaded
+2026-02-25 02:26:56,783 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Yue 2026 03 SL Selections Template.xlsx
+2026-02-25 02:26:56,797 - INFO - Processing preferences for: Yue
+2026-02-25 02:26:56,810 - INFO - Yue shift ranges - Min: 0, Ideal: 0, Max: 0
+2026-02-25 02:26:57,220 - INFO - Successfully processed Yue: 0 preferences loaded
+2026-02-25 02:26:57,221 - INFO - Loaded 24 physicians, 31 dates from 24 files
+2026-02-25 02:29:58,600 - INFO - Pre-assignments saved: 42 assignments across 23 dates
+2026-02-25 02:30:02,809 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Puri_2026 03 SL Selections.xlsx
+2026-02-25 02:30:02,816 - INFO - Processing preferences for: Puri
+2026-02-25 02:30:02,829 - INFO - Puri shift ranges - Min: 20, Ideal: 20, Max: 30
+2026-02-25 02:30:03,215 - INFO - Successfully processed Puri: 23 preferences loaded
+2026-02-25 02:30:03,215 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Shum_2026 03 SL Selections Template.xlsx
+2026-02-25 02:30:03,222 - INFO - Processing preferences for: Shum
+2026-02-25 02:30:03,233 - INFO - Shum shift ranges - Min: 4, Ideal: 5, Max: 6
+2026-02-25 02:30:03,647 - INFO - Successfully processed Shum: 70 preferences loaded
+2026-02-25 02:30:03,647 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Ikonnikov_2026 03 SL Selections Template.xlsx
+2026-02-25 02:30:03,653 - INFO - Processing preferences for: Ikonnikov
+2026-02-25 02:30:03,664 - INFO - Ikonnikov shift ranges - Min: 8, Ideal: 12, Max: 14
+2026-02-25 02:30:04,064 - INFO - Successfully processed Ikonnikov: 143 preferences loaded
+2026-02-25 02:30:04,064 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx
+2026-02-25 02:30:04,070 - INFO - Processing preferences for: Sethuraman
+2026-02-25 02:30:04,081 - INFO - Sethuraman shift ranges - Min: None, Ideal: None, Max: None
+2026-02-25 02:30:04,081 - ERROR - CRITICAL: Sethuraman in file C:/Users/Lance/Downloads/2026 03/Sethuraman_2026 03 SL Selections.xlsx has missing shift range values!
+2026-02-25 02:30:04,081 - ERROR -   Min shifts (B42): None
+2026-02-25 02:30:04,081 - ERROR -   Ideal shifts (B43): None
+2026-02-25 02:30:04,081 - ERROR -   Max shifts (B44): None
+2026-02-25 02:30:04,081 - WARNING -   Using defaults for Sethuraman: Min=0, Max=31
+2026-02-25 02:30:04,479 - INFO - Successfully processed Sethuraman: 9 preferences loaded
+2026-02-25 02:30:04,479 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/GRENIER 2026 03 SL Selections Template.xlsx
+2026-02-25 02:30:04,485 - INFO - Processing preferences for: Grenier
+2026-02-25 02:30:04,498 - INFO - Grenier shift ranges - Min: 3, Ideal: 3, Max: 3
+2026-02-25 02:30:04,894 - INFO - Successfully processed Grenier: 6 preferences loaded
+2026-02-25 02:30:04,894 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Adamson-2026 03 SL Selections Template.xlsx
+2026-02-25 02:30:04,902 - INFO - Processing preferences for: Adamson
+2026-02-25 02:30:04,913 - INFO - Adamson shift ranges - Min: 0.0, Ideal: 1.0, Max: 1.0
+2026-02-25 02:30:05,291 - INFO - Successfully processed Adamson: 3 preferences loaded
+2026-02-25 02:30:05,291 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Chan 2026 03 SL Selections.xlsx
+2026-02-25 02:30:05,297 - INFO - Processing preferences for: Chan
+2026-02-25 02:30:05,309 - INFO - Chan shift ranges - Min: None, Ideal: 12, Max: None
+2026-02-25 02:30:05,309 - ERROR - CRITICAL: Chan in file C:/Users/Lance/Downloads/2026 03/Chan 2026 03 SL Selections.xlsx has missing shift range values!
+2026-02-25 02:30:05,309 - ERROR -   Min shifts (B42): None
+2026-02-25 02:30:05,309 - ERROR -   Ideal shifts (B43): 12
+2026-02-25 02:30:05,309 - ERROR -   Max shifts (B44): None
+2026-02-25 02:30:05,309 - WARNING -   Using defaults for Chan: Min=0, Max=31
+2026-02-25 02:30:05,713 - INFO - Successfully processed Chan: 82 preferences loaded
+2026-02-25 02:30:05,714 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Da Qi_2026 03 SL Selections Template.xlsx
+2026-02-25 02:30:05,719 - INFO - Processing preferences for: Da Qi
+2026-02-25 02:30:05,730 - INFO - Da Qi shift ranges - Min: 13, Ideal: 14, Max: 15
+2026-02-25 02:30:06,137 - INFO - Successfully processed Da Qi: 279 preferences loaded
+2026-02-25 02:30:06,137 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Duerksen_2026 03 SL Selections Template.xlsx
+2026-02-25 02:30:06,159 - INFO - Processing preferences for: Duerksen
+2026-02-25 02:30:06,170 - INFO - Duerksen shift ranges - Min: 6.0, Ideal: 8.0, Max: 9.0
+2026-02-25 02:30:06,581 - INFO - Successfully processed Duerksen: 279 preferences loaded
+2026-02-25 02:30:06,582 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Feng_2026 03 SL Selections Template.xlsx
+2026-02-25 02:30:06,589 - INFO - Processing preferences for: Feng
+2026-02-25 02:30:06,600 - INFO - Feng shift ranges - Min: 13.0, Ideal: 13.0, Max: 15.0
+2026-02-25 02:30:07,001 - INFO - Successfully processed Feng: 137 preferences loaded
+2026-02-25 02:30:07,001 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Gannage 2026 03 SL Selections Template.xlsx
+2026-02-25 02:30:07,007 - INFO - Processing preferences for: Gannage
+2026-02-25 02:30:07,019 - INFO - Gannage shift ranges - Min: 11, Ideal: 12, Max: 13
+2026-02-25 02:30:07,419 - INFO - Successfully processed Gannage: 107 preferences loaded
+2026-02-25 02:30:07,419 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Ho_2026 03 SL Selections Template.xlsx
+2026-02-25 02:30:07,425 - INFO - Processing preferences for: Ho
+2026-02-25 02:30:07,436 - INFO - Ho shift ranges - Min: 9, Ideal: 9, Max: 9
+2026-02-25 02:30:07,845 - INFO - Successfully processed Ho: 9 preferences loaded
+2026-02-25 02:30:07,845 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Hui 2026 03 SL Selections Template.xlsx
+2026-02-25 02:30:07,852 - INFO - Processing preferences for: Hui
+2026-02-25 02:30:07,864 - INFO - Hui shift ranges - Min: 5, Ideal: 8, Max: 13
+2026-02-25 02:30:08,265 - INFO - Successfully processed Hui: 23 preferences loaded
+2026-02-25 02:30:08,265 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/iMak_2026 03 SL Selections Template.xlsx
+2026-02-25 02:30:08,271 - INFO - Processing preferences for: iMak
+2026-02-25 02:30:08,297 - INFO - iMak shift ranges - Min: 9, Ideal: 10, Max: 11
+2026-02-25 02:30:08,692 - INFO - Successfully processed iMak: 71 preferences loaded
+2026-02-25 02:30:08,692 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Lau 2026 03 SL Selections.xlsx
+2026-02-25 02:30:08,698 - INFO - Processing preferences for: Lau
+2026-02-25 02:30:08,710 - INFO - Lau shift ranges - Min: 9, Ideal: 11, Max: 12
+2026-02-25 02:30:09,120 - INFO - Successfully processed Lau: 113 preferences loaded
+2026-02-25 02:30:09,120 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Lee_2026 03 SL Selections Template.xlsx
+2026-02-25 02:30:09,126 - INFO - Processing preferences for: Lee
+2026-02-25 02:30:09,137 - INFO - Lee shift ranges - Min: 14, Ideal: 15, Max: 16
+2026-02-25 02:30:09,540 - INFO - Successfully processed Lee: 98 preferences loaded
+2026-02-25 02:30:09,540 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Leung 03 SL Selections Template.xlsx
+2026-02-25 02:30:09,546 - INFO - Processing preferences for: Leung
+2026-02-25 02:30:09,558 - INFO - Leung shift ranges - Min: None, Ideal: None, Max: None
+2026-02-25 02:30:09,558 - ERROR - CRITICAL: Leung in file C:/Users/Lance/Downloads/2026 03/Leung 03 SL Selections Template.xlsx has missing shift range values!
+2026-02-25 02:30:09,558 - ERROR -   Min shifts (B42): None
+2026-02-25 02:30:09,558 - ERROR -   Ideal shifts (B43): None
+2026-02-25 02:30:09,559 - ERROR -   Max shifts (B44): None
+2026-02-25 02:30:09,559 - WARNING -   Using defaults for Leung: Min=0, Max=31
+2026-02-25 02:30:09,966 - INFO - Successfully processed Leung: 149 preferences loaded
+2026-02-25 02:30:09,966 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Shin_2026 03 SL Selections.xlsx
+2026-02-25 02:30:09,972 - INFO - Processing preferences for: Shin
+2026-02-25 02:30:09,984 - INFO - Shin shift ranges - Min: 8, Ideal: 10, Max: 10
+2026-02-25 02:30:10,383 - INFO - Successfully processed Shin: 135 preferences loaded
+2026-02-25 02:30:10,383 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Silverstein_2026 03 Selections Template.xlsx
+2026-02-25 02:30:10,389 - INFO - Processing preferences for: Silverstein
+2026-02-25 02:30:10,416 - INFO - Silverstein shift ranges - Min: 7, Ideal: 9, Max: 12
+2026-02-25 02:30:10,806 - INFO - Successfully processed Silverstein: 84 preferences loaded
+2026-02-25 02:30:10,806 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Sommer_2026 03 SL Selections.xlsx
+2026-02-25 02:30:10,812 - INFO - Processing preferences for: Sommer
+2026-02-25 02:30:10,824 - INFO - Sommer shift ranges - Min: 7, Ideal: 9, Max: 10
+2026-02-25 02:30:11,237 - INFO - Successfully processed Sommer: 90 preferences loaded
+2026-02-25 02:30:11,237 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Tan 2026 03 SL Selections Template.xlsx
+2026-02-25 02:30:11,244 - INFO - Processing preferences for: Tan
+2026-02-25 02:30:11,256 - INFO - Tan shift ranges - Min: 11, Ideal: 13, Max: 16
+2026-02-25 02:30:11,655 - INFO - Successfully processed Tan: 173 preferences loaded
+2026-02-25 02:30:11,655 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Van Heer 2026 03 SL Selections Template.xlsx
+2026-02-25 02:30:11,662 - INFO - Processing preferences for: Van Heer
+2026-02-25 02:30:11,672 - INFO - Van Heer shift ranges - Min: 6, Ideal: 10, Max: 12
+2026-02-25 02:30:12,079 - INFO - Successfully processed Van Heer: 77 preferences loaded
+2026-02-25 02:30:12,080 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Waghmare_2026 03 SL Selections.xlsx
+2026-02-25 02:30:12,088 - INFO - Processing preferences for: Waghmare
+2026-02-25 02:30:12,101 - INFO - Waghmare shift ranges - Min: 12, Ideal: 13, Max: 14
+2026-02-25 02:30:12,511 - INFO - Successfully processed Waghmare: 127 preferences loaded
+2026-02-25 02:30:12,511 - INFO - Processing file: C:/Users/Lance/Downloads/2026 03/Yue 2026 03 SL Selections Template.xlsx
+2026-02-25 02:30:12,517 - INFO - Processing preferences for: Yue
+2026-02-25 02:30:12,528 - INFO - Yue shift ranges - Min: 0, Ideal: 0, Max: 0
+2026-02-25 02:30:12,913 - INFO - Successfully processed Yue: 0 preferences loaded
+2026-02-25 02:30:12,913 - INFO - Set 42 pre-assignments
+2026-02-25 02:30:12,913 - INFO - Pre-assigned: 2026-03-01 St. John's \u2192 Ikonnikov
+2026-02-25 02:30:12,913 - INFO - Pre-assigned: 2026-03-01 Halifax \u2192 Puri
+2026-02-25 02:30:12,913 - INFO - Pre-assigned: 2026-03-02 St. John's \u2192 Puri
+2026-02-25 02:30:12,914 - INFO - Pre-assigned: 2026-03-02 Halifax \u2192 Van Heer
+2026-02-25 02:30:12,914 - INFO - Pre-assigned: 2026-03-03 St. John's \u2192 Puri
+2026-02-25 02:30:12,914 - INFO - Pre-assigned: 2026-03-03 Halifax \u2192 Gannage
+2026-02-25 02:30:12,914 - INFO - Pre-assigned: 2026-03-04 St. John's \u2192 Puri
+2026-02-25 02:30:12,914 - INFO - Pre-assigned: 2026-03-04 Halifax \u2192 Ikonnikov
+2026-02-25 02:30:12,914 - INFO - Pre-assigned: 2026-03-07 St. John's \u2192 Shin
+2026-02-25 02:30:12,914 - INFO - Pre-assigned: 2026-03-07 Halifax \u2192 Puri
+2026-02-25 02:30:12,914 - INFO - Pre-assigned: 2026-03-08 St. John's \u2192 Shin
+2026-02-25 02:30:12,914 - INFO - Pre-assigned: 2026-03-08 Halifax \u2192 Puri
+2026-02-25 02:30:12,914 - INFO - Pre-assigned: 2026-03-09 St. John's \u2192 Puri
+2026-02-25 02:30:12,914 - INFO - Pre-assigned: 2026-03-09 Halifax \u2192 Van Heer
+2026-02-25 02:30:12,914 - INFO - Pre-assigned: 2026-03-10 St. John's \u2192 Puri
+2026-02-25 02:30:12,915 - INFO - Pre-assigned: 2026-03-10 Halifax \u2192 Feng
+2026-02-25 02:30:12,915 - INFO - Pre-assigned: 2026-03-11 St. John's \u2192 Puri
+2026-02-25 02:30:12,915 - INFO - Pre-assigned: 2026-03-11 Halifax \u2192 Da Qi
+2026-02-25 02:30:12,915 - INFO - Pre-assigned: 2026-03-14 Halifax \u2192 Puri
+2026-02-25 02:30:12,915 - INFO - Pre-assigned: 2026-03-15 Halifax \u2192 Puri
+2026-02-25 02:30:12,915 - INFO - Pre-assigned: 2026-03-16 St. John's \u2192 Puri
+2026-02-25 02:30:12,915 - INFO - Pre-assigned: 2026-03-16 Halifax \u2192 Van Heer
+2026-02-25 02:30:12,915 - INFO - Pre-assigned: 2026-03-17 St. John's \u2192 Puri
+2026-02-25 02:30:12,915 - INFO - Pre-assigned: 2026-03-17 Halifax \u2192 Grenier
+2026-02-25 02:30:12,915 - INFO - Pre-assigned: 2026-03-18 St. John's \u2192 Puri
+2026-02-25 02:30:12,915 - INFO - Pre-assigned: 2026-03-18 Halifax \u2192 Chan
+2026-02-25 02:30:12,915 - INFO - Pre-assigned: 2026-03-21 Halifax \u2192 Puri
+2026-02-25 02:30:12,915 - INFO - Pre-assigned: 2026-03-22 Halifax \u2192 Puri
+2026-02-25 02:30:12,915 - INFO - Pre-assigned: 2026-03-23 St. John's \u2192 Puri
+2026-02-25 02:30:12,916 - INFO - Pre-assigned: 2026-03-23 Halifax \u2192 Chan
+2026-02-25 02:30:12,916 - INFO - Pre-assigned: 2026-03-24 St. John's \u2192 Puri
+2026-02-25 02:30:12,916 - INFO - Pre-assigned: 2026-03-24 Halifax \u2192 Chan
+2026-02-25 02:30:12,916 - INFO - Pre-assigned: 2026-03-25 St. John's \u2192 Puri
+2026-02-25 02:30:12,916 - INFO - Pre-assigned: 2026-03-25 Halifax \u2192 Da Qi
+2026-02-25 02:30:12,916 - INFO - Pre-assigned: 2026-03-28 St. John's \u2192 Chan
+2026-02-25 02:30:12,916 - INFO - Pre-assigned: 2026-03-28 Halifax \u2192 Puri
+2026-02-25 02:30:12,916 - INFO - Pre-assigned: 2026-03-29 St. John's \u2192 Da Qi
+2026-02-25 02:30:12,916 - INFO - Pre-assigned: 2026-03-29 Halifax \u2192 Puri
+2026-02-25 02:30:12,916 - INFO - Pre-assigned: 2026-03-30 St. John's \u2192 Puri
+2026-02-25 02:30:12,916 - INFO - Pre-assigned: 2026-03-30 Halifax \u2192 Gannage
+2026-02-25 02:30:12,916 - INFO - Pre-assigned: 2026-03-31 St. John's \u2192 Puri
+2026-02-25 02:30:12,916 - INFO - Pre-assigned: 2026-03-31 Halifax \u2192 Ikonnikov
+2026-02-25 02:30:12,916 - INFO - Injecting 42 pre-assignments into solver
+2026-02-25 02:30:12,919 - INFO - Starting schedule generation...
+2026-02-25 02:30:12,920 - INFO - Total physicians: 24
+2026-02-25 02:30:12,920 - INFO - Total dates: 31
+2026-02-25 02:30:12,920 - INFO - Date range: 2026-03-01 to 2026-03-31
+2026-02-25 02:30:12,930 - INFO - Forcing pre-assigned shifts...
+2026-02-25 02:30:12,930 - INFO - Forced 42 pre-assigned shifts
+2026-02-25 02:30:12,931 - INFO - Forcing ALL of Puri's preferences (priority #1)...
+2026-02-25 02:30:12,931 - INFO - Forced 23 total shifts for Puri
+2026-02-25 02:30:14,228 - INFO - Starting solver with deterministic settings...
+2026-02-25 02:30:15,971 - INFO - Solver status: OPTIMAL
+2026-02-25 02:30:15,971 - INFO - Solve time: 1.7344885 seconds
+2026-02-25 02:30:15,971 - INFO - Solution found - analyzing coverage...
+2026-02-25 02:30:15,976 - INFO - Total possible shifts: 248
+2026-02-25 02:30:15,976 - INFO - Filled shifts: 248 (100.0%)
+2026-02-25 02:30:15,976 - INFO - Unfilled shifts: 0
+2026-02-25 02:30:15,977 - INFO - Puri: 23/30 shifts (min: 20)
+2026-02-25 02:30:15,977 - WARNING - Shum: HIT MAX LIMIT - 6/6 (min: 4)
+2026-02-25 02:30:15,978 - WARNING - Ikonnikov: HIT MAX LIMIT - 14/14 (min: 8)
+2026-02-25 02:30:15,978 - INFO - Sethuraman: 3/31 shifts (min: 0)
+2026-02-25 02:30:15,979 - WARNING - Grenier: HIT MAX LIMIT - 3/3 (min: 3)
+2026-02-25 02:30:15,979 - WARNING - Adamson: HIT MAX LIMIT - 1/1 (min: 0)
+2026-02-25 02:30:15,980 - INFO - Chan: 14/31 shifts (min: 0)
+2026-02-25 02:30:15,980 - INFO - Da Qi: 13/15 shifts (min: 13)
+2026-02-25 02:30:15,981 - WARNING - Duerksen: HIT MAX LIMIT - 9/9 (min: 6)
+2026-02-25 02:30:15,981 - INFO - Feng: 14/15 shifts (min: 13)
+2026-02-25 02:30:15,981 - WARNING - Gannage: HIT MAX LIMIT - 13/13 (min: 11)
+2026-02-25 02:30:15,982 - WARNING - Ho: HIT MAX LIMIT - 9/9 (min: 9)
+2026-02-25 02:30:15,982 - INFO - Hui: 9/13 shifts (min: 5)
+2026-02-25 02:30:15,983 - INFO - iMak: 9/11 shifts (min: 9)
+2026-02-25 02:30:15,983 - WARNING - Lau: HIT MAX LIMIT - 12/12 (min: 9)
+2026-02-25 02:30:15,984 - INFO - Lee: 14/16 shifts (min: 14)
+2026-02-25 02:30:15,984 - INFO - Leung: 15/31 shifts (min: 0)
+2026-02-25 02:30:15,985 - WARNING - Shin: HIT MAX LIMIT - 10/10 (min: 8)
+2026-02-25 02:30:15,985 - INFO - Silverstein: 10/12 shifts (min: 7)
+2026-02-25 02:30:15,985 - WARNING - Sommer: HIT MAX LIMIT - 10/10 (min: 7)
+2026-02-25 02:30:15,986 - INFO - Tan: 11/16 shifts (min: 11)
+2026-02-25 02:30:15,986 - WARNING - Van Heer: HIT MAX LIMIT - 12/12 (min: 6)
+2026-02-25 02:30:15,987 - WARNING - Waghmare: HIT MAX LIMIT - 14/14 (min: 12)
+2026-02-25 02:30:15,987 - WARNING - Yue: HIT MAX LIMIT - 0/0 (min: 0)
+2026-02-25 02:30:16,039 - INFO - Schedule saved to C:/Users/Lance/Downloads/2026 03/master 03.xlsx

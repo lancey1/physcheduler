@@ -11,10 +11,27 @@ class ScheduleGenerator:
         self.employees = employees if employees else {}
         self.dates = sorted(list(dates)) if dates else []
         self.shifts = shifts if shifts else []
+        self.pre_assignments = {}  # Add this line
 
         # Filter out December 31st of previous year if it exists
         self.dates = [d for d in self.dates if not (isinstance(d, date) and d.month == 12 and d.day == 31)]
-
+        
+    def set_pre_assignments(self, pre_assignments):
+        """
+        Set pre-assigned shifts that will be forced in the schedule.
+        
+        Args:
+            pre_assignments: dict in format {date_obj: {shift_name: physician_name}}
+            Example: {date(2026, 3, 1): {"Halifax": "Chan", "Toronto": "Lee"}}
+        """
+        self.pre_assignments = pre_assignments
+        logging.info(f"Set {sum(len(shifts) for shifts in pre_assignments.values())} pre-assignments")
+        
+        # Log each pre-assignment
+        for date_obj, shifts in pre_assignments.items():
+            for shift, physician in shifts.items():
+                logging.info(f"Pre-assigned: {date_obj.strftime('%Y-%m-%d')} {shift} → {physician}")
+        
     def process_employee_file(self, file_path):
         """Process an employee preference Excel file in the specific format provided."""
         try:
@@ -187,13 +204,12 @@ class ScheduleGenerator:
         "Shum": 25,
         "Silverstein": 35,
         "Sommer": 55,
-        "Shankar": 25,
+        "Sethuraman": 25,
         "Tan": 35,
         "Van Heer": 30,
         "Waghmare": 40,
         "Yue": 30,
     }
-    
     
     def get_shift_start(self, shift_name):
         return datetime.strptime(self.SHIFT_TIMES[shift_name], "%H:%M")
@@ -231,15 +247,54 @@ class ScheduleGenerator:
                         assignments[(emp, date_obj, shift)] = model.NewBoolVar(f'{emp}_{date_obj}_{shift}')
                     else:
                         assignments[(emp, date_obj, shift)] = model.NewConstant(0)
-
-        # 2) Force Puri’s preferred shifts if available
+        # 2.5) Force pre-assigned shifts (manual assignments)
+        if self.pre_assignments:
+            logging.info("Forcing pre-assigned shifts...")
+            pre_forced_count = 0
+            
+            for date_obj, shifts_dict in self.pre_assignments.items():
+                for shift, physician in shifts_dict.items():
+                    if shift == "Charlottetown":
+                        continue
+                    
+                    key = (physician, date_obj, shift)
+                    if key in assignments:
+                        if not isinstance(assignments[key], int):
+                            model.Add(assignments[key] == 1)
+                            pre_forced_count += 1
+                            logging.debug(f"Pre-forced: {date_obj.strftime('%Y-%m-%d')} {shift} → {physician}")
+                        else:
+                            logging.warning(f"Cannot pre-force: {physician} has no preference for {date_obj.strftime('%Y-%m-%d')} {shift}")
+                    else:
+                        logging.warning(f"Cannot pre-force: {physician} not available for {date_obj.strftime('%Y-%m-%d')} {shift}")
+            
+            logging.info(f"Forced {pre_forced_count} pre-assigned shifts")
+        
+        
+        
+        
+        
+        # 2) Force ALL of Puri's preferred shifts (priority #1)
         if "Puri" in self.employees:
+            logging.info("Forcing ALL of Puri's preferences (priority #1)...")
+            puri_forced_count = 0
             for date_obj in self.dates:
-                for shift, pref in self.employees["Puri"].get('preferences', {}).get(date_obj, {}).items():
+                pref_dict = self.employees["Puri"].get('preferences', {}).get(date_obj, {})
+                for shift, pref in pref_dict.items():
                     if pref in {1, 2, 3} and shift != "Charlottetown":
                         key = ("Puri", date_obj, shift)
                         if key in assignments:
-                            model.Add(assignments[key] == 1)
+                            # Check if it's actually a variable (not a constant 0)
+                            if not isinstance(assignments[key], int):
+                                model.Add(assignments[key] == 1)
+                                puri_forced_count += 1
+                                logging.debug(f"Forced Puri: {date_obj.strftime('%Y-%m-%d')} {shift} (pref {pref})")
+                            else:
+                                logging.warning(f"Cannot force Puri: {date_obj.strftime('%Y-%m-%d')} {shift} - no variable created")
+            
+            logging.info(f"Forced {puri_forced_count} total shifts for Puri")
+        else:
+            logging.info("Puri not found in employees")
 
         # 3) No double booking of a shift on a day
         for date_obj in self.dates:
@@ -412,6 +467,88 @@ class ScheduleGenerator:
         # 12) Solve
         solver = cp_model.CpSolver()
         status = solver.Solve(model)
+
+        # CRITICAL: Set random seed for deterministic results
+        solver.parameters.random_seed = 42
+        solver.parameters.num_search_workers = 1  # Single-threaded for consistency
+        solver.parameters.log_search_progress = True
+        solver.parameters.max_time_in_seconds = 300  # 5 minute timeout
+
+        logging.info("Starting solver with deterministic settings...")
+        status = solver.Solve(model)
+        logging.info(f"Solver status: {solver.StatusName(status)}")
+        logging.info(f"Solve time: {solver.WallTime()} seconds")
+
+        # *** ADD THIS DIAGNOSTIC SECTION ***
+        if status in [cp_model.OPTIMAL, cp_model.FEASIBLE]:
+            logging.info("Solution found - analyzing coverage...")
+            
+            # Count unfilled shifts
+            total_possible_shifts = len(self.dates) * (len(self.shifts) - 1)  # minus Charlottetown
+            filled_shifts = sum(1 for key, var in assignments.items() if solver.Value(var) == 1)
+            unfilled_shifts = total_possible_shifts - filled_shifts
+            
+            logging.info(f"Total possible shifts: {total_possible_shifts}")
+            logging.info(f"Filled shifts: {filled_shifts} ({filled_shifts/total_possible_shifts*100:.1f}%)")
+            logging.info(f"Unfilled shifts: {unfilled_shifts}")
+            
+            # Show which physicians hit their max
+            for emp, emp_data in self.employees.items():
+                emp_vars = [var for (e, _, _), var in assignments.items() if e == emp]
+                if emp_vars:
+                    assigned_count = sum(solver.Value(v) for v in emp_vars)
+                    ranges = emp_data.get('shift_ranges', {})
+                    max_shifts = ranges.get('max', 'N/A')
+                    min_shifts = ranges.get('min', 'N/A')
+                    
+                    if assigned_count == max_shifts:
+                        logging.warning(f"{emp}: HIT MAX LIMIT - {assigned_count}/{max_shifts} (min: {min_shifts})")
+                    else:
+                        logging.info(f"{emp}: {assigned_count}/{max_shifts} shifts (min: {min_shifts})")
+            
+            # Show unfilled shifts by date
+            unfilled_by_date = {}
+            for date_obj in self.dates:
+                unfilled_count = 0
+                for shift in self.shifts:
+                    if shift == "Charlottetown":
+                        continue
+                    shift_filled = False
+                    for emp in self.employees:
+                        key = (emp, date_obj, shift)
+                        if key in assignments and solver.Value(assignments[key]) == 1:
+                            shift_filled = True
+                            break
+                    if not shift_filled:
+                        unfilled_count += 1
+                        if date_obj not in unfilled_by_date:
+                            unfilled_by_date[date_obj] = []
+                        unfilled_by_date[date_obj].append(shift)
+                
+                if unfilled_count > 0:
+                    logging.warning(f"Date {date_obj.strftime('%Y-%m-%d')}: {unfilled_count} unfilled shifts - {unfilled_by_date[date_obj]}")
+
+        elif status == cp_model.INFEASIBLE:
+            logging.error("INFEASIBLE: The constraints cannot be satisfied!")
+            logging.error("Possible reasons:")
+            logging.error("  - Puri's forced shifts conflict with other constraints")
+            logging.error("  - Not enough physicians with preferences for certain shifts")
+            logging.error("  - Max shift limits too restrictive")
+        elif status == cp_model.MODEL_INVALID:
+            logging.error("MODEL INVALID: There's an error in the constraint model")
+        else:
+            logging.error(f"Solver failed with status: {solver.StatusName(status)}")
+
+
+
+
+
+
+
+
+
+
+
 
         # 13) Build schedule with both TALLY (#assigned) and CASELOAD (sum of provider weights)
         schedule = {}
